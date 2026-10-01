@@ -1,0 +1,15 @@
+groups:
+  - name: mini-ai-platform
+    rules:
+      - alert: InferenceDown
+        expr: up{job="vllm"} == 0
+        for: 1m
+
+        labels:
+          severity: critical
+          service: inference
+
+        annotations:
+          summary: vLLM inference service is unavailable
+          description: Prometheus has been unable to scrape vLLM for more than one minute.
+          runbook: docs/runbooks/inference-down.md
