@@ -161,7 +161,6 @@ docker run --rm mini-ai-gateway:0.1.2 python -m pip check
 For a Python 3.12 virtual environment, install `gateway/requirements.txt`, then
 run `python -m unittest discover -s tests -v` from `gateway/`.
 Actual executed results are recorded in [verification notes](docs/verification.md).
-Historical experiments and interview topics are in [engineering notes](docs/interview-notes.md).
 
 ## Troubleshooting and cleanup
 
