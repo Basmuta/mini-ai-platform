@@ -1,11 +1,12 @@
 """Focused gateway tests with an in-memory upstream; no GPU or model needed."""
 import json
 import unittest
+from unittest.mock import patch
 
 import httpx
 from fastapi.testclient import TestClient
 
-from app.main import MODEL_NAME, app
+from app.main import HTTP_REQUESTS_TOTAL, MODEL_NAME, app
 
 
 class GatewayTests(unittest.TestCase):
@@ -78,6 +79,28 @@ class GatewayTests(unittest.TestCase):
                 response = self.client.post("/chat", json={"message": "Hi"})
                 self.assertEqual(response.status_code, 502)
                 self.assertEqual(response.json()["detail"], "Invalid inference response")
+
+    def test_malformed_host_does_not_hide_chat(self):
+        self.upstream = lambda request: httpx.Response(200, json={
+            "choices": [{"message": {"content": "Hello"}}],
+            "model": MODEL_NAME,
+        })
+        counter = HTTP_REQUESTS_TOTAL.labels("POST", "/chat", "200")
+
+        def completed_chats():
+            return next(sample.value for metric in counter.collect()
+                        for sample in metric.samples
+                        if sample.name == "gateway_http_requests_total")
+
+        before = completed_chats()
+        with patch("app.main.logger.info") as log:
+            response = self.client.post("/chat", json={"message": "Hi"},
+                headers={"Host": "example.com/health/live?ignored="})
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(completed_chats(), before + 1)
+        log.assert_called_once()
+        self.assertEqual(json.loads(log.call_args.args[0])["path"], "/chat")
 
     def test_validation_does_not_call_upstream(self):
         for payload in ({}, {"message": ""}, {"message": "x" * 4001},

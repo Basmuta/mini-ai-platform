@@ -45,3 +45,36 @@ Single real chat requests demonstrate functionality, not a performance benchmark
 Alertmanager has a local empty receiver; no email/chat notification was tested.
 Kubernetes tests target Docker Desktop, with inference outside the cluster.
 GPU behavior is verified locally and deliberately excluded from CI.
+
+## Repository review and gateway 0.1.2
+
+An independent review of published commit `7de7b9b` checked all project files
+and 10 commits (40 distinct file versions). No tracked `.env`, API-token,
+or private-key candidates were found. The historical default Grafana password
+remains in Git; its rotation is recorded above and was not independently
+rechecked against the local Grafana instance.
+
+The old FastAPI pin resolved Starlette 0.47.3 with known security advisories.
+A malformed Host header also reproduced a concrete gateway issue: a successful
+`/chat` request could be omitted from logs and request counters. Logging and
+metric exclusions now use the actual ASGI path. FastAPI 0.133.0 and Starlette
+1.3.1 are pinned to compatible patched versions, and a regression test covers
+the missing log/counter case.
+
+Rechecked in an isolated Python 3.12 environment:
+
+- All seven gateway tests passed, including the malformed Host regression.
+- Python syntax compilation and `pip check` passed.
+- `pip-audit -r gateway/requirements.txt` checked 23 resolved Python packages
+  and reported no known vulnerabilities on 14 October 2026. Container images
+  were not vulnerability-scanned.
+- All 10 YAML configuration files parsed; Kubernetes namespace, selectors,
+  Service ports, ConfigMap references, and probe settings were consistent.
+- The Grafana dashboard JSON parsed and all eight panels referenced the
+  provisioned Prometheus datasource.
+
+Docker Desktop, GPU inference, alert firing/recovery, and Kubernetes rollback
+were not rerun in this review environment. The earlier local results above
+apply to gateway 0.1.1. After pulling the changes, rebuild the Compose gateway;
+for Kubernetes, build `mini-ai-gateway:0.1.2` and reapply `k8s/` as documented
+in the README. The new image tag avoids reusing the previous cached gateway.

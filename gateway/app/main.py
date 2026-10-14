@@ -76,7 +76,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="Mini AI Platform Gateway",
-    version="0.1.0",
+    version="0.1.2",
     lifespan=lifespan,
 )
 
@@ -85,6 +85,8 @@ app = FastAPI(
 async def request_logging(request: Request, call_next):
     request_id = request.headers.get("X-Request-ID") or str(uuid.uuid4())
     request.state.request_id = request_id
+    # Use the actual ASGI path; Host must not change logging or metric exclusions.
+    request_path = request.scope["path"]
 
     health_paths = {
         "/health/live",
@@ -105,7 +107,7 @@ async def request_logging(request: Request, call_next):
         route = request.scope.get("route")
         route_path = getattr(route, "path", "unmatched")
 
-        if request.url.path not in metric_excluded_paths:
+        if request_path not in metric_excluded_paths:
             HTTP_REQUESTS_TOTAL.labels(
                 method=request.method,
                 route=route_path,
@@ -123,7 +125,7 @@ async def request_logging(request: Request, call_next):
                     "event": "http_request_failed",
                     "request_id": request_id,
                     "method": request.method,
-                    "path": request.url.path,
+                    "path": request_path,
                     "duration_ms": duration_ms,
                     "error_type": type(error).__name__,
                 }
@@ -140,7 +142,7 @@ async def request_logging(request: Request, call_next):
     route = request.scope.get("route")
     route_path = getattr(route, "path", "unmatched")
 
-    if request.url.path not in metric_excluded_paths:
+    if request_path not in metric_excluded_paths:
         HTTP_REQUESTS_TOTAL.labels(
             method=request.method,
             route=route_path,
@@ -153,7 +155,7 @@ async def request_logging(request: Request, call_next):
         ).observe(duration_seconds)
 
     should_log = (
-        request.url.path not in health_paths
+        request_path not in health_paths
         or response.status_code >= 400
     )
 
@@ -164,7 +166,7 @@ async def request_logging(request: Request, call_next):
                     "event": "http_request_completed",
                     "request_id": request_id,
                     "method": request.method,
-                    "path": request.url.path,
+                    "path": request_path,
                     "status_code": response.status_code,
                     "duration_ms": duration_ms,
                 }

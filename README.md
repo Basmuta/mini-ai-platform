@@ -109,7 +109,7 @@ It is specific to this local setup. Prometheus's gateway target monitors the
 Compose gateway, not the Kubernetes gateway.
 
 ```bash
-docker build -t mini-ai-gateway:0.1.1 gateway
+docker build -t mini-ai-gateway:0.1.2 gateway
 kubectl config current-context  # confirm docker-desktop before applying
 kubectl apply -f k8s/
 kubectl rollout status deployment/gateway -n mini-ai-platform --timeout=90s
@@ -142,19 +142,20 @@ failure. Use a new image tag when updating gateway code.
 ## Tests and CI
 
 One GitHub Actions workflow runs on pushes and pull requests: Python syntax
-checks, six focused `unittest` tests, dependency consistency, Compose validation,
+checks, seven focused `unittest` tests, dependency consistency, Compose validation,
 and a gateway image build. Tests use `httpx.MockTransport` fixtures for success,
 HTTP errors, connection failures, timeouts, malformed responses, validation,
-health checks, request IDs, and metrics. No GPU, vLLM, or model downloads are
-required. Real inference and rollback are verified separately on the local PC.
+health checks, request IDs, metrics, and malformed Host headers. No GPU, vLLM,
+or model downloads are required. Real inference and rollback are verified
+separately on the local PC.
 
 Run the same gateway tests with Docker:
 
 ```bash
-docker build -t mini-ai-gateway:0.1.1 gateway
+docker build -t mini-ai-gateway:0.1.2 gateway
 docker run --rm -v "$PWD/gateway/tests:/app/tests:ro" \
-  mini-ai-gateway:0.1.1 python -m unittest discover -s tests -v
-docker run --rm mini-ai-gateway:0.1.1 python -m pip check
+  mini-ai-gateway:0.1.2 python -m unittest discover -s tests -v
+docker run --rm mini-ai-gateway:0.1.2 python -m pip check
 ```
 
 For a Python 3.12 virtual environment, install `gateway/requirements.txt`, then
