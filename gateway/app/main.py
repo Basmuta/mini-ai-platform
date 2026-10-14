@@ -16,7 +16,6 @@ from prometheus_client import (
 from pydantic import BaseModel, Field
 
 
-
 VLLM_BASE_URL = os.getenv(
     "VLLM_BASE_URL",
     "http://inference:8000",
@@ -192,12 +191,15 @@ class ChatRequest(BaseModel):
         ge=0.0,
         le=2.0,
     )
+
+
 @app.get("/metrics", include_in_schema=False)
 async def metrics():
     return Response(
         content=generate_latest(),
         media_type=CONTENT_TYPE_LATEST,
     )
+
 
 @app.get("/health/live")
 async def liveness():
@@ -263,7 +265,17 @@ async def chat(request: ChatRequest):
             detail="Inference request failed",
         ) from error
 
-    result = response.json()
+    try:
+        result = response.json()
+        content = result["choices"][0]["message"]["content"]
+        model = result["model"]
+        if not isinstance(content, str) or not isinstance(model, str):
+            raise ValueError("Invalid completion fields")
+    except (ValueError, KeyError, IndexError, TypeError) as error:
+        raise HTTPException(
+            status_code=502,
+            detail="Invalid inference response",
+        ) from error
 
     latency_ms = round(
         (time.perf_counter() - started_at) * 1000,
@@ -271,8 +283,8 @@ async def chat(request: ChatRequest):
     )
 
     return {
-        "response": result["choices"][0]["message"]["content"],
-        "model": result["model"],
+        "response": content,
+        "model": model,
         "usage": result.get("usage"),
         "latency_ms": latency_ms,
     }
