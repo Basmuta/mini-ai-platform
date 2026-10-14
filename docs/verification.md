@@ -22,7 +22,7 @@ volumes were retained.
 | Kubernetes bad upstream / rollback | Passed: bad Pod Running 0/1 Ready, live 200, ready 503, direct chat 502; old Pod ready 200; rollback successful |
 | Kubernetes Service chat after rollback | Passed through local port-forward; real Qwen response returned |
 | Secret review | No current secret-pattern candidates or historical private-key/GitHub-token candidates; `.env` ignored; old example Grafana password invalidated by local rotation |
-| GitHub Actions | Pending initial upload; final run will be recorded |
+| GitHub Actions | Passed: [initial push run](https://github.com/Basmuta/mini-ai-platform/actions/runs/38518582151), including syntax, six tests, dependency check, Compose validation, and image build |
 
 ## Issues found and resolved
 
