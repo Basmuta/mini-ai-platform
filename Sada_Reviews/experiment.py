@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 import csv,json,math,re,random
 from collections import Counter
 from pathlib import Path
