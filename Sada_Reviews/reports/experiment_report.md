@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 # صدى | Sada Reviews — تقرير التجارب
 
 ## الملخص التنفيذي
