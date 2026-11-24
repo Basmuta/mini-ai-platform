@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 # صدى | Sada Reviews
 
 **Arabic App Review Intelligence** — نموذج أولي لتحليل مراجعات التطبيقات العربية واللهجات والإنجليزية.
