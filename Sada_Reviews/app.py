@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 import re
 from pathlib import Path
 import pandas as pd
