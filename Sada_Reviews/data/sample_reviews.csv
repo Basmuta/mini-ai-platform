@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 ﻿review,category,sentiment,language,dialect,template_id,split
 يا جماعة، ما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,0,train
 يا جماعة، ما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,1,train
