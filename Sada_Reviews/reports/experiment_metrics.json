@@ -1,0 +1,129 @@
+Warning: fs was declared with const; use let for reassignable variables.
+{
+  "total": 1960,
+  "train": 980,
+  "test": 980,
+  "classes": 7,
+  "dialects": 7,
+  "class_counts": {
+    "login_issue": 280,
+    "crash": 280,
+    "performance": 280,
+    "payment": 280,
+    "usability": 280,
+    "feature_request": 280,
+    "positive_experience": 280
+  },
+  "dialect_counts": {
+    "Saudi Arabic": 280,
+    "Egyptian Arabic": 280,
+    "Moroccan Darija": 280,
+    "Gulf Arabic": 280,
+    "Iraqi Arabic": 280,
+    "Standard English": 280,
+    "Arabizi": 280
+  },
+  "results": {
+    "word": {
+      "accuracy": 0.413265306122449,
+      "macro_f1": 0.37497558933171937
+    },
+    "char": {
+      "accuracy": 0.5928571428571429,
+      "macro_f1": 0.5878202935716644
+    }
+  },
+  "best": "char",
+  "by_dialect": {
+    "Arabizi": {
+      "accuracy": 0.3357142857142857,
+      "macro_f1": 0.32881829745941243
+    },
+    "Egyptian Arabic": {
+      "accuracy": 0.7,
+      "macro_f1": 0.6697651353006603
+    },
+    "Gulf Arabic": {
+      "accuracy": 0.65,
+      "macro_f1": 0.5964366350386768
+    },
+    "Iraqi Arabic": {
+      "accuracy": 0.5214285714285715,
+      "macro_f1": 0.46590887406856146
+    },
+    "Moroccan Darija": {
+      "accuracy": 0.8,
+      "macro_f1": 0.7676220358944611
+    },
+    "Saudi Arabic": {
+      "accuracy": 0.5571428571428572,
+      "macro_f1": 0.5115950445218738
+    },
+    "Standard English": {
+      "accuracy": 0.5857142857142857,
+      "macro_f1": 0.5358591722345258
+    }
+  },
+  "leave_one_dialect_out": {
+    "word": {
+      "Arabizi": {
+        "accuracy": 0.35714285714285715,
+        "macro_f1": 0.2503192848020434
+      },
+      "Egyptian Arabic": {
+        "accuracy": 0.9857142857142858,
+        "macro_f1": 0.9856784819190835
+      },
+      "Gulf Arabic": {
+        "accuracy": 0.9285714285714286,
+        "macro_f1": 0.9221806223420929
+      },
+      "Iraqi Arabic": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Moroccan Darija": {
+        "accuracy": 0.9285714285714286,
+        "macro_f1": 0.9238095238095239
+      },
+      "Saudi Arabic": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Standard English": {
+        "accuracy": 0.35714285714285715,
+        "macro_f1": 0.28205128205128205
+      }
+    },
+    "char": {
+      "Arabizi": {
+        "accuracy": 0.34285714285714286,
+        "macro_f1": 0.34151962360337984
+      },
+      "Egyptian Arabic": {
+        "accuracy": 0.9857142857142858,
+        "macro_f1": 0.9856784819190835
+      },
+      "Gulf Arabic": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Iraqi Arabic": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Moroccan Darija": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Saudi Arabic": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+      },
+      "Standard English": {
+        "accuracy": 0.42142857142857143,
+        "macro_f1": 0.28966178279977567
+      }
+    }
+  }
+}
