@@ -1,0 +1,1962 @@
+Warning: fs was declared with const; use let for reassignable variables.
+﻿review,category,sentiment,language,dialect,template_id,split
+يا جماعة، ما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,0,train
+يا جماعة، ما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,1,train
+يا جماعة، ما اقدر اسجل دخول وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,2,train
+يا جماعة، ما اقدر اسجل دخول مرة,login_issue,negative,Arabic,Saudi Arabic,3,train
+والله ما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,4,train
+والله ما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,5,train
+والله ما اقدر اسجل دخول وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,6,train
+والله ما اقدر اسجل دخول مرة,login_issue,negative,Arabic,Saudi Arabic,7,train
+للأسف ما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,8,train
+للأسف ما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,9,train
+للأسف ما اقدر اسجل دخول وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,10,train
+للأسف ما اقدر اسجل دخول مرة,login_issue,negative,Arabic,Saudi Arabic,11,train
+من امس وما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,12,train
+من امس وما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,13,train
+من امس وما اقدر اسجل دخول وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,14,train
+من امس وما اقدر اسجل دخول مرة,login_issue,negative,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق ما اقدر اسجل دخول,login_issue,negative,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق ما اقدر اسجل دخول من فضلكم,login_issue,negative,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق ما اقدر اسجل دخول وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق ما اقدر اسجل دخول مرة,login_issue,negative,Arabic,Saudi Arabic,19,train
+يا جماعة، كلمة المرور ما تدخلني لحسابي,login_issue,negative,Arabic,Saudi Arabic,0,test
+يا جماعة، كلمة المرور ما تدخلني لحسابي من فضلكم,login_issue,negative,Arabic,Saudi Arabic,1,test
+يا جماعة، كلمة المرور ما تدخلني لحسابي وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,2,test
+يا جماعة، كلمة المرور ما تدخلني لحسابي مرة,login_issue,negative,Arabic,Saudi Arabic,3,test
+والله كلمة المرور ما تدخلني لحسابي,login_issue,negative,Arabic,Saudi Arabic,4,test
+والله كلمة المرور ما تدخلني لحسابي من فضلكم,login_issue,negative,Arabic,Saudi Arabic,5,test
+والله كلمة المرور ما تدخلني لحسابي وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,6,test
+والله كلمة المرور ما تدخلني لحسابي مرة,login_issue,negative,Arabic,Saudi Arabic,7,test
+للأسف كلمة المرور ما تدخلني لحسابي,login_issue,negative,Arabic,Saudi Arabic,8,test
+للأسف كلمة المرور ما تدخلني لحسابي من فضلكم,login_issue,negative,Arabic,Saudi Arabic,9,test
+للأسف كلمة المرور ما تدخلني لحسابي وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,10,test
+للأسف كلمة المرور ما تدخلني لحسابي مرة,login_issue,negative,Arabic,Saudi Arabic,11,test
+من امس وكلمة المرور ما تدخلني لحسابي,login_issue,negative,Arabic,Saudi Arabic,12,test
+من امس وكلمة المرور ما تدخلني لحسابي من فضلكم,login_issue,negative,Arabic,Saudi Arabic,13,test
+من امس وكلمة المرور ما تدخلني لحسابي وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,14,test
+من امس وكلمة المرور ما تدخلني لحسابي مرة,login_issue,negative,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق كلمة المرور ما تدخلني لحسابي,login_issue,negative,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق كلمة المرور ما تدخلني لحسابي من فضلكم,login_issue,negative,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق كلمة المرور ما تدخلني لحسابي وما ضبط معي,login_issue,negative,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق كلمة المرور ما تدخلني لحسابي مرة,login_issue,negative,Arabic,Saudi Arabic,19,test
+يا جماعة، مش عارف اسجل دخول,login_issue,negative,Arabic,Egyptian Arabic,0,train
+يا جماعة، مش عارف اسجل دخول لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,1,train
+يا جماعة، مش عارف اسجل دخول ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,2,train
+يا جماعة، مش عارف اسجل دخول خالص,login_issue,negative,Arabic,Egyptian Arabic,3,train
+بصراحة مش عارف اسجل دخول,login_issue,negative,Arabic,Egyptian Arabic,4,train
+بصراحة مش عارف اسجل دخول لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,5,train
+بصراحة مش عارف اسجل دخول ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,6,train
+بصراحة مش عارف اسجل دخول خالص,login_issue,negative,Arabic,Egyptian Arabic,7,train
+للأسف مش عارف اسجل دخول,login_issue,negative,Arabic,Egyptian Arabic,8,train
+للأسف مش عارف اسجل دخول لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,9,train
+للأسف مش عارف اسجل دخول ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,10,train
+للأسف مش عارف اسجل دخول خالص,login_issue,negative,Arabic,Egyptian Arabic,11,train
+من امبارح ومش عارف اسجل دخول,login_issue,negative,Arabic,Egyptian Arabic,12,train
+من امبارح ومش عارف اسجل دخول لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,13,train
+من امبارح ومش عارف اسجل دخول ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,14,train
+من امبارح ومش عارف اسجل دخول خالص,login_issue,negative,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن مش عارف اسجل دخول,login_issue,negative,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن مش عارف اسجل دخول لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن مش عارف اسجل دخول ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن مش عارف اسجل دخول خالص,login_issue,negative,Arabic,Egyptian Arabic,19,train
+يا جماعة، كلمة السر مش راضية تدخلني,login_issue,negative,Arabic,Egyptian Arabic,0,test
+يا جماعة، كلمة السر مش راضية تدخلني لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,1,test
+يا جماعة، كلمة السر مش راضية تدخلني ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,2,test
+يا جماعة، كلمة السر مش راضية تدخلني خالص,login_issue,negative,Arabic,Egyptian Arabic,3,test
+بصراحة كلمة السر مش راضية تدخلني,login_issue,negative,Arabic,Egyptian Arabic,4,test
+بصراحة كلمة السر مش راضية تدخلني لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,5,test
+بصراحة كلمة السر مش راضية تدخلني ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,6,test
+بصراحة كلمة السر مش راضية تدخلني خالص,login_issue,negative,Arabic,Egyptian Arabic,7,test
+للأسف كلمة السر مش راضية تدخلني,login_issue,negative,Arabic,Egyptian Arabic,8,test
+للأسف كلمة السر مش راضية تدخلني لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,9,test
+للأسف كلمة السر مش راضية تدخلني ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,10,test
+للأسف كلمة السر مش راضية تدخلني خالص,login_issue,negative,Arabic,Egyptian Arabic,11,test
+من امبارح وكلمة السر مش راضية تدخلني,login_issue,negative,Arabic,Egyptian Arabic,12,test
+من امبارح وكلمة السر مش راضية تدخلني لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,13,test
+من امبارح وكلمة السر مش راضية تدخلني ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,14,test
+من امبارح وكلمة السر مش راضية تدخلني خالص,login_issue,negative,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن كلمة السر مش راضية تدخلني,login_issue,negative,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن كلمة السر مش راضية تدخلني لو سمحتوا,login_issue,negative,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن كلمة السر مش راضية تدخلني ومش راضي يشتغل,login_issue,negative,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن كلمة السر مش راضية تدخلني خالص,login_issue,negative,Arabic,Egyptian Arabic,19,test
+عفاكم، ما قادرش ندخل للحساب,login_issue,negative,Arabic,Moroccan Darija,0,train
+عفاكم، ما قادرش ندخل للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,1,train
+عفاكم، ما قادرش ندخل للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,2,train
+عفاكم، ما قادرش ندخل للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,3,train
+بصراحة ما قادرش ندخل للحساب,login_issue,negative,Arabic,Moroccan Darija,4,train
+بصراحة ما قادرش ندخل للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,5,train
+بصراحة ما قادرش ندخل للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,6,train
+بصراحة ما قادرش ندخل للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,7,train
+للأسف ما قادرش ندخل للحساب,login_issue,negative,Arabic,Moroccan Darija,8,train
+للأسف ما قادرش ندخل للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,9,train
+للأسف ما قادرش ندخل للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,10,train
+للأسف ما قادرش ندخل للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,11,train
+من البارح وما قادرش ندخل للحساب,login_issue,negative,Arabic,Moroccan Darija,12,train
+من البارح وما قادرش ندخل للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,13,train
+من البارح وما قادرش ندخل للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,14,train
+من البارح وما قادرش ندخل للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق ما قادرش ندخل للحساب,login_issue,negative,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق ما قادرش ندخل للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق ما قادرش ندخل للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق ما قادرش ندخل للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,19,train
+عفاكم، كلمة السر ما دخلاش للحساب,login_issue,negative,Arabic,Moroccan Darija,0,test
+عفاكم، كلمة السر ما دخلاش للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,1,test
+عفاكم، كلمة السر ما دخلاش للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,2,test
+عفاكم، كلمة السر ما دخلاش للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,3,test
+بصراحة كلمة السر ما دخلاش للحساب,login_issue,negative,Arabic,Moroccan Darija,4,test
+بصراحة كلمة السر ما دخلاش للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,5,test
+بصراحة كلمة السر ما دخلاش للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,6,test
+بصراحة كلمة السر ما دخلاش للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,7,test
+للأسف كلمة السر ما دخلاش للحساب,login_issue,negative,Arabic,Moroccan Darija,8,test
+للأسف كلمة السر ما دخلاش للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,9,test
+للأسف كلمة السر ما دخلاش للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,10,test
+للأسف كلمة السر ما دخلاش للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,11,test
+من البارح وكلمة السر ما دخلاش للحساب,login_issue,negative,Arabic,Moroccan Darija,12,test
+من البارح وكلمة السر ما دخلاش للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,13,test
+من البارح وكلمة السر ما دخلاش للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,14,test
+من البارح وكلمة السر ما دخلاش للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق كلمة السر ما دخلاش للحساب,login_issue,negative,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق كلمة السر ما دخلاش للحساب عافاكم,login_issue,negative,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق كلمة السر ما دخلاش للحساب وما خدامش,login_issue,negative,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق كلمة السر ما دخلاش للحساب بزاف,login_issue,negative,Arabic,Moroccan Darija,19,test
+يا جماعة، مو قادر ادخل حسابي,login_issue,negative,Arabic,Gulf Arabic,0,train
+يا جماعة، مو قادر ادخل حسابي لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,1,train
+يا جماعة، مو قادر ادخل حسابي وما يضبط,login_issue,negative,Arabic,Gulf Arabic,2,train
+يا جماعة، مو قادر ادخل حسابي وايد,login_issue,negative,Arabic,Gulf Arabic,3,train
+والله مو قادر ادخل حسابي,login_issue,negative,Arabic,Gulf Arabic,4,train
+والله مو قادر ادخل حسابي لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,5,train
+والله مو قادر ادخل حسابي وما يضبط,login_issue,negative,Arabic,Gulf Arabic,6,train
+والله مو قادر ادخل حسابي وايد,login_issue,negative,Arabic,Gulf Arabic,7,train
+للأسف مو قادر ادخل حسابي,login_issue,negative,Arabic,Gulf Arabic,8,train
+للأسف مو قادر ادخل حسابي لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,9,train
+للأسف مو قادر ادخل حسابي وما يضبط,login_issue,negative,Arabic,Gulf Arabic,10,train
+للأسف مو قادر ادخل حسابي وايد,login_issue,negative,Arabic,Gulf Arabic,11,train
+من امس ومو قادر ادخل حسابي,login_issue,negative,Arabic,Gulf Arabic,12,train
+من امس ومو قادر ادخل حسابي لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,13,train
+من امس ومو قادر ادخل حسابي وما يضبط,login_issue,negative,Arabic,Gulf Arabic,14,train
+من امس ومو قادر ادخل حسابي وايد,login_issue,negative,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق مو قادر ادخل حسابي,login_issue,negative,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق مو قادر ادخل حسابي لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق مو قادر ادخل حسابي وما يضبط,login_issue,negative,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق مو قادر ادخل حسابي وايد,login_issue,negative,Arabic,Gulf Arabic,19,train
+يا جماعة، كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Gulf Arabic,0,test
+يا جماعة، كلمة السر ما تدخلني للحساب لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,1,test
+يا جماعة، كلمة السر ما تدخلني للحساب وما يضبط,login_issue,negative,Arabic,Gulf Arabic,2,test
+يا جماعة، كلمة السر ما تدخلني للحساب وايد,login_issue,negative,Arabic,Gulf Arabic,3,test
+والله كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Gulf Arabic,4,test
+والله كلمة السر ما تدخلني للحساب لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,5,test
+والله كلمة السر ما تدخلني للحساب وما يضبط,login_issue,negative,Arabic,Gulf Arabic,6,test
+والله كلمة السر ما تدخلني للحساب وايد,login_issue,negative,Arabic,Gulf Arabic,7,test
+للأسف كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Gulf Arabic,8,test
+للأسف كلمة السر ما تدخلني للحساب لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,9,test
+للأسف كلمة السر ما تدخلني للحساب وما يضبط,login_issue,negative,Arabic,Gulf Arabic,10,test
+للأسف كلمة السر ما تدخلني للحساب وايد,login_issue,negative,Arabic,Gulf Arabic,11,test
+من امس وكلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Gulf Arabic,12,test
+من امس وكلمة السر ما تدخلني للحساب لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,13,test
+من امس وكلمة السر ما تدخلني للحساب وما يضبط,login_issue,negative,Arabic,Gulf Arabic,14,test
+من امس وكلمة السر ما تدخلني للحساب وايد,login_issue,negative,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب لو سمحتوا,login_issue,negative,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب وما يضبط,login_issue,negative,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب وايد,login_issue,negative,Arabic,Gulf Arabic,19,test
+شباب، ما اكدر اسجل دخول,login_issue,negative,Arabic,Iraqi Arabic,0,train
+شباب، ما اكدر اسجل دخول اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,1,train
+شباب، ما اكدر اسجل دخول وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,2,train
+شباب، ما اكدر اسجل دخول كلش,login_issue,negative,Arabic,Iraqi Arabic,3,train
+والله ما اكدر اسجل دخول,login_issue,negative,Arabic,Iraqi Arabic,4,train
+والله ما اكدر اسجل دخول اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,5,train
+والله ما اكدر اسجل دخول وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,6,train
+والله ما اكدر اسجل دخول كلش,login_issue,negative,Arabic,Iraqi Arabic,7,train
+للأسف ما اكدر اسجل دخول,login_issue,negative,Arabic,Iraqi Arabic,8,train
+للأسف ما اكدر اسجل دخول اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,9,train
+للأسف ما اكدر اسجل دخول وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,10,train
+للأسف ما اكدر اسجل دخول كلش,login_issue,negative,Arabic,Iraqi Arabic,11,train
+من البارحة وما اكدر اسجل دخول,login_issue,negative,Arabic,Iraqi Arabic,12,train
+من البارحة وما اكدر اسجل دخول اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,13,train
+من البارحة وما اكدر اسجل دخول وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,14,train
+من البارحة وما اكدر اسجل دخول كلش,login_issue,negative,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق ما اكدر اسجل دخول,login_issue,negative,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق ما اكدر اسجل دخول اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق ما اكدر اسجل دخول وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق ما اكدر اسجل دخول كلش,login_issue,negative,Arabic,Iraqi Arabic,19,train
+شباب، كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Iraqi Arabic,0,test
+شباب، كلمة السر ما تدخلني للحساب اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,1,test
+شباب، كلمة السر ما تدخلني للحساب وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,2,test
+شباب، كلمة السر ما تدخلني للحساب كلش,login_issue,negative,Arabic,Iraqi Arabic,3,test
+والله كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Iraqi Arabic,4,test
+والله كلمة السر ما تدخلني للحساب اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,5,test
+والله كلمة السر ما تدخلني للحساب وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,6,test
+والله كلمة السر ما تدخلني للحساب كلش,login_issue,negative,Arabic,Iraqi Arabic,7,test
+للأسف كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Iraqi Arabic,8,test
+للأسف كلمة السر ما تدخلني للحساب اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,9,test
+للأسف كلمة السر ما تدخلني للحساب وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,10,test
+للأسف كلمة السر ما تدخلني للحساب كلش,login_issue,negative,Arabic,Iraqi Arabic,11,test
+من البارحة وكلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Iraqi Arabic,12,test
+من البارحة وكلمة السر ما تدخلني للحساب اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,13,test
+من البارحة وكلمة السر ما تدخلني للحساب وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,14,test
+من البارحة وكلمة السر ما تدخلني للحساب كلش,login_issue,negative,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب,login_issue,negative,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب اذا ممكن,login_issue,negative,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب وما يشتغل,login_issue,negative,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق كلمة السر ما تدخلني للحساب كلش,login_issue,negative,Arabic,Iraqi Arabic,19,test
+"Honestly, can't log into my account",login_issue,negative,English,Standard English,0,train
+"Honestly, can't log into my account please",login_issue,negative,English,Standard English,1,train
+"Honestly, can't log into my account and it still does not work",login_issue,negative,English,Standard English,2,train
+"Honestly, can't log into my account lately",login_issue,negative,English,Standard English,3,train
+"Unfortunately, can't log into my account",login_issue,negative,English,Standard English,4,train
+"Unfortunately, can't log into my account please",login_issue,negative,English,Standard English,5,train
+"Unfortunately, can't log into my account and it still does not work",login_issue,negative,English,Standard English,6,train
+"Unfortunately, can't log into my account lately",login_issue,negative,English,Standard English,7,train
+"Since yesterday, can't log into my account",login_issue,negative,English,Standard English,8,train
+"Since yesterday, can't log into my account please",login_issue,negative,English,Standard English,9,train
+"Since yesterday, can't log into my account and it still does not work",login_issue,negative,English,Standard English,10,train
+"Since yesterday, can't log into my account lately",login_issue,negative,English,Standard English,11,train
+"Whenever I open the app, can't log into my account",login_issue,negative,English,Standard English,12,train
+"Whenever I open the app, can't log into my account please",login_issue,negative,English,Standard English,13,train
+"Whenever I open the app, can't log into my account and it still does not work",login_issue,negative,English,Standard English,14,train
+"Whenever I open the app, can't log into my account lately",login_issue,negative,English,Standard English,15,train
+Please note: can't log into my account,login_issue,negative,English,Standard English,16,train
+Please note: can't log into my account please,login_issue,negative,English,Standard English,17,train
+Please note: can't log into my account and it still does not work,login_issue,negative,English,Standard English,18,train
+Please note: can't log into my account lately,login_issue,negative,English,Standard English,19,train
+"Honestly, my password will not let me into the account",login_issue,negative,English,Standard English,0,test
+"Honestly, my password will not let me into the account please",login_issue,negative,English,Standard English,1,test
+"Honestly, my password will not let me into the account and it still does not work",login_issue,negative,English,Standard English,2,test
+"Honestly, my password will not let me into the account lately",login_issue,negative,English,Standard English,3,test
+"Unfortunately, my password will not let me into the account",login_issue,negative,English,Standard English,4,test
+"Unfortunately, my password will not let me into the account please",login_issue,negative,English,Standard English,5,test
+"Unfortunately, my password will not let me into the account and it still does not work",login_issue,negative,English,Standard English,6,test
+"Unfortunately, my password will not let me into the account lately",login_issue,negative,English,Standard English,7,test
+"Since yesterday, my password will not let me into the account",login_issue,negative,English,Standard English,8,test
+"Since yesterday, my password will not let me into the account please",login_issue,negative,English,Standard English,9,test
+"Since yesterday, my password will not let me into the account and it still does not work",login_issue,negative,English,Standard English,10,test
+"Since yesterday, my password will not let me into the account lately",login_issue,negative,English,Standard English,11,test
+"Whenever I open the app, my password will not let me into the account",login_issue,negative,English,Standard English,12,test
+"Whenever I open the app, my password will not let me into the account please",login_issue,negative,English,Standard English,13,test
+"Whenever I open the app, my password will not let me into the account and it still does not work",login_issue,negative,English,Standard English,14,test
+"Whenever I open the app, my password will not let me into the account lately",login_issue,negative,English,Standard English,15,test
+Please note: my password will not let me into the account,login_issue,negative,English,Standard English,16,test
+Please note: my password will not let me into the account please,login_issue,negative,English,Standard English,17,test
+Please note: my password will not let me into the account and it still does not work,login_issue,negative,English,Standard English,18,test
+Please note: my password will not let me into the account lately,login_issue,negative,English,Standard English,19,test
+"ya jama3a, ma agdar asajel d5ool",login_issue,negative,Arabizi,Arabizi,0,train
+"ya jama3a, ma agdar asajel d5ool please",login_issue,negative,Arabizi,Arabizi,1,train
+"ya jama3a, ma agdar asajel d5ool w ma zabat",login_issue,negative,Arabizi,Arabizi,2,train
+"ya jama3a, ma agdar asajel d5ool lately",login_issue,negative,Arabizi,Arabizi,3,train
+wallah ma agdar asajel d5ool,login_issue,negative,Arabizi,Arabizi,4,train
+wallah ma agdar asajel d5ool please,login_issue,negative,Arabizi,Arabizi,5,train
+wallah ma agdar asajel d5ool w ma zabat,login_issue,negative,Arabizi,Arabizi,6,train
+wallah ma agdar asajel d5ool lately,login_issue,negative,Arabizi,Arabizi,7,train
+l2asaf ma agdar asajel d5ool,login_issue,negative,Arabizi,Arabizi,8,train
+l2asaf ma agdar asajel d5ool please,login_issue,negative,Arabizi,Arabizi,9,train
+l2asaf ma agdar asajel d5ool w ma zabat,login_issue,negative,Arabizi,Arabizi,10,train
+l2asaf ma agdar asajel d5ool lately,login_issue,negative,Arabizi,Arabizi,11,train
+men embare7 wma agdar asajel d5ool,login_issue,negative,Arabizi,Arabizi,12,train
+men embare7 wma agdar asajel d5ool please,login_issue,negative,Arabizi,Arabizi,13,train
+men embare7 wma agdar asajel d5ool w ma zabat,login_issue,negative,Arabizi,Arabizi,14,train
+men embare7 wma agdar asajel d5ool lately,login_issue,negative,Arabizi,Arabizi,15,train
+kol ma afta7 el app ma agdar asajel d5ool,login_issue,negative,Arabizi,Arabizi,16,train
+kol ma afta7 el app ma agdar asajel d5ool please,login_issue,negative,Arabizi,Arabizi,17,train
+kol ma afta7 el app ma agdar asajel d5ool w ma zabat,login_issue,negative,Arabizi,Arabizi,18,train
+kol ma afta7 el app ma agdar asajel d5ool lately,login_issue,negative,Arabizi,Arabizi,19,train
+"ya jama3a, kelmet el ser mesh radya ted5elny",login_issue,negative,Arabizi,Arabizi,0,test
+"ya jama3a, kelmet el ser mesh radya ted5elny please",login_issue,negative,Arabizi,Arabizi,1,test
+"ya jama3a, kelmet el ser mesh radya ted5elny w ma zabat",login_issue,negative,Arabizi,Arabizi,2,test
+"ya jama3a, kelmet el ser mesh radya ted5elny lately",login_issue,negative,Arabizi,Arabizi,3,test
+wallah kelmet el ser mesh radya ted5elny,login_issue,negative,Arabizi,Arabizi,4,test
+wallah kelmet el ser mesh radya ted5elny please,login_issue,negative,Arabizi,Arabizi,5,test
+wallah kelmet el ser mesh radya ted5elny w ma zabat,login_issue,negative,Arabizi,Arabizi,6,test
+wallah kelmet el ser mesh radya ted5elny lately,login_issue,negative,Arabizi,Arabizi,7,test
+l2asaf kelmet el ser mesh radya ted5elny,login_issue,negative,Arabizi,Arabizi,8,test
+l2asaf kelmet el ser mesh radya ted5elny please,login_issue,negative,Arabizi,Arabizi,9,test
+l2asaf kelmet el ser mesh radya ted5elny w ma zabat,login_issue,negative,Arabizi,Arabizi,10,test
+l2asaf kelmet el ser mesh radya ted5elny lately,login_issue,negative,Arabizi,Arabizi,11,test
+men embare7 wkelmet el ser mesh radya ted5elny,login_issue,negative,Arabizi,Arabizi,12,test
+men embare7 wkelmet el ser mesh radya ted5elny please,login_issue,negative,Arabizi,Arabizi,13,test
+men embare7 wkelmet el ser mesh radya ted5elny w ma zabat,login_issue,negative,Arabizi,Arabizi,14,test
+men embare7 wkelmet el ser mesh radya ted5elny lately,login_issue,negative,Arabizi,Arabizi,15,test
+kol ma afta7 el app kelmet el ser mesh radya ted5elny,login_issue,negative,Arabizi,Arabizi,16,test
+kol ma afta7 el app kelmet el ser mesh radya ted5elny please,login_issue,negative,Arabizi,Arabizi,17,test
+kol ma afta7 el app kelmet el ser mesh radya ted5elny w ma zabat,login_issue,negative,Arabizi,Arabizi,18,test
+kol ma afta7 el app kelmet el ser mesh radya ted5elny lately,login_issue,negative,Arabizi,Arabizi,19,test
+يا جماعة، التطبيق يقفل فجأة,crash,negative,Arabic,Saudi Arabic,0,train
+يا جماعة، التطبيق يقفل فجأة من فضلكم,crash,negative,Arabic,Saudi Arabic,1,train
+يا جماعة، التطبيق يقفل فجأة وما ضبط معي,crash,negative,Arabic,Saudi Arabic,2,train
+يا جماعة، التطبيق يقفل فجأة مرة,crash,negative,Arabic,Saudi Arabic,3,train
+والله التطبيق يقفل فجأة,crash,negative,Arabic,Saudi Arabic,4,train
+والله التطبيق يقفل فجأة من فضلكم,crash,negative,Arabic,Saudi Arabic,5,train
+والله التطبيق يقفل فجأة وما ضبط معي,crash,negative,Arabic,Saudi Arabic,6,train
+والله التطبيق يقفل فجأة مرة,crash,negative,Arabic,Saudi Arabic,7,train
+للأسف التطبيق يقفل فجأة,crash,negative,Arabic,Saudi Arabic,8,train
+للأسف التطبيق يقفل فجأة من فضلكم,crash,negative,Arabic,Saudi Arabic,9,train
+للأسف التطبيق يقفل فجأة وما ضبط معي,crash,negative,Arabic,Saudi Arabic,10,train
+للأسف التطبيق يقفل فجأة مرة,crash,negative,Arabic,Saudi Arabic,11,train
+من امس والتطبيق يقفل فجأة,crash,negative,Arabic,Saudi Arabic,12,train
+من امس والتطبيق يقفل فجأة من فضلكم,crash,negative,Arabic,Saudi Arabic,13,train
+من امس والتطبيق يقفل فجأة وما ضبط معي,crash,negative,Arabic,Saudi Arabic,14,train
+من امس والتطبيق يقفل فجأة مرة,crash,negative,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق التطبيق يقفل فجأة,crash,negative,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق التطبيق يقفل فجأة من فضلكم,crash,negative,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق التطبيق يقفل فجأة وما ضبط معي,crash,negative,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق التطبيق يقفل فجأة مرة,crash,negative,Arabic,Saudi Arabic,19,train
+يا جماعة، الشاشة تسود ويطلعني,crash,negative,Arabic,Saudi Arabic,0,test
+يا جماعة، الشاشة تسود ويطلعني من فضلكم,crash,negative,Arabic,Saudi Arabic,1,test
+يا جماعة، الشاشة تسود ويطلعني وما ضبط معي,crash,negative,Arabic,Saudi Arabic,2,test
+يا جماعة، الشاشة تسود ويطلعني مرة,crash,negative,Arabic,Saudi Arabic,3,test
+والله الشاشة تسود ويطلعني,crash,negative,Arabic,Saudi Arabic,4,test
+والله الشاشة تسود ويطلعني من فضلكم,crash,negative,Arabic,Saudi Arabic,5,test
+والله الشاشة تسود ويطلعني وما ضبط معي,crash,negative,Arabic,Saudi Arabic,6,test
+والله الشاشة تسود ويطلعني مرة,crash,negative,Arabic,Saudi Arabic,7,test
+للأسف الشاشة تسود ويطلعني,crash,negative,Arabic,Saudi Arabic,8,test
+للأسف الشاشة تسود ويطلعني من فضلكم,crash,negative,Arabic,Saudi Arabic,9,test
+للأسف الشاشة تسود ويطلعني وما ضبط معي,crash,negative,Arabic,Saudi Arabic,10,test
+للأسف الشاشة تسود ويطلعني مرة,crash,negative,Arabic,Saudi Arabic,11,test
+من امس والشاشة تسود ويطلعني,crash,negative,Arabic,Saudi Arabic,12,test
+من امس والشاشة تسود ويطلعني من فضلكم,crash,negative,Arabic,Saudi Arabic,13,test
+من امس والشاشة تسود ويطلعني وما ضبط معي,crash,negative,Arabic,Saudi Arabic,14,test
+من امس والشاشة تسود ويطلعني مرة,crash,negative,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق الشاشة تسود ويطلعني,crash,negative,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق الشاشة تسود ويطلعني من فضلكم,crash,negative,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق الشاشة تسود ويطلعني وما ضبط معي,crash,negative,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق الشاشة تسود ويطلعني مرة,crash,negative,Arabic,Saudi Arabic,19,test
+يا جماعة، الابلكيشن بيقفل لوحده,crash,negative,Arabic,Egyptian Arabic,0,train
+يا جماعة، الابلكيشن بيقفل لوحده لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,1,train
+يا جماعة، الابلكيشن بيقفل لوحده ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,2,train
+يا جماعة، الابلكيشن بيقفل لوحده خالص,crash,negative,Arabic,Egyptian Arabic,3,train
+بصراحة الابلكيشن بيقفل لوحده,crash,negative,Arabic,Egyptian Arabic,4,train
+بصراحة الابلكيشن بيقفل لوحده لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,5,train
+بصراحة الابلكيشن بيقفل لوحده ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,6,train
+بصراحة الابلكيشن بيقفل لوحده خالص,crash,negative,Arabic,Egyptian Arabic,7,train
+للأسف الابلكيشن بيقفل لوحده,crash,negative,Arabic,Egyptian Arabic,8,train
+للأسف الابلكيشن بيقفل لوحده لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,9,train
+للأسف الابلكيشن بيقفل لوحده ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,10,train
+للأسف الابلكيشن بيقفل لوحده خالص,crash,negative,Arabic,Egyptian Arabic,11,train
+من امبارح والابلكيشن بيقفل لوحده,crash,negative,Arabic,Egyptian Arabic,12,train
+من امبارح والابلكيشن بيقفل لوحده لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,13,train
+من امبارح والابلكيشن بيقفل لوحده ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,14,train
+من امبارح والابلكيشن بيقفل لوحده خالص,crash,negative,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن الابلكيشن بيقفل لوحده,crash,negative,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن الابلكيشن بيقفل لوحده لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن الابلكيشن بيقفل لوحده ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن الابلكيشن بيقفل لوحده خالص,crash,negative,Arabic,Egyptian Arabic,19,train
+يا جماعة، الشاشة بتسود ويخرجني,crash,negative,Arabic,Egyptian Arabic,0,test
+يا جماعة، الشاشة بتسود ويخرجني لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,1,test
+يا جماعة، الشاشة بتسود ويخرجني ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,2,test
+يا جماعة، الشاشة بتسود ويخرجني خالص,crash,negative,Arabic,Egyptian Arabic,3,test
+بصراحة الشاشة بتسود ويخرجني,crash,negative,Arabic,Egyptian Arabic,4,test
+بصراحة الشاشة بتسود ويخرجني لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,5,test
+بصراحة الشاشة بتسود ويخرجني ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,6,test
+بصراحة الشاشة بتسود ويخرجني خالص,crash,negative,Arabic,Egyptian Arabic,7,test
+للأسف الشاشة بتسود ويخرجني,crash,negative,Arabic,Egyptian Arabic,8,test
+للأسف الشاشة بتسود ويخرجني لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,9,test
+للأسف الشاشة بتسود ويخرجني ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,10,test
+للأسف الشاشة بتسود ويخرجني خالص,crash,negative,Arabic,Egyptian Arabic,11,test
+من امبارح والشاشة بتسود ويخرجني,crash,negative,Arabic,Egyptian Arabic,12,test
+من امبارح والشاشة بتسود ويخرجني لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,13,test
+من امبارح والشاشة بتسود ويخرجني ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,14,test
+من امبارح والشاشة بتسود ويخرجني خالص,crash,negative,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن الشاشة بتسود ويخرجني,crash,negative,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن الشاشة بتسود ويخرجني لو سمحتوا,crash,negative,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن الشاشة بتسود ويخرجني ومش راضي يشتغل,crash,negative,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن الشاشة بتسود ويخرجني خالص,crash,negative,Arabic,Egyptian Arabic,19,test
+عفاكم، التطبيق كيخرج بوحدو,crash,negative,Arabic,Moroccan Darija,0,train
+عفاكم، التطبيق كيخرج بوحدو عافاكم,crash,negative,Arabic,Moroccan Darija,1,train
+عفاكم، التطبيق كيخرج بوحدو وما خدامش,crash,negative,Arabic,Moroccan Darija,2,train
+عفاكم، التطبيق كيخرج بوحدو بزاف,crash,negative,Arabic,Moroccan Darija,3,train
+بصراحة التطبيق كيخرج بوحدو,crash,negative,Arabic,Moroccan Darija,4,train
+بصراحة التطبيق كيخرج بوحدو عافاكم,crash,negative,Arabic,Moroccan Darija,5,train
+بصراحة التطبيق كيخرج بوحدو وما خدامش,crash,negative,Arabic,Moroccan Darija,6,train
+بصراحة التطبيق كيخرج بوحدو بزاف,crash,negative,Arabic,Moroccan Darija,7,train
+للأسف التطبيق كيخرج بوحدو,crash,negative,Arabic,Moroccan Darija,8,train
+للأسف التطبيق كيخرج بوحدو عافاكم,crash,negative,Arabic,Moroccan Darija,9,train
+للأسف التطبيق كيخرج بوحدو وما خدامش,crash,negative,Arabic,Moroccan Darija,10,train
+للأسف التطبيق كيخرج بوحدو بزاف,crash,negative,Arabic,Moroccan Darija,11,train
+من البارح والتطبيق كيخرج بوحدو,crash,negative,Arabic,Moroccan Darija,12,train
+من البارح والتطبيق كيخرج بوحدو عافاكم,crash,negative,Arabic,Moroccan Darija,13,train
+من البارح والتطبيق كيخرج بوحدو وما خدامش,crash,negative,Arabic,Moroccan Darija,14,train
+من البارح والتطبيق كيخرج بوحدو بزاف,crash,negative,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق التطبيق كيخرج بوحدو,crash,negative,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق التطبيق كيخرج بوحدو عافاكم,crash,negative,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق التطبيق كيخرج بوحدو وما خدامش,crash,negative,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق التطبيق كيخرج بوحدو بزاف,crash,negative,Arabic,Moroccan Darija,19,train
+عفاكم، الشاشة كتولي كحلة وكيخرجني,crash,negative,Arabic,Moroccan Darija,0,test
+عفاكم، الشاشة كتولي كحلة وكيخرجني عافاكم,crash,negative,Arabic,Moroccan Darija,1,test
+عفاكم، الشاشة كتولي كحلة وكيخرجني وما خدامش,crash,negative,Arabic,Moroccan Darija,2,test
+عفاكم، الشاشة كتولي كحلة وكيخرجني بزاف,crash,negative,Arabic,Moroccan Darija,3,test
+بصراحة الشاشة كتولي كحلة وكيخرجني,crash,negative,Arabic,Moroccan Darija,4,test
+بصراحة الشاشة كتولي كحلة وكيخرجني عافاكم,crash,negative,Arabic,Moroccan Darija,5,test
+بصراحة الشاشة كتولي كحلة وكيخرجني وما خدامش,crash,negative,Arabic,Moroccan Darija,6,test
+بصراحة الشاشة كتولي كحلة وكيخرجني بزاف,crash,negative,Arabic,Moroccan Darija,7,test
+للأسف الشاشة كتولي كحلة وكيخرجني,crash,negative,Arabic,Moroccan Darija,8,test
+للأسف الشاشة كتولي كحلة وكيخرجني عافاكم,crash,negative,Arabic,Moroccan Darija,9,test
+للأسف الشاشة كتولي كحلة وكيخرجني وما خدامش,crash,negative,Arabic,Moroccan Darija,10,test
+للأسف الشاشة كتولي كحلة وكيخرجني بزاف,crash,negative,Arabic,Moroccan Darija,11,test
+من البارح والشاشة كتولي كحلة وكيخرجني,crash,negative,Arabic,Moroccan Darija,12,test
+من البارح والشاشة كتولي كحلة وكيخرجني عافاكم,crash,negative,Arabic,Moroccan Darija,13,test
+من البارح والشاشة كتولي كحلة وكيخرجني وما خدامش,crash,negative,Arabic,Moroccan Darija,14,test
+من البارح والشاشة كتولي كحلة وكيخرجني بزاف,crash,negative,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق الشاشة كتولي كحلة وكيخرجني,crash,negative,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق الشاشة كتولي كحلة وكيخرجني عافاكم,crash,negative,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق الشاشة كتولي كحلة وكيخرجني وما خدامش,crash,negative,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق الشاشة كتولي كحلة وكيخرجني بزاف,crash,negative,Arabic,Moroccan Darija,19,test
+يا جماعة، التطبيق يفصل فجأة,crash,negative,Arabic,Gulf Arabic,0,train
+يا جماعة، التطبيق يفصل فجأة لو سمحتوا,crash,negative,Arabic,Gulf Arabic,1,train
+يا جماعة، التطبيق يفصل فجأة وما يضبط,crash,negative,Arabic,Gulf Arabic,2,train
+يا جماعة، التطبيق يفصل فجأة وايد,crash,negative,Arabic,Gulf Arabic,3,train
+والله التطبيق يفصل فجأة,crash,negative,Arabic,Gulf Arabic,4,train
+والله التطبيق يفصل فجأة لو سمحتوا,crash,negative,Arabic,Gulf Arabic,5,train
+والله التطبيق يفصل فجأة وما يضبط,crash,negative,Arabic,Gulf Arabic,6,train
+والله التطبيق يفصل فجأة وايد,crash,negative,Arabic,Gulf Arabic,7,train
+للأسف التطبيق يفصل فجأة,crash,negative,Arabic,Gulf Arabic,8,train
+للأسف التطبيق يفصل فجأة لو سمحتوا,crash,negative,Arabic,Gulf Arabic,9,train
+للأسف التطبيق يفصل فجأة وما يضبط,crash,negative,Arabic,Gulf Arabic,10,train
+للأسف التطبيق يفصل فجأة وايد,crash,negative,Arabic,Gulf Arabic,11,train
+من امس والتطبيق يفصل فجأة,crash,negative,Arabic,Gulf Arabic,12,train
+من امس والتطبيق يفصل فجأة لو سمحتوا,crash,negative,Arabic,Gulf Arabic,13,train
+من امس والتطبيق يفصل فجأة وما يضبط,crash,negative,Arabic,Gulf Arabic,14,train
+من امس والتطبيق يفصل فجأة وايد,crash,negative,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق التطبيق يفصل فجأة,crash,negative,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق التطبيق يفصل فجأة لو سمحتوا,crash,negative,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق التطبيق يفصل فجأة وما يضبط,crash,negative,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق التطبيق يفصل فجأة وايد,crash,negative,Arabic,Gulf Arabic,19,train
+يا جماعة، يهنق ويطلعني من البرنامج,crash,negative,Arabic,Gulf Arabic,0,test
+يا جماعة، يهنق ويطلعني من البرنامج لو سمحتوا,crash,negative,Arabic,Gulf Arabic,1,test
+يا جماعة، يهنق ويطلعني من البرنامج وما يضبط,crash,negative,Arabic,Gulf Arabic,2,test
+يا جماعة، يهنق ويطلعني من البرنامج وايد,crash,negative,Arabic,Gulf Arabic,3,test
+والله يهنق ويطلعني من البرنامج,crash,negative,Arabic,Gulf Arabic,4,test
+والله يهنق ويطلعني من البرنامج لو سمحتوا,crash,negative,Arabic,Gulf Arabic,5,test
+والله يهنق ويطلعني من البرنامج وما يضبط,crash,negative,Arabic,Gulf Arabic,6,test
+والله يهنق ويطلعني من البرنامج وايد,crash,negative,Arabic,Gulf Arabic,7,test
+للأسف يهنق ويطلعني من البرنامج,crash,negative,Arabic,Gulf Arabic,8,test
+للأسف يهنق ويطلعني من البرنامج لو سمحتوا,crash,negative,Arabic,Gulf Arabic,9,test
+للأسف يهنق ويطلعني من البرنامج وما يضبط,crash,negative,Arabic,Gulf Arabic,10,test
+للأسف يهنق ويطلعني من البرنامج وايد,crash,negative,Arabic,Gulf Arabic,11,test
+من امس ويهنق ويطلعني من البرنامج,crash,negative,Arabic,Gulf Arabic,12,test
+من امس ويهنق ويطلعني من البرنامج لو سمحتوا,crash,negative,Arabic,Gulf Arabic,13,test
+من امس ويهنق ويطلعني من البرنامج وما يضبط,crash,negative,Arabic,Gulf Arabic,14,test
+من امس ويهنق ويطلعني من البرنامج وايد,crash,negative,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق يهنق ويطلعني من البرنامج,crash,negative,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق يهنق ويطلعني من البرنامج لو سمحتوا,crash,negative,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق يهنق ويطلعني من البرنامج وما يضبط,crash,negative,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق يهنق ويطلعني من البرنامج وايد,crash,negative,Arabic,Gulf Arabic,19,test
+شباب، التطبيق يسد فجأة,crash,negative,Arabic,Iraqi Arabic,0,train
+شباب، التطبيق يسد فجأة اذا ممكن,crash,negative,Arabic,Iraqi Arabic,1,train
+شباب، التطبيق يسد فجأة وما يشتغل,crash,negative,Arabic,Iraqi Arabic,2,train
+شباب، التطبيق يسد فجأة كلش,crash,negative,Arabic,Iraqi Arabic,3,train
+والله التطبيق يسد فجأة,crash,negative,Arabic,Iraqi Arabic,4,train
+والله التطبيق يسد فجأة اذا ممكن,crash,negative,Arabic,Iraqi Arabic,5,train
+والله التطبيق يسد فجأة وما يشتغل,crash,negative,Arabic,Iraqi Arabic,6,train
+والله التطبيق يسد فجأة كلش,crash,negative,Arabic,Iraqi Arabic,7,train
+للأسف التطبيق يسد فجأة,crash,negative,Arabic,Iraqi Arabic,8,train
+للأسف التطبيق يسد فجأة اذا ممكن,crash,negative,Arabic,Iraqi Arabic,9,train
+للأسف التطبيق يسد فجأة وما يشتغل,crash,negative,Arabic,Iraqi Arabic,10,train
+للأسف التطبيق يسد فجأة كلش,crash,negative,Arabic,Iraqi Arabic,11,train
+من البارحة والتطبيق يسد فجأة,crash,negative,Arabic,Iraqi Arabic,12,train
+من البارحة والتطبيق يسد فجأة اذا ممكن,crash,negative,Arabic,Iraqi Arabic,13,train
+من البارحة والتطبيق يسد فجأة وما يشتغل,crash,negative,Arabic,Iraqi Arabic,14,train
+من البارحة والتطبيق يسد فجأة كلش,crash,negative,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق التطبيق يسد فجأة,crash,negative,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق التطبيق يسد فجأة اذا ممكن,crash,negative,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق التطبيق يسد فجأة وما يشتغل,crash,negative,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق التطبيق يسد فجأة كلش,crash,negative,Arabic,Iraqi Arabic,19,train
+شباب، تسود الشاشة ويسد البرنامج,crash,negative,Arabic,Iraqi Arabic,0,test
+شباب، تسود الشاشة ويسد البرنامج اذا ممكن,crash,negative,Arabic,Iraqi Arabic,1,test
+شباب، تسود الشاشة ويسد البرنامج وما يشتغل,crash,negative,Arabic,Iraqi Arabic,2,test
+شباب، تسود الشاشة ويسد البرنامج كلش,crash,negative,Arabic,Iraqi Arabic,3,test
+والله تسود الشاشة ويسد البرنامج,crash,negative,Arabic,Iraqi Arabic,4,test
+والله تسود الشاشة ويسد البرنامج اذا ممكن,crash,negative,Arabic,Iraqi Arabic,5,test
+والله تسود الشاشة ويسد البرنامج وما يشتغل,crash,negative,Arabic,Iraqi Arabic,6,test
+والله تسود الشاشة ويسد البرنامج كلش,crash,negative,Arabic,Iraqi Arabic,7,test
+للأسف تسود الشاشة ويسد البرنامج,crash,negative,Arabic,Iraqi Arabic,8,test
+للأسف تسود الشاشة ويسد البرنامج اذا ممكن,crash,negative,Arabic,Iraqi Arabic,9,test
+للأسف تسود الشاشة ويسد البرنامج وما يشتغل,crash,negative,Arabic,Iraqi Arabic,10,test
+للأسف تسود الشاشة ويسد البرنامج كلش,crash,negative,Arabic,Iraqi Arabic,11,test
+من البارحة وتسود الشاشة ويسد البرنامج,crash,negative,Arabic,Iraqi Arabic,12,test
+من البارحة وتسود الشاشة ويسد البرنامج اذا ممكن,crash,negative,Arabic,Iraqi Arabic,13,test
+من البارحة وتسود الشاشة ويسد البرنامج وما يشتغل,crash,negative,Arabic,Iraqi Arabic,14,test
+من البارحة وتسود الشاشة ويسد البرنامج كلش,crash,negative,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق تسود الشاشة ويسد البرنامج,crash,negative,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق تسود الشاشة ويسد البرنامج اذا ممكن,crash,negative,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق تسود الشاشة ويسد البرنامج وما يشتغل,crash,negative,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق تسود الشاشة ويسد البرنامج كلش,crash,negative,Arabic,Iraqi Arabic,19,test
+"Honestly, the app crashes suddenly",crash,negative,English,Standard English,0,train
+"Honestly, the app crashes suddenly please",crash,negative,English,Standard English,1,train
+"Honestly, the app crashes suddenly and it still does not work",crash,negative,English,Standard English,2,train
+"Honestly, the app crashes suddenly lately",crash,negative,English,Standard English,3,train
+"Unfortunately, the app crashes suddenly",crash,negative,English,Standard English,4,train
+"Unfortunately, the app crashes suddenly please",crash,negative,English,Standard English,5,train
+"Unfortunately, the app crashes suddenly and it still does not work",crash,negative,English,Standard English,6,train
+"Unfortunately, the app crashes suddenly lately",crash,negative,English,Standard English,7,train
+"Since yesterday, the app crashes suddenly",crash,negative,English,Standard English,8,train
+"Since yesterday, the app crashes suddenly please",crash,negative,English,Standard English,9,train
+"Since yesterday, the app crashes suddenly and it still does not work",crash,negative,English,Standard English,10,train
+"Since yesterday, the app crashes suddenly lately",crash,negative,English,Standard English,11,train
+"Whenever I open the app, the app crashes suddenly",crash,negative,English,Standard English,12,train
+"Whenever I open the app, the app crashes suddenly please",crash,negative,English,Standard English,13,train
+"Whenever I open the app, the app crashes suddenly and it still does not work",crash,negative,English,Standard English,14,train
+"Whenever I open the app, the app crashes suddenly lately",crash,negative,English,Standard English,15,train
+Please note: the app crashes suddenly,crash,negative,English,Standard English,16,train
+Please note: the app crashes suddenly please,crash,negative,English,Standard English,17,train
+Please note: the app crashes suddenly and it still does not work,crash,negative,English,Standard English,18,train
+Please note: the app crashes suddenly lately,crash,negative,English,Standard English,19,train
+"Honestly, the screen goes black then closes",crash,negative,English,Standard English,0,test
+"Honestly, the screen goes black then closes please",crash,negative,English,Standard English,1,test
+"Honestly, the screen goes black then closes and it still does not work",crash,negative,English,Standard English,2,test
+"Honestly, the screen goes black then closes lately",crash,negative,English,Standard English,3,test
+"Unfortunately, the screen goes black then closes",crash,negative,English,Standard English,4,test
+"Unfortunately, the screen goes black then closes please",crash,negative,English,Standard English,5,test
+"Unfortunately, the screen goes black then closes and it still does not work",crash,negative,English,Standard English,6,test
+"Unfortunately, the screen goes black then closes lately",crash,negative,English,Standard English,7,test
+"Since yesterday, the screen goes black then closes",crash,negative,English,Standard English,8,test
+"Since yesterday, the screen goes black then closes please",crash,negative,English,Standard English,9,test
+"Since yesterday, the screen goes black then closes and it still does not work",crash,negative,English,Standard English,10,test
+"Since yesterday, the screen goes black then closes lately",crash,negative,English,Standard English,11,test
+"Whenever I open the app, the screen goes black then closes",crash,negative,English,Standard English,12,test
+"Whenever I open the app, the screen goes black then closes please",crash,negative,English,Standard English,13,test
+"Whenever I open the app, the screen goes black then closes and it still does not work",crash,negative,English,Standard English,14,test
+"Whenever I open the app, the screen goes black then closes lately",crash,negative,English,Standard English,15,test
+Please note: the screen goes black then closes,crash,negative,English,Standard English,16,test
+Please note: the screen goes black then closes please,crash,negative,English,Standard English,17,test
+Please note: the screen goes black then closes and it still does not work,crash,negative,English,Standard English,18,test
+Please note: the screen goes black then closes lately,crash,negative,English,Standard English,19,test
+"ya jama3a, el app yegfel faga2a",crash,negative,Arabizi,Arabizi,0,train
+"ya jama3a, el app yegfel faga2a please",crash,negative,Arabizi,Arabizi,1,train
+"ya jama3a, el app yegfel faga2a w ma zabat",crash,negative,Arabizi,Arabizi,2,train
+"ya jama3a, el app yegfel faga2a lately",crash,negative,Arabizi,Arabizi,3,train
+wallah el app yegfel faga2a,crash,negative,Arabizi,Arabizi,4,train
+wallah el app yegfel faga2a please,crash,negative,Arabizi,Arabizi,5,train
+wallah el app yegfel faga2a w ma zabat,crash,negative,Arabizi,Arabizi,6,train
+wallah el app yegfel faga2a lately,crash,negative,Arabizi,Arabizi,7,train
+l2asaf el app yegfel faga2a,crash,negative,Arabizi,Arabizi,8,train
+l2asaf el app yegfel faga2a please,crash,negative,Arabizi,Arabizi,9,train
+l2asaf el app yegfel faga2a w ma zabat,crash,negative,Arabizi,Arabizi,10,train
+l2asaf el app yegfel faga2a lately,crash,negative,Arabizi,Arabizi,11,train
+men embare7 wel app yegfel faga2a,crash,negative,Arabizi,Arabizi,12,train
+men embare7 wel app yegfel faga2a please,crash,negative,Arabizi,Arabizi,13,train
+men embare7 wel app yegfel faga2a w ma zabat,crash,negative,Arabizi,Arabizi,14,train
+men embare7 wel app yegfel faga2a lately,crash,negative,Arabizi,Arabizi,15,train
+kol ma afta7 el app el app yegfel faga2a,crash,negative,Arabizi,Arabizi,16,train
+kol ma afta7 el app el app yegfel faga2a please,crash,negative,Arabizi,Arabizi,17,train
+kol ma afta7 el app el app yegfel faga2a w ma zabat,crash,negative,Arabizi,Arabizi,18,train
+kol ma afta7 el app el app yegfel faga2a lately,crash,negative,Arabizi,Arabizi,19,train
+"ya jama3a, el screen teswed w yegfel",crash,negative,Arabizi,Arabizi,0,test
+"ya jama3a, el screen teswed w yegfel please",crash,negative,Arabizi,Arabizi,1,test
+"ya jama3a, el screen teswed w yegfel w ma zabat",crash,negative,Arabizi,Arabizi,2,test
+"ya jama3a, el screen teswed w yegfel lately",crash,negative,Arabizi,Arabizi,3,test
+wallah el screen teswed w yegfel,crash,negative,Arabizi,Arabizi,4,test
+wallah el screen teswed w yegfel please,crash,negative,Arabizi,Arabizi,5,test
+wallah el screen teswed w yegfel w ma zabat,crash,negative,Arabizi,Arabizi,6,test
+wallah el screen teswed w yegfel lately,crash,negative,Arabizi,Arabizi,7,test
+l2asaf el screen teswed w yegfel,crash,negative,Arabizi,Arabizi,8,test
+l2asaf el screen teswed w yegfel please,crash,negative,Arabizi,Arabizi,9,test
+l2asaf el screen teswed w yegfel w ma zabat,crash,negative,Arabizi,Arabizi,10,test
+l2asaf el screen teswed w yegfel lately,crash,negative,Arabizi,Arabizi,11,test
+men embare7 wel screen teswed w yegfel,crash,negative,Arabizi,Arabizi,12,test
+men embare7 wel screen teswed w yegfel please,crash,negative,Arabizi,Arabizi,13,test
+men embare7 wel screen teswed w yegfel w ma zabat,crash,negative,Arabizi,Arabizi,14,test
+men embare7 wel screen teswed w yegfel lately,crash,negative,Arabizi,Arabizi,15,test
+kol ma afta7 el app el screen teswed w yegfel,crash,negative,Arabizi,Arabizi,16,test
+kol ma afta7 el app el screen teswed w yegfel please,crash,negative,Arabizi,Arabizi,17,test
+kol ma afta7 el app el screen teswed w yegfel w ma zabat,crash,negative,Arabizi,Arabizi,18,test
+kol ma afta7 el app el screen teswed w yegfel lately,crash,negative,Arabizi,Arabizi,19,test
+يا جماعة، التطبيق بطيء ويتأخر,performance,negative,Arabic,Saudi Arabic,0,train
+يا جماعة، التطبيق بطيء ويتأخر من فضلكم,performance,negative,Arabic,Saudi Arabic,1,train
+يا جماعة، التطبيق بطيء ويتأخر وما ضبط معي,performance,negative,Arabic,Saudi Arabic,2,train
+يا جماعة، التطبيق بطيء ويتأخر مرة,performance,negative,Arabic,Saudi Arabic,3,train
+والله التطبيق بطيء ويتأخر,performance,negative,Arabic,Saudi Arabic,4,train
+والله التطبيق بطيء ويتأخر من فضلكم,performance,negative,Arabic,Saudi Arabic,5,train
+والله التطبيق بطيء ويتأخر وما ضبط معي,performance,negative,Arabic,Saudi Arabic,6,train
+والله التطبيق بطيء ويتأخر مرة,performance,negative,Arabic,Saudi Arabic,7,train
+للأسف التطبيق بطيء ويتأخر,performance,negative,Arabic,Saudi Arabic,8,train
+للأسف التطبيق بطيء ويتأخر من فضلكم,performance,negative,Arabic,Saudi Arabic,9,train
+للأسف التطبيق بطيء ويتأخر وما ضبط معي,performance,negative,Arabic,Saudi Arabic,10,train
+للأسف التطبيق بطيء ويتأخر مرة,performance,negative,Arabic,Saudi Arabic,11,train
+من امس والتطبيق بطيء ويتأخر,performance,negative,Arabic,Saudi Arabic,12,train
+من امس والتطبيق بطيء ويتأخر من فضلكم,performance,negative,Arabic,Saudi Arabic,13,train
+من امس والتطبيق بطيء ويتأخر وما ضبط معي,performance,negative,Arabic,Saudi Arabic,14,train
+من امس والتطبيق بطيء ويتأخر مرة,performance,negative,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق التطبيق بطيء ويتأخر,performance,negative,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق التطبيق بطيء ويتأخر من فضلكم,performance,negative,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق التطبيق بطيء ويتأخر وما ضبط معي,performance,negative,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق التطبيق بطيء ويتأخر مرة,performance,negative,Arabic,Saudi Arabic,19,train
+يا جماعة، التحميل ياخذ وقت طويل,performance,negative,Arabic,Saudi Arabic,0,test
+يا جماعة، التحميل ياخذ وقت طويل من فضلكم,performance,negative,Arabic,Saudi Arabic,1,test
+يا جماعة، التحميل ياخذ وقت طويل وما ضبط معي,performance,negative,Arabic,Saudi Arabic,2,test
+يا جماعة، التحميل ياخذ وقت طويل مرة,performance,negative,Arabic,Saudi Arabic,3,test
+والله التحميل ياخذ وقت طويل,performance,negative,Arabic,Saudi Arabic,4,test
+والله التحميل ياخذ وقت طويل من فضلكم,performance,negative,Arabic,Saudi Arabic,5,test
+والله التحميل ياخذ وقت طويل وما ضبط معي,performance,negative,Arabic,Saudi Arabic,6,test
+والله التحميل ياخذ وقت طويل مرة,performance,negative,Arabic,Saudi Arabic,7,test
+للأسف التحميل ياخذ وقت طويل,performance,negative,Arabic,Saudi Arabic,8,test
+للأسف التحميل ياخذ وقت طويل من فضلكم,performance,negative,Arabic,Saudi Arabic,9,test
+للأسف التحميل ياخذ وقت طويل وما ضبط معي,performance,negative,Arabic,Saudi Arabic,10,test
+للأسف التحميل ياخذ وقت طويل مرة,performance,negative,Arabic,Saudi Arabic,11,test
+من امس والتحميل ياخذ وقت طويل,performance,negative,Arabic,Saudi Arabic,12,test
+من امس والتحميل ياخذ وقت طويل من فضلكم,performance,negative,Arabic,Saudi Arabic,13,test
+من امس والتحميل ياخذ وقت طويل وما ضبط معي,performance,negative,Arabic,Saudi Arabic,14,test
+من امس والتحميل ياخذ وقت طويل مرة,performance,negative,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق التحميل ياخذ وقت طويل,performance,negative,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق التحميل ياخذ وقت طويل من فضلكم,performance,negative,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق التحميل ياخذ وقت طويل وما ضبط معي,performance,negative,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق التحميل ياخذ وقت طويل مرة,performance,negative,Arabic,Saudi Arabic,19,test
+يا جماعة، الابلكيشن بطيء اوي,performance,negative,Arabic,Egyptian Arabic,0,train
+يا جماعة، الابلكيشن بطيء اوي لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,1,train
+يا جماعة، الابلكيشن بطيء اوي ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,2,train
+يا جماعة، الابلكيشن بطيء اوي خالص,performance,negative,Arabic,Egyptian Arabic,3,train
+بصراحة الابلكيشن بطيء اوي,performance,negative,Arabic,Egyptian Arabic,4,train
+بصراحة الابلكيشن بطيء اوي لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,5,train
+بصراحة الابلكيشن بطيء اوي ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,6,train
+بصراحة الابلكيشن بطيء اوي خالص,performance,negative,Arabic,Egyptian Arabic,7,train
+للأسف الابلكيشن بطيء اوي,performance,negative,Arabic,Egyptian Arabic,8,train
+للأسف الابلكيشن بطيء اوي لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,9,train
+للأسف الابلكيشن بطيء اوي ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,10,train
+للأسف الابلكيشن بطيء اوي خالص,performance,negative,Arabic,Egyptian Arabic,11,train
+من امبارح والابلكيشن بطيء اوي,performance,negative,Arabic,Egyptian Arabic,12,train
+من امبارح والابلكيشن بطيء اوي لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,13,train
+من امبارح والابلكيشن بطيء اوي ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,14,train
+من امبارح والابلكيشن بطيء اوي خالص,performance,negative,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن الابلكيشن بطيء اوي,performance,negative,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن الابلكيشن بطيء اوي لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن الابلكيشن بطيء اوي ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن الابلكيشن بطيء اوي خالص,performance,negative,Arabic,Egyptian Arabic,19,train
+يا جماعة، التحميل بياخد وقت طويل,performance,negative,Arabic,Egyptian Arabic,0,test
+يا جماعة، التحميل بياخد وقت طويل لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,1,test
+يا جماعة، التحميل بياخد وقت طويل ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,2,test
+يا جماعة، التحميل بياخد وقت طويل خالص,performance,negative,Arabic,Egyptian Arabic,3,test
+بصراحة التحميل بياخد وقت طويل,performance,negative,Arabic,Egyptian Arabic,4,test
+بصراحة التحميل بياخد وقت طويل لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,5,test
+بصراحة التحميل بياخد وقت طويل ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,6,test
+بصراحة التحميل بياخد وقت طويل خالص,performance,negative,Arabic,Egyptian Arabic,7,test
+للأسف التحميل بياخد وقت طويل,performance,negative,Arabic,Egyptian Arabic,8,test
+للأسف التحميل بياخد وقت طويل لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,9,test
+للأسف التحميل بياخد وقت طويل ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,10,test
+للأسف التحميل بياخد وقت طويل خالص,performance,negative,Arabic,Egyptian Arabic,11,test
+من امبارح والتحميل بياخد وقت طويل,performance,negative,Arabic,Egyptian Arabic,12,test
+من امبارح والتحميل بياخد وقت طويل لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,13,test
+من امبارح والتحميل بياخد وقت طويل ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,14,test
+من امبارح والتحميل بياخد وقت طويل خالص,performance,negative,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن التحميل بياخد وقت طويل,performance,negative,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن التحميل بياخد وقت طويل لو سمحتوا,performance,negative,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن التحميل بياخد وقت طويل ومش راضي يشتغل,performance,negative,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن التحميل بياخد وقت طويل خالص,performance,negative,Arabic,Egyptian Arabic,19,test
+عفاكم، التطبيق بطيء بزاف,performance,negative,Arabic,Moroccan Darija,0,train
+عفاكم، التطبيق بطيء بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,1,train
+عفاكم، التطبيق بطيء بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,2,train
+عفاكم، التطبيق بطيء بزاف بزاف,performance,negative,Arabic,Moroccan Darija,3,train
+بصراحة التطبيق بطيء بزاف,performance,negative,Arabic,Moroccan Darija,4,train
+بصراحة التطبيق بطيء بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,5,train
+بصراحة التطبيق بطيء بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,6,train
+بصراحة التطبيق بطيء بزاف بزاف,performance,negative,Arabic,Moroccan Darija,7,train
+للأسف التطبيق بطيء بزاف,performance,negative,Arabic,Moroccan Darija,8,train
+للأسف التطبيق بطيء بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,9,train
+للأسف التطبيق بطيء بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,10,train
+للأسف التطبيق بطيء بزاف بزاف,performance,negative,Arabic,Moroccan Darija,11,train
+من البارح والتطبيق بطيء بزاف,performance,negative,Arabic,Moroccan Darija,12,train
+من البارح والتطبيق بطيء بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,13,train
+من البارح والتطبيق بطيء بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,14,train
+من البارح والتطبيق بطيء بزاف بزاف,performance,negative,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق التطبيق بطيء بزاف,performance,negative,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق التطبيق بطيء بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق التطبيق بطيء بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق التطبيق بطيء بزاف بزاف,performance,negative,Arabic,Moroccan Darija,19,train
+عفاكم، التحميل كياخذ وقت بزاف,performance,negative,Arabic,Moroccan Darija,0,test
+عفاكم، التحميل كياخذ وقت بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,1,test
+عفاكم، التحميل كياخذ وقت بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,2,test
+عفاكم، التحميل كياخذ وقت بزاف بزاف,performance,negative,Arabic,Moroccan Darija,3,test
+بصراحة التحميل كياخذ وقت بزاف,performance,negative,Arabic,Moroccan Darija,4,test
+بصراحة التحميل كياخذ وقت بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,5,test
+بصراحة التحميل كياخذ وقت بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,6,test
+بصراحة التحميل كياخذ وقت بزاف بزاف,performance,negative,Arabic,Moroccan Darija,7,test
+للأسف التحميل كياخذ وقت بزاف,performance,negative,Arabic,Moroccan Darija,8,test
+للأسف التحميل كياخذ وقت بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,9,test
+للأسف التحميل كياخذ وقت بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,10,test
+للأسف التحميل كياخذ وقت بزاف بزاف,performance,negative,Arabic,Moroccan Darija,11,test
+من البارح والتحميل كياخذ وقت بزاف,performance,negative,Arabic,Moroccan Darija,12,test
+من البارح والتحميل كياخذ وقت بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,13,test
+من البارح والتحميل كياخذ وقت بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,14,test
+من البارح والتحميل كياخذ وقت بزاف بزاف,performance,negative,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق التحميل كياخذ وقت بزاف,performance,negative,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق التحميل كياخذ وقت بزاف عافاكم,performance,negative,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق التحميل كياخذ وقت بزاف وما خدامش,performance,negative,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق التحميل كياخذ وقت بزاف بزاف,performance,negative,Arabic,Moroccan Darija,19,test
+يا جماعة، التطبيق بطيء وايد,performance,negative,Arabic,Gulf Arabic,0,train
+يا جماعة، التطبيق بطيء وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,1,train
+يا جماعة، التطبيق بطيء وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,2,train
+يا جماعة، التطبيق بطيء وايد وايد,performance,negative,Arabic,Gulf Arabic,3,train
+والله التطبيق بطيء وايد,performance,negative,Arabic,Gulf Arabic,4,train
+والله التطبيق بطيء وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,5,train
+والله التطبيق بطيء وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,6,train
+والله التطبيق بطيء وايد وايد,performance,negative,Arabic,Gulf Arabic,7,train
+للأسف التطبيق بطيء وايد,performance,negative,Arabic,Gulf Arabic,8,train
+للأسف التطبيق بطيء وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,9,train
+للأسف التطبيق بطيء وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,10,train
+للأسف التطبيق بطيء وايد وايد,performance,negative,Arabic,Gulf Arabic,11,train
+من امس والتطبيق بطيء وايد,performance,negative,Arabic,Gulf Arabic,12,train
+من امس والتطبيق بطيء وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,13,train
+من امس والتطبيق بطيء وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,14,train
+من امس والتطبيق بطيء وايد وايد,performance,negative,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق التطبيق بطيء وايد,performance,negative,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق التطبيق بطيء وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق التطبيق بطيء وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق التطبيق بطيء وايد وايد,performance,negative,Arabic,Gulf Arabic,19,train
+يا جماعة، التحميل ياخذ وقت وايد,performance,negative,Arabic,Gulf Arabic,0,test
+يا جماعة، التحميل ياخذ وقت وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,1,test
+يا جماعة، التحميل ياخذ وقت وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,2,test
+يا جماعة، التحميل ياخذ وقت وايد وايد,performance,negative,Arabic,Gulf Arabic,3,test
+والله التحميل ياخذ وقت وايد,performance,negative,Arabic,Gulf Arabic,4,test
+والله التحميل ياخذ وقت وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,5,test
+والله التحميل ياخذ وقت وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,6,test
+والله التحميل ياخذ وقت وايد وايد,performance,negative,Arabic,Gulf Arabic,7,test
+للأسف التحميل ياخذ وقت وايد,performance,negative,Arabic,Gulf Arabic,8,test
+للأسف التحميل ياخذ وقت وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,9,test
+للأسف التحميل ياخذ وقت وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,10,test
+للأسف التحميل ياخذ وقت وايد وايد,performance,negative,Arabic,Gulf Arabic,11,test
+من امس والتحميل ياخذ وقت وايد,performance,negative,Arabic,Gulf Arabic,12,test
+من امس والتحميل ياخذ وقت وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,13,test
+من امس والتحميل ياخذ وقت وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,14,test
+من امس والتحميل ياخذ وقت وايد وايد,performance,negative,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق التحميل ياخذ وقت وايد,performance,negative,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق التحميل ياخذ وقت وايد لو سمحتوا,performance,negative,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق التحميل ياخذ وقت وايد وما يضبط,performance,negative,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق التحميل ياخذ وقت وايد وايد,performance,negative,Arabic,Gulf Arabic,19,test
+شباب، التطبيق بطيء كلش,performance,negative,Arabic,Iraqi Arabic,0,train
+شباب، التطبيق بطيء كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,1,train
+شباب، التطبيق بطيء كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,2,train
+شباب، التطبيق بطيء كلش كلش,performance,negative,Arabic,Iraqi Arabic,3,train
+والله التطبيق بطيء كلش,performance,negative,Arabic,Iraqi Arabic,4,train
+والله التطبيق بطيء كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,5,train
+والله التطبيق بطيء كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,6,train
+والله التطبيق بطيء كلش كلش,performance,negative,Arabic,Iraqi Arabic,7,train
+للأسف التطبيق بطيء كلش,performance,negative,Arabic,Iraqi Arabic,8,train
+للأسف التطبيق بطيء كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,9,train
+للأسف التطبيق بطيء كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,10,train
+للأسف التطبيق بطيء كلش كلش,performance,negative,Arabic,Iraqi Arabic,11,train
+من البارحة والتطبيق بطيء كلش,performance,negative,Arabic,Iraqi Arabic,12,train
+من البارحة والتطبيق بطيء كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,13,train
+من البارحة والتطبيق بطيء كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,14,train
+من البارحة والتطبيق بطيء كلش كلش,performance,negative,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق التطبيق بطيء كلش,performance,negative,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق التطبيق بطيء كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق التطبيق بطيء كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق التطبيق بطيء كلش كلش,performance,negative,Arabic,Iraqi Arabic,19,train
+شباب، التحميل ياخذ وقت كلش,performance,negative,Arabic,Iraqi Arabic,0,test
+شباب، التحميل ياخذ وقت كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,1,test
+شباب، التحميل ياخذ وقت كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,2,test
+شباب، التحميل ياخذ وقت كلش كلش,performance,negative,Arabic,Iraqi Arabic,3,test
+والله التحميل ياخذ وقت كلش,performance,negative,Arabic,Iraqi Arabic,4,test
+والله التحميل ياخذ وقت كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,5,test
+والله التحميل ياخذ وقت كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,6,test
+والله التحميل ياخذ وقت كلش كلش,performance,negative,Arabic,Iraqi Arabic,7,test
+للأسف التحميل ياخذ وقت كلش,performance,negative,Arabic,Iraqi Arabic,8,test
+للأسف التحميل ياخذ وقت كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,9,test
+للأسف التحميل ياخذ وقت كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,10,test
+للأسف التحميل ياخذ وقت كلش كلش,performance,negative,Arabic,Iraqi Arabic,11,test
+من البارحة والتحميل ياخذ وقت كلش,performance,negative,Arabic,Iraqi Arabic,12,test
+من البارحة والتحميل ياخذ وقت كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,13,test
+من البارحة والتحميل ياخذ وقت كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,14,test
+من البارحة والتحميل ياخذ وقت كلش كلش,performance,negative,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق التحميل ياخذ وقت كلش,performance,negative,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق التحميل ياخذ وقت كلش اذا ممكن,performance,negative,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق التحميل ياخذ وقت كلش وما يشتغل,performance,negative,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق التحميل ياخذ وقت كلش كلش,performance,negative,Arabic,Iraqi Arabic,19,test
+"Honestly, the app is very slow",performance,negative,English,Standard English,0,train
+"Honestly, the app is very slow please",performance,negative,English,Standard English,1,train
+"Honestly, the app is very slow and it still does not work",performance,negative,English,Standard English,2,train
+"Honestly, the app is very slow lately",performance,negative,English,Standard English,3,train
+"Unfortunately, the app is very slow",performance,negative,English,Standard English,4,train
+"Unfortunately, the app is very slow please",performance,negative,English,Standard English,5,train
+"Unfortunately, the app is very slow and it still does not work",performance,negative,English,Standard English,6,train
+"Unfortunately, the app is very slow lately",performance,negative,English,Standard English,7,train
+"Since yesterday, the app is very slow",performance,negative,English,Standard English,8,train
+"Since yesterday, the app is very slow please",performance,negative,English,Standard English,9,train
+"Since yesterday, the app is very slow and it still does not work",performance,negative,English,Standard English,10,train
+"Since yesterday, the app is very slow lately",performance,negative,English,Standard English,11,train
+"Whenever I open the app, the app is very slow",performance,negative,English,Standard English,12,train
+"Whenever I open the app, the app is very slow please",performance,negative,English,Standard English,13,train
+"Whenever I open the app, the app is very slow and it still does not work",performance,negative,English,Standard English,14,train
+"Whenever I open the app, the app is very slow lately",performance,negative,English,Standard English,15,train
+Please note: the app is very slow,performance,negative,English,Standard English,16,train
+Please note: the app is very slow please,performance,negative,English,Standard English,17,train
+Please note: the app is very slow and it still does not work,performance,negative,English,Standard English,18,train
+Please note: the app is very slow lately,performance,negative,English,Standard English,19,train
+"Honestly, loading takes a very long time",performance,negative,English,Standard English,0,test
+"Honestly, loading takes a very long time please",performance,negative,English,Standard English,1,test
+"Honestly, loading takes a very long time and it still does not work",performance,negative,English,Standard English,2,test
+"Honestly, loading takes a very long time lately",performance,negative,English,Standard English,3,test
+"Unfortunately, loading takes a very long time",performance,negative,English,Standard English,4,test
+"Unfortunately, loading takes a very long time please",performance,negative,English,Standard English,5,test
+"Unfortunately, loading takes a very long time and it still does not work",performance,negative,English,Standard English,6,test
+"Unfortunately, loading takes a very long time lately",performance,negative,English,Standard English,7,test
+"Since yesterday, loading takes a very long time",performance,negative,English,Standard English,8,test
+"Since yesterday, loading takes a very long time please",performance,negative,English,Standard English,9,test
+"Since yesterday, loading takes a very long time and it still does not work",performance,negative,English,Standard English,10,test
+"Since yesterday, loading takes a very long time lately",performance,negative,English,Standard English,11,test
+"Whenever I open the app, loading takes a very long time",performance,negative,English,Standard English,12,test
+"Whenever I open the app, loading takes a very long time please",performance,negative,English,Standard English,13,test
+"Whenever I open the app, loading takes a very long time and it still does not work",performance,negative,English,Standard English,14,test
+"Whenever I open the app, loading takes a very long time lately",performance,negative,English,Standard English,15,test
+Please note: loading takes a very long time,performance,negative,English,Standard English,16,test
+Please note: loading takes a very long time please,performance,negative,English,Standard English,17,test
+Please note: loading takes a very long time and it still does not work,performance,negative,English,Standard English,18,test
+Please note: loading takes a very long time lately,performance,negative,English,Standard English,19,test
+"ya jama3a, el app batee2 awy",performance,negative,Arabizi,Arabizi,0,train
+"ya jama3a, el app batee2 awy please",performance,negative,Arabizi,Arabizi,1,train
+"ya jama3a, el app batee2 awy w ma zabat",performance,negative,Arabizi,Arabizi,2,train
+"ya jama3a, el app batee2 awy lately",performance,negative,Arabizi,Arabizi,3,train
+wallah el app batee2 awy,performance,negative,Arabizi,Arabizi,4,train
+wallah el app batee2 awy please,performance,negative,Arabizi,Arabizi,5,train
+wallah el app batee2 awy w ma zabat,performance,negative,Arabizi,Arabizi,6,train
+wallah el app batee2 awy lately,performance,negative,Arabizi,Arabizi,7,train
+l2asaf el app batee2 awy,performance,negative,Arabizi,Arabizi,8,train
+l2asaf el app batee2 awy please,performance,negative,Arabizi,Arabizi,9,train
+l2asaf el app batee2 awy w ma zabat,performance,negative,Arabizi,Arabizi,10,train
+l2asaf el app batee2 awy lately,performance,negative,Arabizi,Arabizi,11,train
+men embare7 wel app batee2 awy,performance,negative,Arabizi,Arabizi,12,train
+men embare7 wel app batee2 awy please,performance,negative,Arabizi,Arabizi,13,train
+men embare7 wel app batee2 awy w ma zabat,performance,negative,Arabizi,Arabizi,14,train
+men embare7 wel app batee2 awy lately,performance,negative,Arabizi,Arabizi,15,train
+kol ma afta7 el app el app batee2 awy,performance,negative,Arabizi,Arabizi,16,train
+kol ma afta7 el app el app batee2 awy please,performance,negative,Arabizi,Arabizi,17,train
+kol ma afta7 el app el app batee2 awy w ma zabat,performance,negative,Arabizi,Arabizi,18,train
+kol ma afta7 el app el app batee2 awy lately,performance,negative,Arabizi,Arabizi,19,train
+"ya jama3a, el loading yekhod wa2t taweel",performance,negative,Arabizi,Arabizi,0,test
+"ya jama3a, el loading yekhod wa2t taweel please",performance,negative,Arabizi,Arabizi,1,test
+"ya jama3a, el loading yekhod wa2t taweel w ma zabat",performance,negative,Arabizi,Arabizi,2,test
+"ya jama3a, el loading yekhod wa2t taweel lately",performance,negative,Arabizi,Arabizi,3,test
+wallah el loading yekhod wa2t taweel,performance,negative,Arabizi,Arabizi,4,test
+wallah el loading yekhod wa2t taweel please,performance,negative,Arabizi,Arabizi,5,test
+wallah el loading yekhod wa2t taweel w ma zabat,performance,negative,Arabizi,Arabizi,6,test
+wallah el loading yekhod wa2t taweel lately,performance,negative,Arabizi,Arabizi,7,test
+l2asaf el loading yekhod wa2t taweel,performance,negative,Arabizi,Arabizi,8,test
+l2asaf el loading yekhod wa2t taweel please,performance,negative,Arabizi,Arabizi,9,test
+l2asaf el loading yekhod wa2t taweel w ma zabat,performance,negative,Arabizi,Arabizi,10,test
+l2asaf el loading yekhod wa2t taweel lately,performance,negative,Arabizi,Arabizi,11,test
+men embare7 wel loading yekhod wa2t taweel,performance,negative,Arabizi,Arabizi,12,test
+men embare7 wel loading yekhod wa2t taweel please,performance,negative,Arabizi,Arabizi,13,test
+men embare7 wel loading yekhod wa2t taweel w ma zabat,performance,negative,Arabizi,Arabizi,14,test
+men embare7 wel loading yekhod wa2t taweel lately,performance,negative,Arabizi,Arabizi,15,test
+kol ma afta7 el app el loading yekhod wa2t taweel,performance,negative,Arabizi,Arabizi,16,test
+kol ma afta7 el app el loading yekhod wa2t taweel please,performance,negative,Arabizi,Arabizi,17,test
+kol ma afta7 el app el loading yekhod wa2t taweel w ma zabat,performance,negative,Arabizi,Arabizi,18,test
+kol ma afta7 el app el loading yekhod wa2t taweel lately,performance,negative,Arabizi,Arabizi,19,test
+يا جماعة، انخصم المبلغ مرتين,payment,negative,Arabic,Saudi Arabic,0,train
+يا جماعة، انخصم المبلغ مرتين من فضلكم,payment,negative,Arabic,Saudi Arabic,1,train
+يا جماعة، انخصم المبلغ مرتين وما ضبط معي,payment,negative,Arabic,Saudi Arabic,2,train
+يا جماعة، انخصم المبلغ مرتين مرة,payment,negative,Arabic,Saudi Arabic,3,train
+والله انخصم المبلغ مرتين,payment,negative,Arabic,Saudi Arabic,4,train
+والله انخصم المبلغ مرتين من فضلكم,payment,negative,Arabic,Saudi Arabic,5,train
+والله انخصم المبلغ مرتين وما ضبط معي,payment,negative,Arabic,Saudi Arabic,6,train
+والله انخصم المبلغ مرتين مرة,payment,negative,Arabic,Saudi Arabic,7,train
+للأسف انخصم المبلغ مرتين,payment,negative,Arabic,Saudi Arabic,8,train
+للأسف انخصم المبلغ مرتين من فضلكم,payment,negative,Arabic,Saudi Arabic,9,train
+للأسف انخصم المبلغ مرتين وما ضبط معي,payment,negative,Arabic,Saudi Arabic,10,train
+للأسف انخصم المبلغ مرتين مرة,payment,negative,Arabic,Saudi Arabic,11,train
+من امس وانخصم المبلغ مرتين,payment,negative,Arabic,Saudi Arabic,12,train
+من امس وانخصم المبلغ مرتين من فضلكم,payment,negative,Arabic,Saudi Arabic,13,train
+من امس وانخصم المبلغ مرتين وما ضبط معي,payment,negative,Arabic,Saudi Arabic,14,train
+من امس وانخصم المبلغ مرتين مرة,payment,negative,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق انخصم المبلغ مرتين,payment,negative,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق انخصم المبلغ مرتين من فضلكم,payment,negative,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق انخصم المبلغ مرتين وما ضبط معي,payment,negative,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق انخصم المبلغ مرتين مرة,payment,negative,Arabic,Saudi Arabic,19,train
+يا جماعة، طلع علي خصم اضافي,payment,negative,Arabic,Saudi Arabic,0,test
+يا جماعة، طلع علي خصم اضافي من فضلكم,payment,negative,Arabic,Saudi Arabic,1,test
+يا جماعة، طلع علي خصم اضافي وما ضبط معي,payment,negative,Arabic,Saudi Arabic,2,test
+يا جماعة، طلع علي خصم اضافي مرة,payment,negative,Arabic,Saudi Arabic,3,test
+والله طلع علي خصم اضافي,payment,negative,Arabic,Saudi Arabic,4,test
+والله طلع علي خصم اضافي من فضلكم,payment,negative,Arabic,Saudi Arabic,5,test
+والله طلع علي خصم اضافي وما ضبط معي,payment,negative,Arabic,Saudi Arabic,6,test
+والله طلع علي خصم اضافي مرة,payment,negative,Arabic,Saudi Arabic,7,test
+للأسف طلع علي خصم اضافي,payment,negative,Arabic,Saudi Arabic,8,test
+للأسف طلع علي خصم اضافي من فضلكم,payment,negative,Arabic,Saudi Arabic,9,test
+للأسف طلع علي خصم اضافي وما ضبط معي,payment,negative,Arabic,Saudi Arabic,10,test
+للأسف طلع علي خصم اضافي مرة,payment,negative,Arabic,Saudi Arabic,11,test
+من امس وطلع علي خصم اضافي,payment,negative,Arabic,Saudi Arabic,12,test
+من امس وطلع علي خصم اضافي من فضلكم,payment,negative,Arabic,Saudi Arabic,13,test
+من امس وطلع علي خصم اضافي وما ضبط معي,payment,negative,Arabic,Saudi Arabic,14,test
+من امس وطلع علي خصم اضافي مرة,payment,negative,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق طلع علي خصم اضافي,payment,negative,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق طلع علي خصم اضافي من فضلكم,payment,negative,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق طلع علي خصم اضافي وما ضبط معي,payment,negative,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق طلع علي خصم اضافي مرة,payment,negative,Arabic,Saudi Arabic,19,test
+يا جماعة، اتخصم المبلغ مرتين,payment,negative,Arabic,Egyptian Arabic,0,train
+يا جماعة، اتخصم المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,1,train
+يا جماعة، اتخصم المبلغ مرتين ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,2,train
+يا جماعة، اتخصم المبلغ مرتين خالص,payment,negative,Arabic,Egyptian Arabic,3,train
+بصراحة اتخصم المبلغ مرتين,payment,negative,Arabic,Egyptian Arabic,4,train
+بصراحة اتخصم المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,5,train
+بصراحة اتخصم المبلغ مرتين ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,6,train
+بصراحة اتخصم المبلغ مرتين خالص,payment,negative,Arabic,Egyptian Arabic,7,train
+للأسف اتخصم المبلغ مرتين,payment,negative,Arabic,Egyptian Arabic,8,train
+للأسف اتخصم المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,9,train
+للأسف اتخصم المبلغ مرتين ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,10,train
+للأسف اتخصم المبلغ مرتين خالص,payment,negative,Arabic,Egyptian Arabic,11,train
+من امبارح واتخصم المبلغ مرتين,payment,negative,Arabic,Egyptian Arabic,12,train
+من امبارح واتخصم المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,13,train
+من امبارح واتخصم المبلغ مرتين ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,14,train
+من امبارح واتخصم المبلغ مرتين خالص,payment,negative,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن اتخصم المبلغ مرتين,payment,negative,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن اتخصم المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن اتخصم المبلغ مرتين ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن اتخصم المبلغ مرتين خالص,payment,negative,Arabic,Egyptian Arabic,19,train
+يا جماعة، اتخصم مني مبلغ زيادة,payment,negative,Arabic,Egyptian Arabic,0,test
+يا جماعة، اتخصم مني مبلغ زيادة لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,1,test
+يا جماعة، اتخصم مني مبلغ زيادة ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,2,test
+يا جماعة، اتخصم مني مبلغ زيادة خالص,payment,negative,Arabic,Egyptian Arabic,3,test
+بصراحة اتخصم مني مبلغ زيادة,payment,negative,Arabic,Egyptian Arabic,4,test
+بصراحة اتخصم مني مبلغ زيادة لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,5,test
+بصراحة اتخصم مني مبلغ زيادة ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,6,test
+بصراحة اتخصم مني مبلغ زيادة خالص,payment,negative,Arabic,Egyptian Arabic,7,test
+للأسف اتخصم مني مبلغ زيادة,payment,negative,Arabic,Egyptian Arabic,8,test
+للأسف اتخصم مني مبلغ زيادة لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,9,test
+للأسف اتخصم مني مبلغ زيادة ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,10,test
+للأسف اتخصم مني مبلغ زيادة خالص,payment,negative,Arabic,Egyptian Arabic,11,test
+من امبارح واتخصم مني مبلغ زيادة,payment,negative,Arabic,Egyptian Arabic,12,test
+من امبارح واتخصم مني مبلغ زيادة لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,13,test
+من امبارح واتخصم مني مبلغ زيادة ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,14,test
+من امبارح واتخصم مني مبلغ زيادة خالص,payment,negative,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن اتخصم مني مبلغ زيادة,payment,negative,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن اتخصم مني مبلغ زيادة لو سمحتوا,payment,negative,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن اتخصم مني مبلغ زيادة ومش راضي يشتغل,payment,negative,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن اتخصم مني مبلغ زيادة خالص,payment,negative,Arabic,Egyptian Arabic,19,test
+عفاكم، تخصم ليا المبلغ جوج مرات,payment,negative,Arabic,Moroccan Darija,0,train
+عفاكم، تخصم ليا المبلغ جوج مرات عافاكم,payment,negative,Arabic,Moroccan Darija,1,train
+عفاكم، تخصم ليا المبلغ جوج مرات وما خدامش,payment,negative,Arabic,Moroccan Darija,2,train
+عفاكم، تخصم ليا المبلغ جوج مرات بزاف,payment,negative,Arabic,Moroccan Darija,3,train
+بصراحة تخصم ليا المبلغ جوج مرات,payment,negative,Arabic,Moroccan Darija,4,train
+بصراحة تخصم ليا المبلغ جوج مرات عافاكم,payment,negative,Arabic,Moroccan Darija,5,train
+بصراحة تخصم ليا المبلغ جوج مرات وما خدامش,payment,negative,Arabic,Moroccan Darija,6,train
+بصراحة تخصم ليا المبلغ جوج مرات بزاف,payment,negative,Arabic,Moroccan Darija,7,train
+للأسف تخصم ليا المبلغ جوج مرات,payment,negative,Arabic,Moroccan Darija,8,train
+للأسف تخصم ليا المبلغ جوج مرات عافاكم,payment,negative,Arabic,Moroccan Darija,9,train
+للأسف تخصم ليا المبلغ جوج مرات وما خدامش,payment,negative,Arabic,Moroccan Darija,10,train
+للأسف تخصم ليا المبلغ جوج مرات بزاف,payment,negative,Arabic,Moroccan Darija,11,train
+من البارح وتخصم ليا المبلغ جوج مرات,payment,negative,Arabic,Moroccan Darija,12,train
+من البارح وتخصم ليا المبلغ جوج مرات عافاكم,payment,negative,Arabic,Moroccan Darija,13,train
+من البارح وتخصم ليا المبلغ جوج مرات وما خدامش,payment,negative,Arabic,Moroccan Darija,14,train
+من البارح وتخصم ليا المبلغ جوج مرات بزاف,payment,negative,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق تخصم ليا المبلغ جوج مرات,payment,negative,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق تخصم ليا المبلغ جوج مرات عافاكم,payment,negative,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق تخصم ليا المبلغ جوج مرات وما خدامش,payment,negative,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق تخصم ليا المبلغ جوج مرات بزاف,payment,negative,Arabic,Moroccan Darija,19,train
+عفاكم، تخصم مني مبلغ زايد,payment,negative,Arabic,Moroccan Darija,0,test
+عفاكم، تخصم مني مبلغ زايد عافاكم,payment,negative,Arabic,Moroccan Darija,1,test
+عفاكم، تخصم مني مبلغ زايد وما خدامش,payment,negative,Arabic,Moroccan Darija,2,test
+عفاكم، تخصم مني مبلغ زايد بزاف,payment,negative,Arabic,Moroccan Darija,3,test
+بصراحة تخصم مني مبلغ زايد,payment,negative,Arabic,Moroccan Darija,4,test
+بصراحة تخصم مني مبلغ زايد عافاكم,payment,negative,Arabic,Moroccan Darija,5,test
+بصراحة تخصم مني مبلغ زايد وما خدامش,payment,negative,Arabic,Moroccan Darija,6,test
+بصراحة تخصم مني مبلغ زايد بزاف,payment,negative,Arabic,Moroccan Darija,7,test
+للأسف تخصم مني مبلغ زايد,payment,negative,Arabic,Moroccan Darija,8,test
+للأسف تخصم مني مبلغ زايد عافاكم,payment,negative,Arabic,Moroccan Darija,9,test
+للأسف تخصم مني مبلغ زايد وما خدامش,payment,negative,Arabic,Moroccan Darija,10,test
+للأسف تخصم مني مبلغ زايد بزاف,payment,negative,Arabic,Moroccan Darija,11,test
+من البارح وتخصم مني مبلغ زايد,payment,negative,Arabic,Moroccan Darija,12,test
+من البارح وتخصم مني مبلغ زايد عافاكم,payment,negative,Arabic,Moroccan Darija,13,test
+من البارح وتخصم مني مبلغ زايد وما خدامش,payment,negative,Arabic,Moroccan Darija,14,test
+من البارح وتخصم مني مبلغ زايد بزاف,payment,negative,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق تخصم مني مبلغ زايد,payment,negative,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق تخصم مني مبلغ زايد عافاكم,payment,negative,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق تخصم مني مبلغ زايد وما خدامش,payment,negative,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق تخصم مني مبلغ زايد بزاف,payment,negative,Arabic,Moroccan Darija,19,test
+يا جماعة، انسحب المبلغ مرتين,payment,negative,Arabic,Gulf Arabic,0,train
+يا جماعة، انسحب المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Gulf Arabic,1,train
+يا جماعة، انسحب المبلغ مرتين وما يضبط,payment,negative,Arabic,Gulf Arabic,2,train
+يا جماعة، انسحب المبلغ مرتين وايد,payment,negative,Arabic,Gulf Arabic,3,train
+والله انسحب المبلغ مرتين,payment,negative,Arabic,Gulf Arabic,4,train
+والله انسحب المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Gulf Arabic,5,train
+والله انسحب المبلغ مرتين وما يضبط,payment,negative,Arabic,Gulf Arabic,6,train
+والله انسحب المبلغ مرتين وايد,payment,negative,Arabic,Gulf Arabic,7,train
+للأسف انسحب المبلغ مرتين,payment,negative,Arabic,Gulf Arabic,8,train
+للأسف انسحب المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Gulf Arabic,9,train
+للأسف انسحب المبلغ مرتين وما يضبط,payment,negative,Arabic,Gulf Arabic,10,train
+للأسف انسحب المبلغ مرتين وايد,payment,negative,Arabic,Gulf Arabic,11,train
+من امس وانسحب المبلغ مرتين,payment,negative,Arabic,Gulf Arabic,12,train
+من امس وانسحب المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Gulf Arabic,13,train
+من امس وانسحب المبلغ مرتين وما يضبط,payment,negative,Arabic,Gulf Arabic,14,train
+من امس وانسحب المبلغ مرتين وايد,payment,negative,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق انسحب المبلغ مرتين,payment,negative,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق انسحب المبلغ مرتين لو سمحتوا,payment,negative,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق انسحب المبلغ مرتين وما يضبط,payment,negative,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق انسحب المبلغ مرتين وايد,payment,negative,Arabic,Gulf Arabic,19,train
+يا جماعة، طلع لي خصم زيادة,payment,negative,Arabic,Gulf Arabic,0,test
+يا جماعة، طلع لي خصم زيادة لو سمحتوا,payment,negative,Arabic,Gulf Arabic,1,test
+يا جماعة، طلع لي خصم زيادة وما يضبط,payment,negative,Arabic,Gulf Arabic,2,test
+يا جماعة، طلع لي خصم زيادة وايد,payment,negative,Arabic,Gulf Arabic,3,test
+والله طلع لي خصم زيادة,payment,negative,Arabic,Gulf Arabic,4,test
+والله طلع لي خصم زيادة لو سمحتوا,payment,negative,Arabic,Gulf Arabic,5,test
+والله طلع لي خصم زيادة وما يضبط,payment,negative,Arabic,Gulf Arabic,6,test
+والله طلع لي خصم زيادة وايد,payment,negative,Arabic,Gulf Arabic,7,test
+للأسف طلع لي خصم زيادة,payment,negative,Arabic,Gulf Arabic,8,test
+للأسف طلع لي خصم زيادة لو سمحتوا,payment,negative,Arabic,Gulf Arabic,9,test
+للأسف طلع لي خصم زيادة وما يضبط,payment,negative,Arabic,Gulf Arabic,10,test
+للأسف طلع لي خصم زيادة وايد,payment,negative,Arabic,Gulf Arabic,11,test
+من امس وطلع لي خصم زيادة,payment,negative,Arabic,Gulf Arabic,12,test
+من امس وطلع لي خصم زيادة لو سمحتوا,payment,negative,Arabic,Gulf Arabic,13,test
+من امس وطلع لي خصم زيادة وما يضبط,payment,negative,Arabic,Gulf Arabic,14,test
+من امس وطلع لي خصم زيادة وايد,payment,negative,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق طلع لي خصم زيادة,payment,negative,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق طلع لي خصم زيادة لو سمحتوا,payment,negative,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق طلع لي خصم زيادة وما يضبط,payment,negative,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق طلع لي خصم زيادة وايد,payment,negative,Arabic,Gulf Arabic,19,test
+شباب، خصموا المبلغ مرتين,payment,negative,Arabic,Iraqi Arabic,0,train
+شباب، خصموا المبلغ مرتين اذا ممكن,payment,negative,Arabic,Iraqi Arabic,1,train
+شباب، خصموا المبلغ مرتين وما يشتغل,payment,negative,Arabic,Iraqi Arabic,2,train
+شباب، خصموا المبلغ مرتين كلش,payment,negative,Arabic,Iraqi Arabic,3,train
+والله خصموا المبلغ مرتين,payment,negative,Arabic,Iraqi Arabic,4,train
+والله خصموا المبلغ مرتين اذا ممكن,payment,negative,Arabic,Iraqi Arabic,5,train
+والله خصموا المبلغ مرتين وما يشتغل,payment,negative,Arabic,Iraqi Arabic,6,train
+والله خصموا المبلغ مرتين كلش,payment,negative,Arabic,Iraqi Arabic,7,train
+للأسف خصموا المبلغ مرتين,payment,negative,Arabic,Iraqi Arabic,8,train
+للأسف خصموا المبلغ مرتين اذا ممكن,payment,negative,Arabic,Iraqi Arabic,9,train
+للأسف خصموا المبلغ مرتين وما يشتغل,payment,negative,Arabic,Iraqi Arabic,10,train
+للأسف خصموا المبلغ مرتين كلش,payment,negative,Arabic,Iraqi Arabic,11,train
+من البارحة وخصموا المبلغ مرتين,payment,negative,Arabic,Iraqi Arabic,12,train
+من البارحة وخصموا المبلغ مرتين اذا ممكن,payment,negative,Arabic,Iraqi Arabic,13,train
+من البارحة وخصموا المبلغ مرتين وما يشتغل,payment,negative,Arabic,Iraqi Arabic,14,train
+من البارحة وخصموا المبلغ مرتين كلش,payment,negative,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق خصموا المبلغ مرتين,payment,negative,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق خصموا المبلغ مرتين اذا ممكن,payment,negative,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق خصموا المبلغ مرتين وما يشتغل,payment,negative,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق خصموا المبلغ مرتين كلش,payment,negative,Arabic,Iraqi Arabic,19,train
+شباب، انسحب مني مبلغ زايد,payment,negative,Arabic,Iraqi Arabic,0,test
+شباب، انسحب مني مبلغ زايد اذا ممكن,payment,negative,Arabic,Iraqi Arabic,1,test
+شباب، انسحب مني مبلغ زايد وما يشتغل,payment,negative,Arabic,Iraqi Arabic,2,test
+شباب، انسحب مني مبلغ زايد كلش,payment,negative,Arabic,Iraqi Arabic,3,test
+والله انسحب مني مبلغ زايد,payment,negative,Arabic,Iraqi Arabic,4,test
+والله انسحب مني مبلغ زايد اذا ممكن,payment,negative,Arabic,Iraqi Arabic,5,test
+والله انسحب مني مبلغ زايد وما يشتغل,payment,negative,Arabic,Iraqi Arabic,6,test
+والله انسحب مني مبلغ زايد كلش,payment,negative,Arabic,Iraqi Arabic,7,test
+للأسف انسحب مني مبلغ زايد,payment,negative,Arabic,Iraqi Arabic,8,test
+للأسف انسحب مني مبلغ زايد اذا ممكن,payment,negative,Arabic,Iraqi Arabic,9,test
+للأسف انسحب مني مبلغ زايد وما يشتغل,payment,negative,Arabic,Iraqi Arabic,10,test
+للأسف انسحب مني مبلغ زايد كلش,payment,negative,Arabic,Iraqi Arabic,11,test
+من البارحة وانسحب مني مبلغ زايد,payment,negative,Arabic,Iraqi Arabic,12,test
+من البارحة وانسحب مني مبلغ زايد اذا ممكن,payment,negative,Arabic,Iraqi Arabic,13,test
+من البارحة وانسحب مني مبلغ زايد وما يشتغل,payment,negative,Arabic,Iraqi Arabic,14,test
+من البارحة وانسحب مني مبلغ زايد كلش,payment,negative,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق انسحب مني مبلغ زايد,payment,negative,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق انسحب مني مبلغ زايد اذا ممكن,payment,negative,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق انسحب مني مبلغ زايد وما يشتغل,payment,negative,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق انسحب مني مبلغ زايد كلش,payment,negative,Arabic,Iraqi Arabic,19,test
+"Honestly, I was charged twice",payment,negative,English,Standard English,0,train
+"Honestly, I was charged twice please",payment,negative,English,Standard English,1,train
+"Honestly, I was charged twice and it still does not work",payment,negative,English,Standard English,2,train
+"Honestly, I was charged twice lately",payment,negative,English,Standard English,3,train
+"Unfortunately, I was charged twice",payment,negative,English,Standard English,4,train
+"Unfortunately, I was charged twice please",payment,negative,English,Standard English,5,train
+"Unfortunately, I was charged twice and it still does not work",payment,negative,English,Standard English,6,train
+"Unfortunately, I was charged twice lately",payment,negative,English,Standard English,7,train
+"Since yesterday, I was charged twice",payment,negative,English,Standard English,8,train
+"Since yesterday, I was charged twice please",payment,negative,English,Standard English,9,train
+"Since yesterday, I was charged twice and it still does not work",payment,negative,English,Standard English,10,train
+"Since yesterday, I was charged twice lately",payment,negative,English,Standard English,11,train
+"Whenever I open the app, I was charged twice",payment,negative,English,Standard English,12,train
+"Whenever I open the app, I was charged twice please",payment,negative,English,Standard English,13,train
+"Whenever I open the app, I was charged twice and it still does not work",payment,negative,English,Standard English,14,train
+"Whenever I open the app, I was charged twice lately",payment,negative,English,Standard English,15,train
+Please note: I was charged twice,payment,negative,English,Standard English,16,train
+Please note: I was charged twice please,payment,negative,English,Standard English,17,train
+Please note: I was charged twice and it still does not work,payment,negative,English,Standard English,18,train
+Please note: I was charged twice lately,payment,negative,English,Standard English,19,train
+"Honestly, there is an extra charge on my bill",payment,negative,English,Standard English,0,test
+"Honestly, there is an extra charge on my bill please",payment,negative,English,Standard English,1,test
+"Honestly, there is an extra charge on my bill and it still does not work",payment,negative,English,Standard English,2,test
+"Honestly, there is an extra charge on my bill lately",payment,negative,English,Standard English,3,test
+"Unfortunately, there is an extra charge on my bill",payment,negative,English,Standard English,4,test
+"Unfortunately, there is an extra charge on my bill please",payment,negative,English,Standard English,5,test
+"Unfortunately, there is an extra charge on my bill and it still does not work",payment,negative,English,Standard English,6,test
+"Unfortunately, there is an extra charge on my bill lately",payment,negative,English,Standard English,7,test
+"Since yesterday, there is an extra charge on my bill",payment,negative,English,Standard English,8,test
+"Since yesterday, there is an extra charge on my bill please",payment,negative,English,Standard English,9,test
+"Since yesterday, there is an extra charge on my bill and it still does not work",payment,negative,English,Standard English,10,test
+"Since yesterday, there is an extra charge on my bill lately",payment,negative,English,Standard English,11,test
+"Whenever I open the app, there is an extra charge on my bill",payment,negative,English,Standard English,12,test
+"Whenever I open the app, there is an extra charge on my bill please",payment,negative,English,Standard English,13,test
+"Whenever I open the app, there is an extra charge on my bill and it still does not work",payment,negative,English,Standard English,14,test
+"Whenever I open the app, there is an extra charge on my bill lately",payment,negative,English,Standard English,15,test
+Please note: there is an extra charge on my bill,payment,negative,English,Standard English,16,test
+Please note: there is an extra charge on my bill please,payment,negative,English,Standard English,17,test
+Please note: there is an extra charge on my bill and it still does not work,payment,negative,English,Standard English,18,test
+Please note: there is an extra charge on my bill lately,payment,negative,English,Standard English,19,test
+"ya jama3a, enkhasam el mablagh marteen",payment,negative,Arabizi,Arabizi,0,train
+"ya jama3a, enkhasam el mablagh marteen please",payment,negative,Arabizi,Arabizi,1,train
+"ya jama3a, enkhasam el mablagh marteen w ma zabat",payment,negative,Arabizi,Arabizi,2,train
+"ya jama3a, enkhasam el mablagh marteen lately",payment,negative,Arabizi,Arabizi,3,train
+wallah enkhasam el mablagh marteen,payment,negative,Arabizi,Arabizi,4,train
+wallah enkhasam el mablagh marteen please,payment,negative,Arabizi,Arabizi,5,train
+wallah enkhasam el mablagh marteen w ma zabat,payment,negative,Arabizi,Arabizi,6,train
+wallah enkhasam el mablagh marteen lately,payment,negative,Arabizi,Arabizi,7,train
+l2asaf enkhasam el mablagh marteen,payment,negative,Arabizi,Arabizi,8,train
+l2asaf enkhasam el mablagh marteen please,payment,negative,Arabizi,Arabizi,9,train
+l2asaf enkhasam el mablagh marteen w ma zabat,payment,negative,Arabizi,Arabizi,10,train
+l2asaf enkhasam el mablagh marteen lately,payment,negative,Arabizi,Arabizi,11,train
+men embare7 wenkhasam el mablagh marteen,payment,negative,Arabizi,Arabizi,12,train
+men embare7 wenkhasam el mablagh marteen please,payment,negative,Arabizi,Arabizi,13,train
+men embare7 wenkhasam el mablagh marteen w ma zabat,payment,negative,Arabizi,Arabizi,14,train
+men embare7 wenkhasam el mablagh marteen lately,payment,negative,Arabizi,Arabizi,15,train
+kol ma afta7 el app enkhasam el mablagh marteen,payment,negative,Arabizi,Arabizi,16,train
+kol ma afta7 el app enkhasam el mablagh marteen please,payment,negative,Arabizi,Arabizi,17,train
+kol ma afta7 el app enkhasam el mablagh marteen w ma zabat,payment,negative,Arabizi,Arabizi,18,train
+kol ma afta7 el app enkhasam el mablagh marteen lately,payment,negative,Arabizi,Arabizi,19,train
+"ya jama3a, t5asam menni mablagh zeyada",payment,negative,Arabizi,Arabizi,0,test
+"ya jama3a, t5asam menni mablagh zeyada please",payment,negative,Arabizi,Arabizi,1,test
+"ya jama3a, t5asam menni mablagh zeyada w ma zabat",payment,negative,Arabizi,Arabizi,2,test
+"ya jama3a, t5asam menni mablagh zeyada lately",payment,negative,Arabizi,Arabizi,3,test
+wallah t5asam menni mablagh zeyada,payment,negative,Arabizi,Arabizi,4,test
+wallah t5asam menni mablagh zeyada please,payment,negative,Arabizi,Arabizi,5,test
+wallah t5asam menni mablagh zeyada w ma zabat,payment,negative,Arabizi,Arabizi,6,test
+wallah t5asam menni mablagh zeyada lately,payment,negative,Arabizi,Arabizi,7,test
+l2asaf t5asam menni mablagh zeyada,payment,negative,Arabizi,Arabizi,8,test
+l2asaf t5asam menni mablagh zeyada please,payment,negative,Arabizi,Arabizi,9,test
+l2asaf t5asam menni mablagh zeyada w ma zabat,payment,negative,Arabizi,Arabizi,10,test
+l2asaf t5asam menni mablagh zeyada lately,payment,negative,Arabizi,Arabizi,11,test
+men embare7 wt5asam menni mablagh zeyada,payment,negative,Arabizi,Arabizi,12,test
+men embare7 wt5asam menni mablagh zeyada please,payment,negative,Arabizi,Arabizi,13,test
+men embare7 wt5asam menni mablagh zeyada w ma zabat,payment,negative,Arabizi,Arabizi,14,test
+men embare7 wt5asam menni mablagh zeyada lately,payment,negative,Arabizi,Arabizi,15,test
+kol ma afta7 el app t5asam menni mablagh zeyada,payment,negative,Arabizi,Arabizi,16,test
+kol ma afta7 el app t5asam menni mablagh zeyada please,payment,negative,Arabizi,Arabizi,17,test
+kol ma afta7 el app t5asam menni mablagh zeyada w ma zabat,payment,negative,Arabizi,Arabizi,18,test
+kol ma afta7 el app t5asam menni mablagh zeyada lately,payment,negative,Arabizi,Arabizi,19,test
+يا جماعة، القوائم مو واضحة,usability,negative,Arabic,Saudi Arabic,0,train
+يا جماعة، القوائم مو واضحة من فضلكم,usability,negative,Arabic,Saudi Arabic,1,train
+يا جماعة، القوائم مو واضحة وما ضبط معي,usability,negative,Arabic,Saudi Arabic,2,train
+يا جماعة، القوائم مو واضحة مرة,usability,negative,Arabic,Saudi Arabic,3,train
+والله القوائم مو واضحة,usability,negative,Arabic,Saudi Arabic,4,train
+والله القوائم مو واضحة من فضلكم,usability,negative,Arabic,Saudi Arabic,5,train
+والله القوائم مو واضحة وما ضبط معي,usability,negative,Arabic,Saudi Arabic,6,train
+والله القوائم مو واضحة مرة,usability,negative,Arabic,Saudi Arabic,7,train
+للأسف القوائم مو واضحة,usability,negative,Arabic,Saudi Arabic,8,train
+للأسف القوائم مو واضحة من فضلكم,usability,negative,Arabic,Saudi Arabic,9,train
+للأسف القوائم مو واضحة وما ضبط معي,usability,negative,Arabic,Saudi Arabic,10,train
+للأسف القوائم مو واضحة مرة,usability,negative,Arabic,Saudi Arabic,11,train
+من امس والقوائم مو واضحة,usability,negative,Arabic,Saudi Arabic,12,train
+من امس والقوائم مو واضحة من فضلكم,usability,negative,Arabic,Saudi Arabic,13,train
+من امس والقوائم مو واضحة وما ضبط معي,usability,negative,Arabic,Saudi Arabic,14,train
+من امس والقوائم مو واضحة مرة,usability,negative,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق القوائم مو واضحة,usability,negative,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق القوائم مو واضحة من فضلكم,usability,negative,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق القوائم مو واضحة وما ضبط معي,usability,negative,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق القوائم مو واضحة مرة,usability,negative,Arabic,Saudi Arabic,19,train
+يا جماعة، ما لقيت صفحة الاعدادات,usability,negative,Arabic,Saudi Arabic,0,test
+يا جماعة، ما لقيت صفحة الاعدادات من فضلكم,usability,negative,Arabic,Saudi Arabic,1,test
+يا جماعة، ما لقيت صفحة الاعدادات وما ضبط معي,usability,negative,Arabic,Saudi Arabic,2,test
+يا جماعة، ما لقيت صفحة الاعدادات مرة,usability,negative,Arabic,Saudi Arabic,3,test
+والله ما لقيت صفحة الاعدادات,usability,negative,Arabic,Saudi Arabic,4,test
+والله ما لقيت صفحة الاعدادات من فضلكم,usability,negative,Arabic,Saudi Arabic,5,test
+والله ما لقيت صفحة الاعدادات وما ضبط معي,usability,negative,Arabic,Saudi Arabic,6,test
+والله ما لقيت صفحة الاعدادات مرة,usability,negative,Arabic,Saudi Arabic,7,test
+للأسف ما لقيت صفحة الاعدادات,usability,negative,Arabic,Saudi Arabic,8,test
+للأسف ما لقيت صفحة الاعدادات من فضلكم,usability,negative,Arabic,Saudi Arabic,9,test
+للأسف ما لقيت صفحة الاعدادات وما ضبط معي,usability,negative,Arabic,Saudi Arabic,10,test
+للأسف ما لقيت صفحة الاعدادات مرة,usability,negative,Arabic,Saudi Arabic,11,test
+من امس وما لقيت صفحة الاعدادات,usability,negative,Arabic,Saudi Arabic,12,test
+من امس وما لقيت صفحة الاعدادات من فضلكم,usability,negative,Arabic,Saudi Arabic,13,test
+من امس وما لقيت صفحة الاعدادات وما ضبط معي,usability,negative,Arabic,Saudi Arabic,14,test
+من امس وما لقيت صفحة الاعدادات مرة,usability,negative,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق ما لقيت صفحة الاعدادات,usability,negative,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق ما لقيت صفحة الاعدادات من فضلكم,usability,negative,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق ما لقيت صفحة الاعدادات وما ضبط معي,usability,negative,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق ما لقيت صفحة الاعدادات مرة,usability,negative,Arabic,Saudi Arabic,19,test
+يا جماعة، القوايم مش واضحة,usability,negative,Arabic,Egyptian Arabic,0,train
+يا جماعة، القوايم مش واضحة لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,1,train
+يا جماعة، القوايم مش واضحة ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,2,train
+يا جماعة، القوايم مش واضحة خالص,usability,negative,Arabic,Egyptian Arabic,3,train
+بصراحة القوايم مش واضحة,usability,negative,Arabic,Egyptian Arabic,4,train
+بصراحة القوايم مش واضحة لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,5,train
+بصراحة القوايم مش واضحة ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,6,train
+بصراحة القوايم مش واضحة خالص,usability,negative,Arabic,Egyptian Arabic,7,train
+للأسف القوايم مش واضحة,usability,negative,Arabic,Egyptian Arabic,8,train
+للأسف القوايم مش واضحة لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,9,train
+للأسف القوايم مش واضحة ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,10,train
+للأسف القوايم مش واضحة خالص,usability,negative,Arabic,Egyptian Arabic,11,train
+من امبارح والقوايم مش واضحة,usability,negative,Arabic,Egyptian Arabic,12,train
+من امبارح والقوايم مش واضحة لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,13,train
+من امبارح والقوايم مش واضحة ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,14,train
+من امبارح والقوايم مش واضحة خالص,usability,negative,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن القوايم مش واضحة,usability,negative,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن القوايم مش واضحة لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن القوايم مش واضحة ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن القوايم مش واضحة خالص,usability,negative,Arabic,Egyptian Arabic,19,train
+يا جماعة، مش لاقي صفحة الاعدادات,usability,negative,Arabic,Egyptian Arabic,0,test
+يا جماعة، مش لاقي صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,1,test
+يا جماعة، مش لاقي صفحة الاعدادات ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,2,test
+يا جماعة، مش لاقي صفحة الاعدادات خالص,usability,negative,Arabic,Egyptian Arabic,3,test
+بصراحة مش لاقي صفحة الاعدادات,usability,negative,Arabic,Egyptian Arabic,4,test
+بصراحة مش لاقي صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,5,test
+بصراحة مش لاقي صفحة الاعدادات ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,6,test
+بصراحة مش لاقي صفحة الاعدادات خالص,usability,negative,Arabic,Egyptian Arabic,7,test
+للأسف مش لاقي صفحة الاعدادات,usability,negative,Arabic,Egyptian Arabic,8,test
+للأسف مش لاقي صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,9,test
+للأسف مش لاقي صفحة الاعدادات ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,10,test
+للأسف مش لاقي صفحة الاعدادات خالص,usability,negative,Arabic,Egyptian Arabic,11,test
+من امبارح ومش لاقي صفحة الاعدادات,usability,negative,Arabic,Egyptian Arabic,12,test
+من امبارح ومش لاقي صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,13,test
+من امبارح ومش لاقي صفحة الاعدادات ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,14,test
+من امبارح ومش لاقي صفحة الاعدادات خالص,usability,negative,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن مش لاقي صفحة الاعدادات,usability,negative,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن مش لاقي صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن مش لاقي صفحة الاعدادات ومش راضي يشتغل,usability,negative,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن مش لاقي صفحة الاعدادات خالص,usability,negative,Arabic,Egyptian Arabic,19,test
+عفاكم، القوائم ما واضحاش,usability,negative,Arabic,Moroccan Darija,0,train
+عفاكم، القوائم ما واضحاش عافاكم,usability,negative,Arabic,Moroccan Darija,1,train
+عفاكم، القوائم ما واضحاش وما خدامش,usability,negative,Arabic,Moroccan Darija,2,train
+عفاكم، القوائم ما واضحاش بزاف,usability,negative,Arabic,Moroccan Darija,3,train
+بصراحة القوائم ما واضحاش,usability,negative,Arabic,Moroccan Darija,4,train
+بصراحة القوائم ما واضحاش عافاكم,usability,negative,Arabic,Moroccan Darija,5,train
+بصراحة القوائم ما واضحاش وما خدامش,usability,negative,Arabic,Moroccan Darija,6,train
+بصراحة القوائم ما واضحاش بزاف,usability,negative,Arabic,Moroccan Darija,7,train
+للأسف القوائم ما واضحاش,usability,negative,Arabic,Moroccan Darija,8,train
+للأسف القوائم ما واضحاش عافاكم,usability,negative,Arabic,Moroccan Darija,9,train
+للأسف القوائم ما واضحاش وما خدامش,usability,negative,Arabic,Moroccan Darija,10,train
+للأسف القوائم ما واضحاش بزاف,usability,negative,Arabic,Moroccan Darija,11,train
+من البارح والقوائم ما واضحاش,usability,negative,Arabic,Moroccan Darija,12,train
+من البارح والقوائم ما واضحاش عافاكم,usability,negative,Arabic,Moroccan Darija,13,train
+من البارح والقوائم ما واضحاش وما خدامش,usability,negative,Arabic,Moroccan Darija,14,train
+من البارح والقوائم ما واضحاش بزاف,usability,negative,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق القوائم ما واضحاش,usability,negative,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق القوائم ما واضحاش عافاكم,usability,negative,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق القوائم ما واضحاش وما خدامش,usability,negative,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق القوائم ما واضحاش بزاف,usability,negative,Arabic,Moroccan Darija,19,train
+عفاكم، ما لقيتش صفحة الاعدادات,usability,negative,Arabic,Moroccan Darija,0,test
+عفاكم، ما لقيتش صفحة الاعدادات عافاكم,usability,negative,Arabic,Moroccan Darija,1,test
+عفاكم، ما لقيتش صفحة الاعدادات وما خدامش,usability,negative,Arabic,Moroccan Darija,2,test
+عفاكم، ما لقيتش صفحة الاعدادات بزاف,usability,negative,Arabic,Moroccan Darija,3,test
+بصراحة ما لقيتش صفحة الاعدادات,usability,negative,Arabic,Moroccan Darija,4,test
+بصراحة ما لقيتش صفحة الاعدادات عافاكم,usability,negative,Arabic,Moroccan Darija,5,test
+بصراحة ما لقيتش صفحة الاعدادات وما خدامش,usability,negative,Arabic,Moroccan Darija,6,test
+بصراحة ما لقيتش صفحة الاعدادات بزاف,usability,negative,Arabic,Moroccan Darija,7,test
+للأسف ما لقيتش صفحة الاعدادات,usability,negative,Arabic,Moroccan Darija,8,test
+للأسف ما لقيتش صفحة الاعدادات عافاكم,usability,negative,Arabic,Moroccan Darija,9,test
+للأسف ما لقيتش صفحة الاعدادات وما خدامش,usability,negative,Arabic,Moroccan Darija,10,test
+للأسف ما لقيتش صفحة الاعدادات بزاف,usability,negative,Arabic,Moroccan Darija,11,test
+من البارح وما لقيتش صفحة الاعدادات,usability,negative,Arabic,Moroccan Darija,12,test
+من البارح وما لقيتش صفحة الاعدادات عافاكم,usability,negative,Arabic,Moroccan Darija,13,test
+من البارح وما لقيتش صفحة الاعدادات وما خدامش,usability,negative,Arabic,Moroccan Darija,14,test
+من البارح وما لقيتش صفحة الاعدادات بزاف,usability,negative,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق ما لقيتش صفحة الاعدادات,usability,negative,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق ما لقيتش صفحة الاعدادات عافاكم,usability,negative,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق ما لقيتش صفحة الاعدادات وما خدامش,usability,negative,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق ما لقيتش صفحة الاعدادات بزاف,usability,negative,Arabic,Moroccan Darija,19,test
+يا جماعة، القوائم مب واضحة,usability,negative,Arabic,Gulf Arabic,0,train
+يا جماعة، القوائم مب واضحة لو سمحتوا,usability,negative,Arabic,Gulf Arabic,1,train
+يا جماعة، القوائم مب واضحة وما يضبط,usability,negative,Arabic,Gulf Arabic,2,train
+يا جماعة، القوائم مب واضحة وايد,usability,negative,Arabic,Gulf Arabic,3,train
+والله القوائم مب واضحة,usability,negative,Arabic,Gulf Arabic,4,train
+والله القوائم مب واضحة لو سمحتوا,usability,negative,Arabic,Gulf Arabic,5,train
+والله القوائم مب واضحة وما يضبط,usability,negative,Arabic,Gulf Arabic,6,train
+والله القوائم مب واضحة وايد,usability,negative,Arabic,Gulf Arabic,7,train
+للأسف القوائم مب واضحة,usability,negative,Arabic,Gulf Arabic,8,train
+للأسف القوائم مب واضحة لو سمحتوا,usability,negative,Arabic,Gulf Arabic,9,train
+للأسف القوائم مب واضحة وما يضبط,usability,negative,Arabic,Gulf Arabic,10,train
+للأسف القوائم مب واضحة وايد,usability,negative,Arabic,Gulf Arabic,11,train
+من امس والقوائم مب واضحة,usability,negative,Arabic,Gulf Arabic,12,train
+من امس والقوائم مب واضحة لو سمحتوا,usability,negative,Arabic,Gulf Arabic,13,train
+من امس والقوائم مب واضحة وما يضبط,usability,negative,Arabic,Gulf Arabic,14,train
+من امس والقوائم مب واضحة وايد,usability,negative,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق القوائم مب واضحة,usability,negative,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق القوائم مب واضحة لو سمحتوا,usability,negative,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق القوائم مب واضحة وما يضبط,usability,negative,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق القوائم مب واضحة وايد,usability,negative,Arabic,Gulf Arabic,19,train
+يا جماعة، ما حصلت صفحة الاعدادات,usability,negative,Arabic,Gulf Arabic,0,test
+يا جماعة، ما حصلت صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Gulf Arabic,1,test
+يا جماعة، ما حصلت صفحة الاعدادات وما يضبط,usability,negative,Arabic,Gulf Arabic,2,test
+يا جماعة، ما حصلت صفحة الاعدادات وايد,usability,negative,Arabic,Gulf Arabic,3,test
+والله ما حصلت صفحة الاعدادات,usability,negative,Arabic,Gulf Arabic,4,test
+والله ما حصلت صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Gulf Arabic,5,test
+والله ما حصلت صفحة الاعدادات وما يضبط,usability,negative,Arabic,Gulf Arabic,6,test
+والله ما حصلت صفحة الاعدادات وايد,usability,negative,Arabic,Gulf Arabic,7,test
+للأسف ما حصلت صفحة الاعدادات,usability,negative,Arabic,Gulf Arabic,8,test
+للأسف ما حصلت صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Gulf Arabic,9,test
+للأسف ما حصلت صفحة الاعدادات وما يضبط,usability,negative,Arabic,Gulf Arabic,10,test
+للأسف ما حصلت صفحة الاعدادات وايد,usability,negative,Arabic,Gulf Arabic,11,test
+من امس وما حصلت صفحة الاعدادات,usability,negative,Arabic,Gulf Arabic,12,test
+من امس وما حصلت صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Gulf Arabic,13,test
+من امس وما حصلت صفحة الاعدادات وما يضبط,usability,negative,Arabic,Gulf Arabic,14,test
+من امس وما حصلت صفحة الاعدادات وايد,usability,negative,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق ما حصلت صفحة الاعدادات,usability,negative,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق ما حصلت صفحة الاعدادات لو سمحتوا,usability,negative,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق ما حصلت صفحة الاعدادات وما يضبط,usability,negative,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق ما حصلت صفحة الاعدادات وايد,usability,negative,Arabic,Gulf Arabic,19,test
+شباب، القوائم مو واضحة,usability,negative,Arabic,Iraqi Arabic,0,train
+شباب، القوائم مو واضحة اذا ممكن,usability,negative,Arabic,Iraqi Arabic,1,train
+شباب، القوائم مو واضحة وما يشتغل,usability,negative,Arabic,Iraqi Arabic,2,train
+شباب، القوائم مو واضحة كلش,usability,negative,Arabic,Iraqi Arabic,3,train
+والله القوائم مو واضحة,usability,negative,Arabic,Iraqi Arabic,4,train
+والله القوائم مو واضحة اذا ممكن,usability,negative,Arabic,Iraqi Arabic,5,train
+والله القوائم مو واضحة وما يشتغل,usability,negative,Arabic,Iraqi Arabic,6,train
+والله القوائم مو واضحة كلش,usability,negative,Arabic,Iraqi Arabic,7,train
+للأسف القوائم مو واضحة,usability,negative,Arabic,Iraqi Arabic,8,train
+للأسف القوائم مو واضحة اذا ممكن,usability,negative,Arabic,Iraqi Arabic,9,train
+للأسف القوائم مو واضحة وما يشتغل,usability,negative,Arabic,Iraqi Arabic,10,train
+للأسف القوائم مو واضحة كلش,usability,negative,Arabic,Iraqi Arabic,11,train
+من البارحة والقوائم مو واضحة,usability,negative,Arabic,Iraqi Arabic,12,train
+من البارحة والقوائم مو واضحة اذا ممكن,usability,negative,Arabic,Iraqi Arabic,13,train
+من البارحة والقوائم مو واضحة وما يشتغل,usability,negative,Arabic,Iraqi Arabic,14,train
+من البارحة والقوائم مو واضحة كلش,usability,negative,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق القوائم مو واضحة,usability,negative,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق القوائم مو واضحة اذا ممكن,usability,negative,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق القوائم مو واضحة وما يشتغل,usability,negative,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق القوائم مو واضحة كلش,usability,negative,Arabic,Iraqi Arabic,19,train
+شباب، ما لكيت صفحة الاعدادات,usability,negative,Arabic,Iraqi Arabic,0,test
+شباب، ما لكيت صفحة الاعدادات اذا ممكن,usability,negative,Arabic,Iraqi Arabic,1,test
+شباب، ما لكيت صفحة الاعدادات وما يشتغل,usability,negative,Arabic,Iraqi Arabic,2,test
+شباب، ما لكيت صفحة الاعدادات كلش,usability,negative,Arabic,Iraqi Arabic,3,test
+والله ما لكيت صفحة الاعدادات,usability,negative,Arabic,Iraqi Arabic,4,test
+والله ما لكيت صفحة الاعدادات اذا ممكن,usability,negative,Arabic,Iraqi Arabic,5,test
+والله ما لكيت صفحة الاعدادات وما يشتغل,usability,negative,Arabic,Iraqi Arabic,6,test
+والله ما لكيت صفحة الاعدادات كلش,usability,negative,Arabic,Iraqi Arabic,7,test
+للأسف ما لكيت صفحة الاعدادات,usability,negative,Arabic,Iraqi Arabic,8,test
+للأسف ما لكيت صفحة الاعدادات اذا ممكن,usability,negative,Arabic,Iraqi Arabic,9,test
+للأسف ما لكيت صفحة الاعدادات وما يشتغل,usability,negative,Arabic,Iraqi Arabic,10,test
+للأسف ما لكيت صفحة الاعدادات كلش,usability,negative,Arabic,Iraqi Arabic,11,test
+من البارحة وما لكيت صفحة الاعدادات,usability,negative,Arabic,Iraqi Arabic,12,test
+من البارحة وما لكيت صفحة الاعدادات اذا ممكن,usability,negative,Arabic,Iraqi Arabic,13,test
+من البارحة وما لكيت صفحة الاعدادات وما يشتغل,usability,negative,Arabic,Iraqi Arabic,14,test
+من البارحة وما لكيت صفحة الاعدادات كلش,usability,negative,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق ما لكيت صفحة الاعدادات,usability,negative,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق ما لكيت صفحة الاعدادات اذا ممكن,usability,negative,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق ما لكيت صفحة الاعدادات وما يشتغل,usability,negative,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق ما لكيت صفحة الاعدادات كلش,usability,negative,Arabic,Iraqi Arabic,19,test
+"Honestly, the menus are confusing",usability,negative,English,Standard English,0,train
+"Honestly, the menus are confusing please",usability,negative,English,Standard English,1,train
+"Honestly, the menus are confusing and it still does not work",usability,negative,English,Standard English,2,train
+"Honestly, the menus are confusing lately",usability,negative,English,Standard English,3,train
+"Unfortunately, the menus are confusing",usability,negative,English,Standard English,4,train
+"Unfortunately, the menus are confusing please",usability,negative,English,Standard English,5,train
+"Unfortunately, the menus are confusing and it still does not work",usability,negative,English,Standard English,6,train
+"Unfortunately, the menus are confusing lately",usability,negative,English,Standard English,7,train
+"Since yesterday, the menus are confusing",usability,negative,English,Standard English,8,train
+"Since yesterday, the menus are confusing please",usability,negative,English,Standard English,9,train
+"Since yesterday, the menus are confusing and it still does not work",usability,negative,English,Standard English,10,train
+"Since yesterday, the menus are confusing lately",usability,negative,English,Standard English,11,train
+"Whenever I open the app, the menus are confusing",usability,negative,English,Standard English,12,train
+"Whenever I open the app, the menus are confusing please",usability,negative,English,Standard English,13,train
+"Whenever I open the app, the menus are confusing and it still does not work",usability,negative,English,Standard English,14,train
+"Whenever I open the app, the menus are confusing lately",usability,negative,English,Standard English,15,train
+Please note: the menus are confusing,usability,negative,English,Standard English,16,train
+Please note: the menus are confusing please,usability,negative,English,Standard English,17,train
+Please note: the menus are confusing and it still does not work,usability,negative,English,Standard English,18,train
+Please note: the menus are confusing lately,usability,negative,English,Standard English,19,train
+"Honestly, I cannot find the settings page",usability,negative,English,Standard English,0,test
+"Honestly, I cannot find the settings page please",usability,negative,English,Standard English,1,test
+"Honestly, I cannot find the settings page and it still does not work",usability,negative,English,Standard English,2,test
+"Honestly, I cannot find the settings page lately",usability,negative,English,Standard English,3,test
+"Unfortunately, I cannot find the settings page",usability,negative,English,Standard English,4,test
+"Unfortunately, I cannot find the settings page please",usability,negative,English,Standard English,5,test
+"Unfortunately, I cannot find the settings page and it still does not work",usability,negative,English,Standard English,6,test
+"Unfortunately, I cannot find the settings page lately",usability,negative,English,Standard English,7,test
+"Since yesterday, I cannot find the settings page",usability,negative,English,Standard English,8,test
+"Since yesterday, I cannot find the settings page please",usability,negative,English,Standard English,9,test
+"Since yesterday, I cannot find the settings page and it still does not work",usability,negative,English,Standard English,10,test
+"Since yesterday, I cannot find the settings page lately",usability,negative,English,Standard English,11,test
+"Whenever I open the app, I cannot find the settings page",usability,negative,English,Standard English,12,test
+"Whenever I open the app, I cannot find the settings page please",usability,negative,English,Standard English,13,test
+"Whenever I open the app, I cannot find the settings page and it still does not work",usability,negative,English,Standard English,14,test
+"Whenever I open the app, I cannot find the settings page lately",usability,negative,English,Standard English,15,test
+Please note: I cannot find the settings page,usability,negative,English,Standard English,16,test
+Please note: I cannot find the settings page please,usability,negative,English,Standard English,17,test
+Please note: I cannot find the settings page and it still does not work,usability,negative,English,Standard English,18,test
+Please note: I cannot find the settings page lately,usability,negative,English,Standard English,19,test
+"ya jama3a, el gawayeem mesh wad7a",usability,negative,Arabizi,Arabizi,0,train
+"ya jama3a, el gawayeem mesh wad7a please",usability,negative,Arabizi,Arabizi,1,train
+"ya jama3a, el gawayeem mesh wad7a w ma zabat",usability,negative,Arabizi,Arabizi,2,train
+"ya jama3a, el gawayeem mesh wad7a lately",usability,negative,Arabizi,Arabizi,3,train
+wallah el gawayeem mesh wad7a,usability,negative,Arabizi,Arabizi,4,train
+wallah el gawayeem mesh wad7a please,usability,negative,Arabizi,Arabizi,5,train
+wallah el gawayeem mesh wad7a w ma zabat,usability,negative,Arabizi,Arabizi,6,train
+wallah el gawayeem mesh wad7a lately,usability,negative,Arabizi,Arabizi,7,train
+l2asaf el gawayeem mesh wad7a,usability,negative,Arabizi,Arabizi,8,train
+l2asaf el gawayeem mesh wad7a please,usability,negative,Arabizi,Arabizi,9,train
+l2asaf el gawayeem mesh wad7a w ma zabat,usability,negative,Arabizi,Arabizi,10,train
+l2asaf el gawayeem mesh wad7a lately,usability,negative,Arabizi,Arabizi,11,train
+men embare7 wel gawayeem mesh wad7a,usability,negative,Arabizi,Arabizi,12,train
+men embare7 wel gawayeem mesh wad7a please,usability,negative,Arabizi,Arabizi,13,train
+men embare7 wel gawayeem mesh wad7a w ma zabat,usability,negative,Arabizi,Arabizi,14,train
+men embare7 wel gawayeem mesh wad7a lately,usability,negative,Arabizi,Arabizi,15,train
+kol ma afta7 el app el gawayeem mesh wad7a,usability,negative,Arabizi,Arabizi,16,train
+kol ma afta7 el app el gawayeem mesh wad7a please,usability,negative,Arabizi,Arabizi,17,train
+kol ma afta7 el app el gawayeem mesh wad7a w ma zabat,usability,negative,Arabizi,Arabizi,18,train
+kol ma afta7 el app el gawayeem mesh wad7a lately,usability,negative,Arabizi,Arabizi,19,train
+"ya jama3a, ma la2eit saf7et el e3dadat",usability,negative,Arabizi,Arabizi,0,test
+"ya jama3a, ma la2eit saf7et el e3dadat please",usability,negative,Arabizi,Arabizi,1,test
+"ya jama3a, ma la2eit saf7et el e3dadat w ma zabat",usability,negative,Arabizi,Arabizi,2,test
+"ya jama3a, ma la2eit saf7et el e3dadat lately",usability,negative,Arabizi,Arabizi,3,test
+wallah ma la2eit saf7et el e3dadat,usability,negative,Arabizi,Arabizi,4,test
+wallah ma la2eit saf7et el e3dadat please,usability,negative,Arabizi,Arabizi,5,test
+wallah ma la2eit saf7et el e3dadat w ma zabat,usability,negative,Arabizi,Arabizi,6,test
+wallah ma la2eit saf7et el e3dadat lately,usability,negative,Arabizi,Arabizi,7,test
+l2asaf ma la2eit saf7et el e3dadat,usability,negative,Arabizi,Arabizi,8,test
+l2asaf ma la2eit saf7et el e3dadat please,usability,negative,Arabizi,Arabizi,9,test
+l2asaf ma la2eit saf7et el e3dadat w ma zabat,usability,negative,Arabizi,Arabizi,10,test
+l2asaf ma la2eit saf7et el e3dadat lately,usability,negative,Arabizi,Arabizi,11,test
+men embare7 wma la2eit saf7et el e3dadat,usability,negative,Arabizi,Arabizi,12,test
+men embare7 wma la2eit saf7et el e3dadat please,usability,negative,Arabizi,Arabizi,13,test
+men embare7 wma la2eit saf7et el e3dadat w ma zabat,usability,negative,Arabizi,Arabizi,14,test
+men embare7 wma la2eit saf7et el e3dadat lately,usability,negative,Arabizi,Arabizi,15,test
+kol ma afta7 el app ma la2eit saf7et el e3dadat,usability,negative,Arabizi,Arabizi,16,test
+kol ma afta7 el app ma la2eit saf7et el e3dadat please,usability,negative,Arabizi,Arabizi,17,test
+kol ma afta7 el app ma la2eit saf7et el e3dadat w ma zabat,usability,negative,Arabizi,Arabizi,18,test
+kol ma afta7 el app ma la2eit saf7et el e3dadat lately,usability,negative,Arabizi,Arabizi,19,test
+يا جماعة، ياليت تضيفون الوضع الداكن,feature_request,neutral,Arabic,Saudi Arabic,0,train
+يا جماعة، ياليت تضيفون الوضع الداكن من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,1,train
+يا جماعة، ياليت تضيفون الوضع الداكن وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,2,train
+يا جماعة، ياليت تضيفون الوضع الداكن مرة,feature_request,neutral,Arabic,Saudi Arabic,3,train
+والله ياليت تضيفون الوضع الداكن,feature_request,neutral,Arabic,Saudi Arabic,4,train
+والله ياليت تضيفون الوضع الداكن من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,5,train
+والله ياليت تضيفون الوضع الداكن وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,6,train
+والله ياليت تضيفون الوضع الداكن مرة,feature_request,neutral,Arabic,Saudi Arabic,7,train
+للأسف ياليت تضيفون الوضع الداكن,feature_request,neutral,Arabic,Saudi Arabic,8,train
+للأسف ياليت تضيفون الوضع الداكن من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,9,train
+للأسف ياليت تضيفون الوضع الداكن وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,10,train
+للأسف ياليت تضيفون الوضع الداكن مرة,feature_request,neutral,Arabic,Saudi Arabic,11,train
+من امس وياليت تضيفون الوضع الداكن,feature_request,neutral,Arabic,Saudi Arabic,12,train
+من امس وياليت تضيفون الوضع الداكن من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,13,train
+من امس وياليت تضيفون الوضع الداكن وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,14,train
+من امس وياليت تضيفون الوضع الداكن مرة,feature_request,neutral,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق ياليت تضيفون الوضع الداكن,feature_request,neutral,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق ياليت تضيفون الوضع الداكن من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق ياليت تضيفون الوضع الداكن وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق ياليت تضيفون الوضع الداكن مرة,feature_request,neutral,Arabic,Saudi Arabic,19,train
+يا جماعة، اضيفوا خيار تسجيل بالبصمة,feature_request,neutral,Arabic,Saudi Arabic,0,test
+يا جماعة، اضيفوا خيار تسجيل بالبصمة من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,1,test
+يا جماعة، اضيفوا خيار تسجيل بالبصمة وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,2,test
+يا جماعة، اضيفوا خيار تسجيل بالبصمة مرة,feature_request,neutral,Arabic,Saudi Arabic,3,test
+والله اضيفوا خيار تسجيل بالبصمة,feature_request,neutral,Arabic,Saudi Arabic,4,test
+والله اضيفوا خيار تسجيل بالبصمة من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,5,test
+والله اضيفوا خيار تسجيل بالبصمة وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,6,test
+والله اضيفوا خيار تسجيل بالبصمة مرة,feature_request,neutral,Arabic,Saudi Arabic,7,test
+للأسف اضيفوا خيار تسجيل بالبصمة,feature_request,neutral,Arabic,Saudi Arabic,8,test
+للأسف اضيفوا خيار تسجيل بالبصمة من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,9,test
+للأسف اضيفوا خيار تسجيل بالبصمة وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,10,test
+للأسف اضيفوا خيار تسجيل بالبصمة مرة,feature_request,neutral,Arabic,Saudi Arabic,11,test
+من امس واضيفوا خيار تسجيل بالبصمة,feature_request,neutral,Arabic,Saudi Arabic,12,test
+من امس واضيفوا خيار تسجيل بالبصمة من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,13,test
+من امس واضيفوا خيار تسجيل بالبصمة وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,14,test
+من امس واضيفوا خيار تسجيل بالبصمة مرة,feature_request,neutral,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق اضيفوا خيار تسجيل بالبصمة,feature_request,neutral,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق اضيفوا خيار تسجيل بالبصمة من فضلكم,feature_request,neutral,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق اضيفوا خيار تسجيل بالبصمة وما ضبط معي,feature_request,neutral,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق اضيفوا خيار تسجيل بالبصمة مرة,feature_request,neutral,Arabic,Saudi Arabic,19,test
+يا جماعة، يا ريت تضيفوا الوضع الداكن,feature_request,neutral,Arabic,Egyptian Arabic,0,train
+يا جماعة، يا ريت تضيفوا الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,1,train
+يا جماعة، يا ريت تضيفوا الوضع الداكن ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,2,train
+يا جماعة، يا ريت تضيفوا الوضع الداكن خالص,feature_request,neutral,Arabic,Egyptian Arabic,3,train
+بصراحة يا ريت تضيفوا الوضع الداكن,feature_request,neutral,Arabic,Egyptian Arabic,4,train
+بصراحة يا ريت تضيفوا الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,5,train
+بصراحة يا ريت تضيفوا الوضع الداكن ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,6,train
+بصراحة يا ريت تضيفوا الوضع الداكن خالص,feature_request,neutral,Arabic,Egyptian Arabic,7,train
+للأسف يا ريت تضيفوا الوضع الداكن,feature_request,neutral,Arabic,Egyptian Arabic,8,train
+للأسف يا ريت تضيفوا الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,9,train
+للأسف يا ريت تضيفوا الوضع الداكن ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,10,train
+للأسف يا ريت تضيفوا الوضع الداكن خالص,feature_request,neutral,Arabic,Egyptian Arabic,11,train
+من امبارح ويا ريت تضيفوا الوضع الداكن,feature_request,neutral,Arabic,Egyptian Arabic,12,train
+من امبارح ويا ريت تضيفوا الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,13,train
+من امبارح ويا ريت تضيفوا الوضع الداكن ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,14,train
+من امبارح ويا ريت تضيفوا الوضع الداكن خالص,feature_request,neutral,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن يا ريت تضيفوا الوضع الداكن,feature_request,neutral,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن يا ريت تضيفوا الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن يا ريت تضيفوا الوضع الداكن ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن يا ريت تضيفوا الوضع الداكن خالص,feature_request,neutral,Arabic,Egyptian Arabic,19,train
+يا جماعة، ضيفوا تسجيل بالبصمة,feature_request,neutral,Arabic,Egyptian Arabic,0,test
+يا جماعة، ضيفوا تسجيل بالبصمة لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,1,test
+يا جماعة، ضيفوا تسجيل بالبصمة ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,2,test
+يا جماعة، ضيفوا تسجيل بالبصمة خالص,feature_request,neutral,Arabic,Egyptian Arabic,3,test
+بصراحة ضيفوا تسجيل بالبصمة,feature_request,neutral,Arabic,Egyptian Arabic,4,test
+بصراحة ضيفوا تسجيل بالبصمة لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,5,test
+بصراحة ضيفوا تسجيل بالبصمة ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,6,test
+بصراحة ضيفوا تسجيل بالبصمة خالص,feature_request,neutral,Arabic,Egyptian Arabic,7,test
+للأسف ضيفوا تسجيل بالبصمة,feature_request,neutral,Arabic,Egyptian Arabic,8,test
+للأسف ضيفوا تسجيل بالبصمة لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,9,test
+للأسف ضيفوا تسجيل بالبصمة ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,10,test
+للأسف ضيفوا تسجيل بالبصمة خالص,feature_request,neutral,Arabic,Egyptian Arabic,11,test
+من امبارح وضيفوا تسجيل بالبصمة,feature_request,neutral,Arabic,Egyptian Arabic,12,test
+من امبارح وضيفوا تسجيل بالبصمة لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,13,test
+من امبارح وضيفوا تسجيل بالبصمة ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,14,test
+من امبارح وضيفوا تسجيل بالبصمة خالص,feature_request,neutral,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن ضيفوا تسجيل بالبصمة,feature_request,neutral,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن ضيفوا تسجيل بالبصمة لو سمحتوا,feature_request,neutral,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن ضيفوا تسجيل بالبصمة ومش راضي يشتغل,feature_request,neutral,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن ضيفوا تسجيل بالبصمة خالص,feature_request,neutral,Arabic,Egyptian Arabic,19,test
+عفاكم، بغيت تزيدو الوضع الليلي,feature_request,neutral,Arabic,Moroccan Darija,0,train
+عفاكم، بغيت تزيدو الوضع الليلي عافاكم,feature_request,neutral,Arabic,Moroccan Darija,1,train
+عفاكم، بغيت تزيدو الوضع الليلي وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,2,train
+عفاكم، بغيت تزيدو الوضع الليلي بزاف,feature_request,neutral,Arabic,Moroccan Darija,3,train
+بصراحة بغيت تزيدو الوضع الليلي,feature_request,neutral,Arabic,Moroccan Darija,4,train
+بصراحة بغيت تزيدو الوضع الليلي عافاكم,feature_request,neutral,Arabic,Moroccan Darija,5,train
+بصراحة بغيت تزيدو الوضع الليلي وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,6,train
+بصراحة بغيت تزيدو الوضع الليلي بزاف,feature_request,neutral,Arabic,Moroccan Darija,7,train
+للأسف بغيت تزيدو الوضع الليلي,feature_request,neutral,Arabic,Moroccan Darija,8,train
+للأسف بغيت تزيدو الوضع الليلي عافاكم,feature_request,neutral,Arabic,Moroccan Darija,9,train
+للأسف بغيت تزيدو الوضع الليلي وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,10,train
+للأسف بغيت تزيدو الوضع الليلي بزاف,feature_request,neutral,Arabic,Moroccan Darija,11,train
+من البارح وبغيت تزيدو الوضع الليلي,feature_request,neutral,Arabic,Moroccan Darija,12,train
+من البارح وبغيت تزيدو الوضع الليلي عافاكم,feature_request,neutral,Arabic,Moroccan Darija,13,train
+من البارح وبغيت تزيدو الوضع الليلي وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,14,train
+من البارح وبغيت تزيدو الوضع الليلي بزاف,feature_request,neutral,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق بغيت تزيدو الوضع الليلي,feature_request,neutral,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق بغيت تزيدو الوضع الليلي عافاكم,feature_request,neutral,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق بغيت تزيدو الوضع الليلي وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق بغيت تزيدو الوضع الليلي بزاف,feature_request,neutral,Arabic,Moroccan Darija,19,train
+عفاكم، زيدو خاصية الدخول بالبصمة,feature_request,neutral,Arabic,Moroccan Darija,0,test
+عفاكم، زيدو خاصية الدخول بالبصمة عافاكم,feature_request,neutral,Arabic,Moroccan Darija,1,test
+عفاكم، زيدو خاصية الدخول بالبصمة وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,2,test
+عفاكم، زيدو خاصية الدخول بالبصمة بزاف,feature_request,neutral,Arabic,Moroccan Darija,3,test
+بصراحة زيدو خاصية الدخول بالبصمة,feature_request,neutral,Arabic,Moroccan Darija,4,test
+بصراحة زيدو خاصية الدخول بالبصمة عافاكم,feature_request,neutral,Arabic,Moroccan Darija,5,test
+بصراحة زيدو خاصية الدخول بالبصمة وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,6,test
+بصراحة زيدو خاصية الدخول بالبصمة بزاف,feature_request,neutral,Arabic,Moroccan Darija,7,test
+للأسف زيدو خاصية الدخول بالبصمة,feature_request,neutral,Arabic,Moroccan Darija,8,test
+للأسف زيدو خاصية الدخول بالبصمة عافاكم,feature_request,neutral,Arabic,Moroccan Darija,9,test
+للأسف زيدو خاصية الدخول بالبصمة وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,10,test
+للأسف زيدو خاصية الدخول بالبصمة بزاف,feature_request,neutral,Arabic,Moroccan Darija,11,test
+من البارح وزيدو خاصية الدخول بالبصمة,feature_request,neutral,Arabic,Moroccan Darija,12,test
+من البارح وزيدو خاصية الدخول بالبصمة عافاكم,feature_request,neutral,Arabic,Moroccan Darija,13,test
+من البارح وزيدو خاصية الدخول بالبصمة وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,14,test
+من البارح وزيدو خاصية الدخول بالبصمة بزاف,feature_request,neutral,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق زيدو خاصية الدخول بالبصمة,feature_request,neutral,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق زيدو خاصية الدخول بالبصمة عافاكم,feature_request,neutral,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق زيدو خاصية الدخول بالبصمة وما خدامش,feature_request,neutral,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق زيدو خاصية الدخول بالبصمة بزاف,feature_request,neutral,Arabic,Moroccan Darija,19,test
+يا جماعة، أبيكم تضيفون الوضع الداكن,feature_request,neutral,Arabic,Gulf Arabic,0,train
+يا جماعة، أبيكم تضيفون الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,1,train
+يا جماعة، أبيكم تضيفون الوضع الداكن وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,2,train
+يا جماعة، أبيكم تضيفون الوضع الداكن وايد,feature_request,neutral,Arabic,Gulf Arabic,3,train
+والله أبيكم تضيفون الوضع الداكن,feature_request,neutral,Arabic,Gulf Arabic,4,train
+والله أبيكم تضيفون الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,5,train
+والله أبيكم تضيفون الوضع الداكن وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,6,train
+والله أبيكم تضيفون الوضع الداكن وايد,feature_request,neutral,Arabic,Gulf Arabic,7,train
+للأسف أبيكم تضيفون الوضع الداكن,feature_request,neutral,Arabic,Gulf Arabic,8,train
+للأسف أبيكم تضيفون الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,9,train
+للأسف أبيكم تضيفون الوضع الداكن وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,10,train
+للأسف أبيكم تضيفون الوضع الداكن وايد,feature_request,neutral,Arabic,Gulf Arabic,11,train
+من امس وأبيكم تضيفون الوضع الداكن,feature_request,neutral,Arabic,Gulf Arabic,12,train
+من امس وأبيكم تضيفون الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,13,train
+من امس وأبيكم تضيفون الوضع الداكن وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,14,train
+من امس وأبيكم تضيفون الوضع الداكن وايد,feature_request,neutral,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق أبيكم تضيفون الوضع الداكن,feature_request,neutral,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق أبيكم تضيفون الوضع الداكن لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق أبيكم تضيفون الوضع الداكن وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق أبيكم تضيفون الوضع الداكن وايد,feature_request,neutral,Arabic,Gulf Arabic,19,train
+يا جماعة، ضيفوا خاصية البصمة,feature_request,neutral,Arabic,Gulf Arabic,0,test
+يا جماعة، ضيفوا خاصية البصمة لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,1,test
+يا جماعة، ضيفوا خاصية البصمة وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,2,test
+يا جماعة، ضيفوا خاصية البصمة وايد,feature_request,neutral,Arabic,Gulf Arabic,3,test
+والله ضيفوا خاصية البصمة,feature_request,neutral,Arabic,Gulf Arabic,4,test
+والله ضيفوا خاصية البصمة لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,5,test
+والله ضيفوا خاصية البصمة وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,6,test
+والله ضيفوا خاصية البصمة وايد,feature_request,neutral,Arabic,Gulf Arabic,7,test
+للأسف ضيفوا خاصية البصمة,feature_request,neutral,Arabic,Gulf Arabic,8,test
+للأسف ضيفوا خاصية البصمة لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,9,test
+للأسف ضيفوا خاصية البصمة وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,10,test
+للأسف ضيفوا خاصية البصمة وايد,feature_request,neutral,Arabic,Gulf Arabic,11,test
+من امس وضيفوا خاصية البصمة,feature_request,neutral,Arabic,Gulf Arabic,12,test
+من امس وضيفوا خاصية البصمة لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,13,test
+من امس وضيفوا خاصية البصمة وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,14,test
+من امس وضيفوا خاصية البصمة وايد,feature_request,neutral,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق ضيفوا خاصية البصمة,feature_request,neutral,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق ضيفوا خاصية البصمة لو سمحتوا,feature_request,neutral,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق ضيفوا خاصية البصمة وما يضبط,feature_request,neutral,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق ضيفوا خاصية البصمة وايد,feature_request,neutral,Arabic,Gulf Arabic,19,test
+شباب، اريد تضيفون الوضع الداكن,feature_request,neutral,Arabic,Iraqi Arabic,0,train
+شباب، اريد تضيفون الوضع الداكن اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,1,train
+شباب، اريد تضيفون الوضع الداكن وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,2,train
+شباب، اريد تضيفون الوضع الداكن كلش,feature_request,neutral,Arabic,Iraqi Arabic,3,train
+والله اريد تضيفون الوضع الداكن,feature_request,neutral,Arabic,Iraqi Arabic,4,train
+والله اريد تضيفون الوضع الداكن اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,5,train
+والله اريد تضيفون الوضع الداكن وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,6,train
+والله اريد تضيفون الوضع الداكن كلش,feature_request,neutral,Arabic,Iraqi Arabic,7,train
+للأسف اريد تضيفون الوضع الداكن,feature_request,neutral,Arabic,Iraqi Arabic,8,train
+للأسف اريد تضيفون الوضع الداكن اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,9,train
+للأسف اريد تضيفون الوضع الداكن وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,10,train
+للأسف اريد تضيفون الوضع الداكن كلش,feature_request,neutral,Arabic,Iraqi Arabic,11,train
+من البارحة واريد تضيفون الوضع الداكن,feature_request,neutral,Arabic,Iraqi Arabic,12,train
+من البارحة واريد تضيفون الوضع الداكن اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,13,train
+من البارحة واريد تضيفون الوضع الداكن وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,14,train
+من البارحة واريد تضيفون الوضع الداكن كلش,feature_request,neutral,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق اريد تضيفون الوضع الداكن,feature_request,neutral,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق اريد تضيفون الوضع الداكن اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق اريد تضيفون الوضع الداكن وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق اريد تضيفون الوضع الداكن كلش,feature_request,neutral,Arabic,Iraqi Arabic,19,train
+شباب، ضيفوا تسجيل دخول بالبصمة,feature_request,neutral,Arabic,Iraqi Arabic,0,test
+شباب، ضيفوا تسجيل دخول بالبصمة اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,1,test
+شباب، ضيفوا تسجيل دخول بالبصمة وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,2,test
+شباب، ضيفوا تسجيل دخول بالبصمة كلش,feature_request,neutral,Arabic,Iraqi Arabic,3,test
+والله ضيفوا تسجيل دخول بالبصمة,feature_request,neutral,Arabic,Iraqi Arabic,4,test
+والله ضيفوا تسجيل دخول بالبصمة اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,5,test
+والله ضيفوا تسجيل دخول بالبصمة وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,6,test
+والله ضيفوا تسجيل دخول بالبصمة كلش,feature_request,neutral,Arabic,Iraqi Arabic,7,test
+للأسف ضيفوا تسجيل دخول بالبصمة,feature_request,neutral,Arabic,Iraqi Arabic,8,test
+للأسف ضيفوا تسجيل دخول بالبصمة اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,9,test
+للأسف ضيفوا تسجيل دخول بالبصمة وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,10,test
+للأسف ضيفوا تسجيل دخول بالبصمة كلش,feature_request,neutral,Arabic,Iraqi Arabic,11,test
+من البارحة وضيفوا تسجيل دخول بالبصمة,feature_request,neutral,Arabic,Iraqi Arabic,12,test
+من البارحة وضيفوا تسجيل دخول بالبصمة اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,13,test
+من البارحة وضيفوا تسجيل دخول بالبصمة وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,14,test
+من البارحة وضيفوا تسجيل دخول بالبصمة كلش,feature_request,neutral,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق ضيفوا تسجيل دخول بالبصمة,feature_request,neutral,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق ضيفوا تسجيل دخول بالبصمة اذا ممكن,feature_request,neutral,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق ضيفوا تسجيل دخول بالبصمة وما يشتغل,feature_request,neutral,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق ضيفوا تسجيل دخول بالبصمة كلش,feature_request,neutral,Arabic,Iraqi Arabic,19,test
+"Honestly, please add dark mode",feature_request,neutral,English,Standard English,0,train
+"Honestly, please add dark mode please",feature_request,neutral,English,Standard English,1,train
+"Honestly, please add dark mode and it still does not work",feature_request,neutral,English,Standard English,2,train
+"Honestly, please add dark mode lately",feature_request,neutral,English,Standard English,3,train
+"Unfortunately, please add dark mode",feature_request,neutral,English,Standard English,4,train
+"Unfortunately, please add dark mode please",feature_request,neutral,English,Standard English,5,train
+"Unfortunately, please add dark mode and it still does not work",feature_request,neutral,English,Standard English,6,train
+"Unfortunately, please add dark mode lately",feature_request,neutral,English,Standard English,7,train
+"Since yesterday, please add dark mode",feature_request,neutral,English,Standard English,8,train
+"Since yesterday, please add dark mode please",feature_request,neutral,English,Standard English,9,train
+"Since yesterday, please add dark mode and it still does not work",feature_request,neutral,English,Standard English,10,train
+"Since yesterday, please add dark mode lately",feature_request,neutral,English,Standard English,11,train
+"Whenever I open the app, please add dark mode",feature_request,neutral,English,Standard English,12,train
+"Whenever I open the app, please add dark mode please",feature_request,neutral,English,Standard English,13,train
+"Whenever I open the app, please add dark mode and it still does not work",feature_request,neutral,English,Standard English,14,train
+"Whenever I open the app, please add dark mode lately",feature_request,neutral,English,Standard English,15,train
+Please note: please add dark mode,feature_request,neutral,English,Standard English,16,train
+Please note: please add dark mode please,feature_request,neutral,English,Standard English,17,train
+Please note: please add dark mode and it still does not work,feature_request,neutral,English,Standard English,18,train
+Please note: please add dark mode lately,feature_request,neutral,English,Standard English,19,train
+"Honestly, please add fingerprint sign in",feature_request,neutral,English,Standard English,0,test
+"Honestly, please add fingerprint sign in please",feature_request,neutral,English,Standard English,1,test
+"Honestly, please add fingerprint sign in and it still does not work",feature_request,neutral,English,Standard English,2,test
+"Honestly, please add fingerprint sign in lately",feature_request,neutral,English,Standard English,3,test
+"Unfortunately, please add fingerprint sign in",feature_request,neutral,English,Standard English,4,test
+"Unfortunately, please add fingerprint sign in please",feature_request,neutral,English,Standard English,5,test
+"Unfortunately, please add fingerprint sign in and it still does not work",feature_request,neutral,English,Standard English,6,test
+"Unfortunately, please add fingerprint sign in lately",feature_request,neutral,English,Standard English,7,test
+"Since yesterday, please add fingerprint sign in",feature_request,neutral,English,Standard English,8,test
+"Since yesterday, please add fingerprint sign in please",feature_request,neutral,English,Standard English,9,test
+"Since yesterday, please add fingerprint sign in and it still does not work",feature_request,neutral,English,Standard English,10,test
+"Since yesterday, please add fingerprint sign in lately",feature_request,neutral,English,Standard English,11,test
+"Whenever I open the app, please add fingerprint sign in",feature_request,neutral,English,Standard English,12,test
+"Whenever I open the app, please add fingerprint sign in please",feature_request,neutral,English,Standard English,13,test
+"Whenever I open the app, please add fingerprint sign in and it still does not work",feature_request,neutral,English,Standard English,14,test
+"Whenever I open the app, please add fingerprint sign in lately",feature_request,neutral,English,Standard English,15,test
+Please note: please add fingerprint sign in,feature_request,neutral,English,Standard English,16,test
+Please note: please add fingerprint sign in please,feature_request,neutral,English,Standard English,17,test
+Please note: please add fingerprint sign in and it still does not work,feature_request,neutral,English,Standard English,18,test
+Please note: please add fingerprint sign in lately,feature_request,neutral,English,Standard English,19,test
+"ya jama3a, ya reit tedefo dark mode",feature_request,neutral,Arabizi,Arabizi,0,train
+"ya jama3a, ya reit tedefo dark mode please",feature_request,neutral,Arabizi,Arabizi,1,train
+"ya jama3a, ya reit tedefo dark mode w ma zabat",feature_request,neutral,Arabizi,Arabizi,2,train
+"ya jama3a, ya reit tedefo dark mode lately",feature_request,neutral,Arabizi,Arabizi,3,train
+wallah ya reit tedefo dark mode,feature_request,neutral,Arabizi,Arabizi,4,train
+wallah ya reit tedefo dark mode please,feature_request,neutral,Arabizi,Arabizi,5,train
+wallah ya reit tedefo dark mode w ma zabat,feature_request,neutral,Arabizi,Arabizi,6,train
+wallah ya reit tedefo dark mode lately,feature_request,neutral,Arabizi,Arabizi,7,train
+l2asaf ya reit tedefo dark mode,feature_request,neutral,Arabizi,Arabizi,8,train
+l2asaf ya reit tedefo dark mode please,feature_request,neutral,Arabizi,Arabizi,9,train
+l2asaf ya reit tedefo dark mode w ma zabat,feature_request,neutral,Arabizi,Arabizi,10,train
+l2asaf ya reit tedefo dark mode lately,feature_request,neutral,Arabizi,Arabizi,11,train
+men embare7 wya reit tedefo dark mode,feature_request,neutral,Arabizi,Arabizi,12,train
+men embare7 wya reit tedefo dark mode please,feature_request,neutral,Arabizi,Arabizi,13,train
+men embare7 wya reit tedefo dark mode w ma zabat,feature_request,neutral,Arabizi,Arabizi,14,train
+men embare7 wya reit tedefo dark mode lately,feature_request,neutral,Arabizi,Arabizi,15,train
+kol ma afta7 el app ya reit tedefo dark mode,feature_request,neutral,Arabizi,Arabizi,16,train
+kol ma afta7 el app ya reit tedefo dark mode please,feature_request,neutral,Arabizi,Arabizi,17,train
+kol ma afta7 el app ya reit tedefo dark mode w ma zabat,feature_request,neutral,Arabizi,Arabizi,18,train
+kol ma afta7 el app ya reit tedefo dark mode lately,feature_request,neutral,Arabizi,Arabizi,19,train
+"ya jama3a, 3afo fingerprint login option",feature_request,neutral,Arabizi,Arabizi,0,test
+"ya jama3a, 3afo fingerprint login option please",feature_request,neutral,Arabizi,Arabizi,1,test
+"ya jama3a, 3afo fingerprint login option w ma zabat",feature_request,neutral,Arabizi,Arabizi,2,test
+"ya jama3a, 3afo fingerprint login option lately",feature_request,neutral,Arabizi,Arabizi,3,test
+wallah 3afo fingerprint login option,feature_request,neutral,Arabizi,Arabizi,4,test
+wallah 3afo fingerprint login option please,feature_request,neutral,Arabizi,Arabizi,5,test
+wallah 3afo fingerprint login option w ma zabat,feature_request,neutral,Arabizi,Arabizi,6,test
+wallah 3afo fingerprint login option lately,feature_request,neutral,Arabizi,Arabizi,7,test
+l2asaf 3afo fingerprint login option,feature_request,neutral,Arabizi,Arabizi,8,test
+l2asaf 3afo fingerprint login option please,feature_request,neutral,Arabizi,Arabizi,9,test
+l2asaf 3afo fingerprint login option w ma zabat,feature_request,neutral,Arabizi,Arabizi,10,test
+l2asaf 3afo fingerprint login option lately,feature_request,neutral,Arabizi,Arabizi,11,test
+men embare7 w3afo fingerprint login option,feature_request,neutral,Arabizi,Arabizi,12,test
+men embare7 w3afo fingerprint login option please,feature_request,neutral,Arabizi,Arabizi,13,test
+men embare7 w3afo fingerprint login option w ma zabat,feature_request,neutral,Arabizi,Arabizi,14,test
+men embare7 w3afo fingerprint login option lately,feature_request,neutral,Arabizi,Arabizi,15,test
+kol ma afta7 el app 3afo fingerprint login option,feature_request,neutral,Arabizi,Arabizi,16,test
+kol ma afta7 el app 3afo fingerprint login option please,feature_request,neutral,Arabizi,Arabizi,17,test
+kol ma afta7 el app 3afo fingerprint login option w ma zabat,feature_request,neutral,Arabizi,Arabizi,18,test
+kol ma afta7 el app 3afo fingerprint login option lately,feature_request,neutral,Arabizi,Arabizi,19,test
+يا جماعة، التطبيق ممتاز وسهل,positive_experience,positive,Arabic,Saudi Arabic,0,train
+يا جماعة، التطبيق ممتاز وسهل من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,1,train
+يا جماعة، التطبيق ممتاز وسهل وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,2,train
+يا جماعة، التطبيق ممتاز وسهل مرة,positive_experience,positive,Arabic,Saudi Arabic,3,train
+والله التطبيق ممتاز وسهل,positive_experience,positive,Arabic,Saudi Arabic,4,train
+والله التطبيق ممتاز وسهل من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,5,train
+والله التطبيق ممتاز وسهل وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,6,train
+والله التطبيق ممتاز وسهل مرة,positive_experience,positive,Arabic,Saudi Arabic,7,train
+للأسف التطبيق ممتاز وسهل,positive_experience,positive,Arabic,Saudi Arabic,8,train
+للأسف التطبيق ممتاز وسهل من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,9,train
+للأسف التطبيق ممتاز وسهل وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,10,train
+للأسف التطبيق ممتاز وسهل مرة,positive_experience,positive,Arabic,Saudi Arabic,11,train
+من امس والتطبيق ممتاز وسهل,positive_experience,positive,Arabic,Saudi Arabic,12,train
+من امس والتطبيق ممتاز وسهل من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,13,train
+من امس والتطبيق ممتاز وسهل وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,14,train
+من امس والتطبيق ممتاز وسهل مرة,positive_experience,positive,Arabic,Saudi Arabic,15,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل,positive_experience,positive,Arabic,Saudi Arabic,16,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,17,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,18,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل مرة,positive_experience,positive,Arabic,Saudi Arabic,19,train
+يا جماعة، تجربتي معه حلوة وسريعة,positive_experience,positive,Arabic,Saudi Arabic,0,test
+يا جماعة، تجربتي معه حلوة وسريعة من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,1,test
+يا جماعة، تجربتي معه حلوة وسريعة وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,2,test
+يا جماعة، تجربتي معه حلوة وسريعة مرة,positive_experience,positive,Arabic,Saudi Arabic,3,test
+والله تجربتي معه حلوة وسريعة,positive_experience,positive,Arabic,Saudi Arabic,4,test
+والله تجربتي معه حلوة وسريعة من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,5,test
+والله تجربتي معه حلوة وسريعة وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,6,test
+والله تجربتي معه حلوة وسريعة مرة,positive_experience,positive,Arabic,Saudi Arabic,7,test
+للأسف تجربتي معه حلوة وسريعة,positive_experience,positive,Arabic,Saudi Arabic,8,test
+للأسف تجربتي معه حلوة وسريعة من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,9,test
+للأسف تجربتي معه حلوة وسريعة وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,10,test
+للأسف تجربتي معه حلوة وسريعة مرة,positive_experience,positive,Arabic,Saudi Arabic,11,test
+من امس وتجربتي معه حلوة وسريعة,positive_experience,positive,Arabic,Saudi Arabic,12,test
+من امس وتجربتي معه حلوة وسريعة من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,13,test
+من امس وتجربتي معه حلوة وسريعة وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,14,test
+من امس وتجربتي معه حلوة وسريعة مرة,positive_experience,positive,Arabic,Saudi Arabic,15,test
+كل ما افتح التطبيق تجربتي معه حلوة وسريعة,positive_experience,positive,Arabic,Saudi Arabic,16,test
+كل ما افتح التطبيق تجربتي معه حلوة وسريعة من فضلكم,positive_experience,positive,Arabic,Saudi Arabic,17,test
+كل ما افتح التطبيق تجربتي معه حلوة وسريعة وما ضبط معي,positive_experience,positive,Arabic,Saudi Arabic,18,test
+كل ما افتح التطبيق تجربتي معه حلوة وسريعة مرة,positive_experience,positive,Arabic,Saudi Arabic,19,test
+يا جماعة، الابلكيشن جميل وسهل,positive_experience,positive,Arabic,Egyptian Arabic,0,train
+يا جماعة، الابلكيشن جميل وسهل لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,1,train
+يا جماعة، الابلكيشن جميل وسهل ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,2,train
+يا جماعة، الابلكيشن جميل وسهل خالص,positive_experience,positive,Arabic,Egyptian Arabic,3,train
+بصراحة الابلكيشن جميل وسهل,positive_experience,positive,Arabic,Egyptian Arabic,4,train
+بصراحة الابلكيشن جميل وسهل لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,5,train
+بصراحة الابلكيشن جميل وسهل ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,6,train
+بصراحة الابلكيشن جميل وسهل خالص,positive_experience,positive,Arabic,Egyptian Arabic,7,train
+للأسف الابلكيشن جميل وسهل,positive_experience,positive,Arabic,Egyptian Arabic,8,train
+للأسف الابلكيشن جميل وسهل لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,9,train
+للأسف الابلكيشن جميل وسهل ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,10,train
+للأسف الابلكيشن جميل وسهل خالص,positive_experience,positive,Arabic,Egyptian Arabic,11,train
+من امبارح والابلكيشن جميل وسهل,positive_experience,positive,Arabic,Egyptian Arabic,12,train
+من امبارح والابلكيشن جميل وسهل لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,13,train
+من امبارح والابلكيشن جميل وسهل ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,14,train
+من امبارح والابلكيشن جميل وسهل خالص,positive_experience,positive,Arabic,Egyptian Arabic,15,train
+كل ما افتح الابلكيشن الابلكيشن جميل وسهل,positive_experience,positive,Arabic,Egyptian Arabic,16,train
+كل ما افتح الابلكيشن الابلكيشن جميل وسهل لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,17,train
+كل ما افتح الابلكيشن الابلكيشن جميل وسهل ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,18,train
+كل ما افتح الابلكيشن الابلكيشن جميل وسهل خالص,positive_experience,positive,Arabic,Egyptian Arabic,19,train
+يا جماعة، تجربتي معاه حلوة وسريعة,positive_experience,positive,Arabic,Egyptian Arabic,0,test
+يا جماعة، تجربتي معاه حلوة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,1,test
+يا جماعة، تجربتي معاه حلوة وسريعة ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,2,test
+يا جماعة، تجربتي معاه حلوة وسريعة خالص,positive_experience,positive,Arabic,Egyptian Arabic,3,test
+بصراحة تجربتي معاه حلوة وسريعة,positive_experience,positive,Arabic,Egyptian Arabic,4,test
+بصراحة تجربتي معاه حلوة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,5,test
+بصراحة تجربتي معاه حلوة وسريعة ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,6,test
+بصراحة تجربتي معاه حلوة وسريعة خالص,positive_experience,positive,Arabic,Egyptian Arabic,7,test
+للأسف تجربتي معاه حلوة وسريعة,positive_experience,positive,Arabic,Egyptian Arabic,8,test
+للأسف تجربتي معاه حلوة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,9,test
+للأسف تجربتي معاه حلوة وسريعة ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,10,test
+للأسف تجربتي معاه حلوة وسريعة خالص,positive_experience,positive,Arabic,Egyptian Arabic,11,test
+من امبارح وتجربتي معاه حلوة وسريعة,positive_experience,positive,Arabic,Egyptian Arabic,12,test
+من امبارح وتجربتي معاه حلوة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,13,test
+من امبارح وتجربتي معاه حلوة وسريعة ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,14,test
+من امبارح وتجربتي معاه حلوة وسريعة خالص,positive_experience,positive,Arabic,Egyptian Arabic,15,test
+كل ما افتح الابلكيشن تجربتي معاه حلوة وسريعة,positive_experience,positive,Arabic,Egyptian Arabic,16,test
+كل ما افتح الابلكيشن تجربتي معاه حلوة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Egyptian Arabic,17,test
+كل ما افتح الابلكيشن تجربتي معاه حلوة وسريعة ومش راضي يشتغل,positive_experience,positive,Arabic,Egyptian Arabic,18,test
+كل ما افتح الابلكيشن تجربتي معاه حلوة وسريعة خالص,positive_experience,positive,Arabic,Egyptian Arabic,19,test
+عفاكم، التطبيق زوين وساهل,positive_experience,positive,Arabic,Moroccan Darija,0,train
+عفاكم، التطبيق زوين وساهل عافاكم,positive_experience,positive,Arabic,Moroccan Darija,1,train
+عفاكم، التطبيق زوين وساهل وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,2,train
+عفاكم، التطبيق زوين وساهل بزاف,positive_experience,positive,Arabic,Moroccan Darija,3,train
+بصراحة التطبيق زوين وساهل,positive_experience,positive,Arabic,Moroccan Darija,4,train
+بصراحة التطبيق زوين وساهل عافاكم,positive_experience,positive,Arabic,Moroccan Darija,5,train
+بصراحة التطبيق زوين وساهل وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,6,train
+بصراحة التطبيق زوين وساهل بزاف,positive_experience,positive,Arabic,Moroccan Darija,7,train
+للأسف التطبيق زوين وساهل,positive_experience,positive,Arabic,Moroccan Darija,8,train
+للأسف التطبيق زوين وساهل عافاكم,positive_experience,positive,Arabic,Moroccan Darija,9,train
+للأسف التطبيق زوين وساهل وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,10,train
+للأسف التطبيق زوين وساهل بزاف,positive_experience,positive,Arabic,Moroccan Darija,11,train
+من البارح والتطبيق زوين وساهل,positive_experience,positive,Arabic,Moroccan Darija,12,train
+من البارح والتطبيق زوين وساهل عافاكم,positive_experience,positive,Arabic,Moroccan Darija,13,train
+من البارح والتطبيق زوين وساهل وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,14,train
+من البارح والتطبيق زوين وساهل بزاف,positive_experience,positive,Arabic,Moroccan Darija,15,train
+كل مرة كنفتح التطبيق التطبيق زوين وساهل,positive_experience,positive,Arabic,Moroccan Darija,16,train
+كل مرة كنفتح التطبيق التطبيق زوين وساهل عافاكم,positive_experience,positive,Arabic,Moroccan Darija,17,train
+كل مرة كنفتح التطبيق التطبيق زوين وساهل وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,18,train
+كل مرة كنفتح التطبيق التطبيق زوين وساهل بزاف,positive_experience,positive,Arabic,Moroccan Darija,19,train
+عفاكم، التجربة ديالي زوينة وسريعة,positive_experience,positive,Arabic,Moroccan Darija,0,test
+عفاكم، التجربة ديالي زوينة وسريعة عافاكم,positive_experience,positive,Arabic,Moroccan Darija,1,test
+عفاكم، التجربة ديالي زوينة وسريعة وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,2,test
+عفاكم، التجربة ديالي زوينة وسريعة بزاف,positive_experience,positive,Arabic,Moroccan Darija,3,test
+بصراحة التجربة ديالي زوينة وسريعة,positive_experience,positive,Arabic,Moroccan Darija,4,test
+بصراحة التجربة ديالي زوينة وسريعة عافاكم,positive_experience,positive,Arabic,Moroccan Darija,5,test
+بصراحة التجربة ديالي زوينة وسريعة وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,6,test
+بصراحة التجربة ديالي زوينة وسريعة بزاف,positive_experience,positive,Arabic,Moroccan Darija,7,test
+للأسف التجربة ديالي زوينة وسريعة,positive_experience,positive,Arabic,Moroccan Darija,8,test
+للأسف التجربة ديالي زوينة وسريعة عافاكم,positive_experience,positive,Arabic,Moroccan Darija,9,test
+للأسف التجربة ديالي زوينة وسريعة وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,10,test
+للأسف التجربة ديالي زوينة وسريعة بزاف,positive_experience,positive,Arabic,Moroccan Darija,11,test
+من البارح والتجربة ديالي زوينة وسريعة,positive_experience,positive,Arabic,Moroccan Darija,12,test
+من البارح والتجربة ديالي زوينة وسريعة عافاكم,positive_experience,positive,Arabic,Moroccan Darija,13,test
+من البارح والتجربة ديالي زوينة وسريعة وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,14,test
+من البارح والتجربة ديالي زوينة وسريعة بزاف,positive_experience,positive,Arabic,Moroccan Darija,15,test
+كل مرة كنفتح التطبيق التجربة ديالي زوينة وسريعة,positive_experience,positive,Arabic,Moroccan Darija,16,test
+كل مرة كنفتح التطبيق التجربة ديالي زوينة وسريعة عافاكم,positive_experience,positive,Arabic,Moroccan Darija,17,test
+كل مرة كنفتح التطبيق التجربة ديالي زوينة وسريعة وما خدامش,positive_experience,positive,Arabic,Moroccan Darija,18,test
+كل مرة كنفتح التطبيق التجربة ديالي زوينة وسريعة بزاف,positive_experience,positive,Arabic,Moroccan Darija,19,test
+يا جماعة، التطبيق ممتاز وسهل الاستخدام,positive_experience,positive,Arabic,Gulf Arabic,0,train
+يا جماعة، التطبيق ممتاز وسهل الاستخدام لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,1,train
+يا جماعة، التطبيق ممتاز وسهل الاستخدام وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,2,train
+يا جماعة، التطبيق ممتاز وسهل الاستخدام وايد,positive_experience,positive,Arabic,Gulf Arabic,3,train
+والله التطبيق ممتاز وسهل الاستخدام,positive_experience,positive,Arabic,Gulf Arabic,4,train
+والله التطبيق ممتاز وسهل الاستخدام لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,5,train
+والله التطبيق ممتاز وسهل الاستخدام وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,6,train
+والله التطبيق ممتاز وسهل الاستخدام وايد,positive_experience,positive,Arabic,Gulf Arabic,7,train
+للأسف التطبيق ممتاز وسهل الاستخدام,positive_experience,positive,Arabic,Gulf Arabic,8,train
+للأسف التطبيق ممتاز وسهل الاستخدام لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,9,train
+للأسف التطبيق ممتاز وسهل الاستخدام وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,10,train
+للأسف التطبيق ممتاز وسهل الاستخدام وايد,positive_experience,positive,Arabic,Gulf Arabic,11,train
+من امس والتطبيق ممتاز وسهل الاستخدام,positive_experience,positive,Arabic,Gulf Arabic,12,train
+من امس والتطبيق ممتاز وسهل الاستخدام لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,13,train
+من امس والتطبيق ممتاز وسهل الاستخدام وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,14,train
+من امس والتطبيق ممتاز وسهل الاستخدام وايد,positive_experience,positive,Arabic,Gulf Arabic,15,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل الاستخدام,positive_experience,positive,Arabic,Gulf Arabic,16,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل الاستخدام لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,17,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل الاستخدام وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,18,train
+كل ما افتح التطبيق التطبيق ممتاز وسهل الاستخدام وايد,positive_experience,positive,Arabic,Gulf Arabic,19,train
+يا جماعة، تجربتي وياه ممتازة وسريعة,positive_experience,positive,Arabic,Gulf Arabic,0,test
+يا جماعة، تجربتي وياه ممتازة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,1,test
+يا جماعة، تجربتي وياه ممتازة وسريعة وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,2,test
+يا جماعة، تجربتي وياه ممتازة وسريعة وايد,positive_experience,positive,Arabic,Gulf Arabic,3,test
+والله تجربتي وياه ممتازة وسريعة,positive_experience,positive,Arabic,Gulf Arabic,4,test
+والله تجربتي وياه ممتازة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,5,test
+والله تجربتي وياه ممتازة وسريعة وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,6,test
+والله تجربتي وياه ممتازة وسريعة وايد,positive_experience,positive,Arabic,Gulf Arabic,7,test
+للأسف تجربتي وياه ممتازة وسريعة,positive_experience,positive,Arabic,Gulf Arabic,8,test
+للأسف تجربتي وياه ممتازة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,9,test
+للأسف تجربتي وياه ممتازة وسريعة وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,10,test
+للأسف تجربتي وياه ممتازة وسريعة وايد,positive_experience,positive,Arabic,Gulf Arabic,11,test
+من امس وتجربتي وياه ممتازة وسريعة,positive_experience,positive,Arabic,Gulf Arabic,12,test
+من امس وتجربتي وياه ممتازة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,13,test
+من امس وتجربتي وياه ممتازة وسريعة وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,14,test
+من امس وتجربتي وياه ممتازة وسريعة وايد,positive_experience,positive,Arabic,Gulf Arabic,15,test
+كل ما افتح التطبيق تجربتي وياه ممتازة وسريعة,positive_experience,positive,Arabic,Gulf Arabic,16,test
+كل ما افتح التطبيق تجربتي وياه ممتازة وسريعة لو سمحتوا,positive_experience,positive,Arabic,Gulf Arabic,17,test
+كل ما افتح التطبيق تجربتي وياه ممتازة وسريعة وما يضبط,positive_experience,positive,Arabic,Gulf Arabic,18,test
+كل ما افتح التطبيق تجربتي وياه ممتازة وسريعة وايد,positive_experience,positive,Arabic,Gulf Arabic,19,test
+شباب، التطبيق حلو وسهل,positive_experience,positive,Arabic,Iraqi Arabic,0,train
+شباب، التطبيق حلو وسهل اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,1,train
+شباب، التطبيق حلو وسهل وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,2,train
+شباب، التطبيق حلو وسهل كلش,positive_experience,positive,Arabic,Iraqi Arabic,3,train
+والله التطبيق حلو وسهل,positive_experience,positive,Arabic,Iraqi Arabic,4,train
+والله التطبيق حلو وسهل اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,5,train
+والله التطبيق حلو وسهل وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,6,train
+والله التطبيق حلو وسهل كلش,positive_experience,positive,Arabic,Iraqi Arabic,7,train
+للأسف التطبيق حلو وسهل,positive_experience,positive,Arabic,Iraqi Arabic,8,train
+للأسف التطبيق حلو وسهل اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,9,train
+للأسف التطبيق حلو وسهل وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,10,train
+للأسف التطبيق حلو وسهل كلش,positive_experience,positive,Arabic,Iraqi Arabic,11,train
+من البارحة والتطبيق حلو وسهل,positive_experience,positive,Arabic,Iraqi Arabic,12,train
+من البارحة والتطبيق حلو وسهل اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,13,train
+من البارحة والتطبيق حلو وسهل وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,14,train
+من البارحة والتطبيق حلو وسهل كلش,positive_experience,positive,Arabic,Iraqi Arabic,15,train
+كل ما افتح التطبيق التطبيق حلو وسهل,positive_experience,positive,Arabic,Iraqi Arabic,16,train
+كل ما افتح التطبيق التطبيق حلو وسهل اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,17,train
+كل ما افتح التطبيق التطبيق حلو وسهل وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,18,train
+كل ما افتح التطبيق التطبيق حلو وسهل كلش,positive_experience,positive,Arabic,Iraqi Arabic,19,train
+شباب، تجربتي وياه كلش حلوة,positive_experience,positive,Arabic,Iraqi Arabic,0,test
+شباب، تجربتي وياه كلش حلوة اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,1,test
+شباب، تجربتي وياه كلش حلوة وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,2,test
+شباب، تجربتي وياه كلش حلوة كلش,positive_experience,positive,Arabic,Iraqi Arabic,3,test
+والله تجربتي وياه كلش حلوة,positive_experience,positive,Arabic,Iraqi Arabic,4,test
+والله تجربتي وياه كلش حلوة اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,5,test
+والله تجربتي وياه كلش حلوة وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,6,test
+والله تجربتي وياه كلش حلوة كلش,positive_experience,positive,Arabic,Iraqi Arabic,7,test
+للأسف تجربتي وياه كلش حلوة,positive_experience,positive,Arabic,Iraqi Arabic,8,test
+للأسف تجربتي وياه كلش حلوة اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,9,test
+للأسف تجربتي وياه كلش حلوة وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,10,test
+للأسف تجربتي وياه كلش حلوة كلش,positive_experience,positive,Arabic,Iraqi Arabic,11,test
+من البارحة وتجربتي وياه كلش حلوة,positive_experience,positive,Arabic,Iraqi Arabic,12,test
+من البارحة وتجربتي وياه كلش حلوة اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,13,test
+من البارحة وتجربتي وياه كلش حلوة وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,14,test
+من البارحة وتجربتي وياه كلش حلوة كلش,positive_experience,positive,Arabic,Iraqi Arabic,15,test
+كل ما افتح التطبيق تجربتي وياه كلش حلوة,positive_experience,positive,Arabic,Iraqi Arabic,16,test
+كل ما افتح التطبيق تجربتي وياه كلش حلوة اذا ممكن,positive_experience,positive,Arabic,Iraqi Arabic,17,test
+كل ما افتح التطبيق تجربتي وياه كلش حلوة وما يشتغل,positive_experience,positive,Arabic,Iraqi Arabic,18,test
+كل ما افتح التطبيق تجربتي وياه كلش حلوة كلش,positive_experience,positive,Arabic,Iraqi Arabic,19,test
+"Honestly, the app is excellent and easy",positive_experience,positive,English,Standard English,0,train
+"Honestly, the app is excellent and easy please",positive_experience,positive,English,Standard English,1,train
+"Honestly, the app is excellent and easy and it still does not work",positive_experience,positive,English,Standard English,2,train
+"Honestly, the app is excellent and easy lately",positive_experience,positive,English,Standard English,3,train
+"Unfortunately, the app is excellent and easy",positive_experience,positive,English,Standard English,4,train
+"Unfortunately, the app is excellent and easy please",positive_experience,positive,English,Standard English,5,train
+"Unfortunately, the app is excellent and easy and it still does not work",positive_experience,positive,English,Standard English,6,train
+"Unfortunately, the app is excellent and easy lately",positive_experience,positive,English,Standard English,7,train
+"Since yesterday, the app is excellent and easy",positive_experience,positive,English,Standard English,8,train
+"Since yesterday, the app is excellent and easy please",positive_experience,positive,English,Standard English,9,train
+"Since yesterday, the app is excellent and easy and it still does not work",positive_experience,positive,English,Standard English,10,train
+"Since yesterday, the app is excellent and easy lately",positive_experience,positive,English,Standard English,11,train
+"Whenever I open the app, the app is excellent and easy",positive_experience,positive,English,Standard English,12,train
+"Whenever I open the app, the app is excellent and easy please",positive_experience,positive,English,Standard English,13,train
+"Whenever I open the app, the app is excellent and easy and it still does not work",positive_experience,positive,English,Standard English,14,train
+"Whenever I open the app, the app is excellent and easy lately",positive_experience,positive,English,Standard English,15,train
+Please note: the app is excellent and easy,positive_experience,positive,English,Standard English,16,train
+Please note: the app is excellent and easy please,positive_experience,positive,English,Standard English,17,train
+Please note: the app is excellent and easy and it still does not work,positive_experience,positive,English,Standard English,18,train
+Please note: the app is excellent and easy lately,positive_experience,positive,English,Standard English,19,train
+"Honestly, my experience has been smooth and positive",positive_experience,positive,English,Standard English,0,test
+"Honestly, my experience has been smooth and positive please",positive_experience,positive,English,Standard English,1,test
+"Honestly, my experience has been smooth and positive and it still does not work",positive_experience,positive,English,Standard English,2,test
+"Honestly, my experience has been smooth and positive lately",positive_experience,positive,English,Standard English,3,test
+"Unfortunately, my experience has been smooth and positive",positive_experience,positive,English,Standard English,4,test
+"Unfortunately, my experience has been smooth and positive please",positive_experience,positive,English,Standard English,5,test
+"Unfortunately, my experience has been smooth and positive and it still does not work",positive_experience,positive,English,Standard English,6,test
+"Unfortunately, my experience has been smooth and positive lately",positive_experience,positive,English,Standard English,7,test
+"Since yesterday, my experience has been smooth and positive",positive_experience,positive,English,Standard English,8,test
+"Since yesterday, my experience has been smooth and positive please",positive_experience,positive,English,Standard English,9,test
+"Since yesterday, my experience has been smooth and positive and it still does not work",positive_experience,positive,English,Standard English,10,test
+"Since yesterday, my experience has been smooth and positive lately",positive_experience,positive,English,Standard English,11,test
+"Whenever I open the app, my experience has been smooth and positive",positive_experience,positive,English,Standard English,12,test
+"Whenever I open the app, my experience has been smooth and positive please",positive_experience,positive,English,Standard English,13,test
+"Whenever I open the app, my experience has been smooth and positive and it still does not work",positive_experience,positive,English,Standard English,14,test
+"Whenever I open the app, my experience has been smooth and positive lately",positive_experience,positive,English,Standard English,15,test
+Please note: my experience has been smooth and positive,positive_experience,positive,English,Standard English,16,test
+Please note: my experience has been smooth and positive please,positive_experience,positive,English,Standard English,17,test
+Please note: my experience has been smooth and positive and it still does not work,positive_experience,positive,English,Standard English,18,test
+Please note: my experience has been smooth and positive lately,positive_experience,positive,English,Standard English,19,test
+"ya jama3a, el app momtaz w sahl",positive_experience,positive,Arabizi,Arabizi,0,train
+"ya jama3a, el app momtaz w sahl please",positive_experience,positive,Arabizi,Arabizi,1,train
+"ya jama3a, el app momtaz w sahl w ma zabat",positive_experience,positive,Arabizi,Arabizi,2,train
+"ya jama3a, el app momtaz w sahl lately",positive_experience,positive,Arabizi,Arabizi,3,train
+wallah el app momtaz w sahl,positive_experience,positive,Arabizi,Arabizi,4,train
+wallah el app momtaz w sahl please,positive_experience,positive,Arabizi,Arabizi,5,train
+wallah el app momtaz w sahl w ma zabat,positive_experience,positive,Arabizi,Arabizi,6,train
+wallah el app momtaz w sahl lately,positive_experience,positive,Arabizi,Arabizi,7,train
+l2asaf el app momtaz w sahl,positive_experience,positive,Arabizi,Arabizi,8,train
+l2asaf el app momtaz w sahl please,positive_experience,positive,Arabizi,Arabizi,9,train
+l2asaf el app momtaz w sahl w ma zabat,positive_experience,positive,Arabizi,Arabizi,10,train
+l2asaf el app momtaz w sahl lately,positive_experience,positive,Arabizi,Arabizi,11,train
+men embare7 wel app momtaz w sahl,positive_experience,positive,Arabizi,Arabizi,12,train
+men embare7 wel app momtaz w sahl please,positive_experience,positive,Arabizi,Arabizi,13,train
+men embare7 wel app momtaz w sahl w ma zabat,positive_experience,positive,Arabizi,Arabizi,14,train
+men embare7 wel app momtaz w sahl lately,positive_experience,positive,Arabizi,Arabizi,15,train
+kol ma afta7 el app el app momtaz w sahl,positive_experience,positive,Arabizi,Arabizi,16,train
+kol ma afta7 el app el app momtaz w sahl please,positive_experience,positive,Arabizi,Arabizi,17,train
+kol ma afta7 el app el app momtaz w sahl w ma zabat,positive_experience,positive,Arabizi,Arabizi,18,train
+kol ma afta7 el app el app momtaz w sahl lately,positive_experience,positive,Arabizi,Arabizi,19,train
+"ya jama3a, tajribti ma3ah 7elwa w saree3a",positive_experience,positive,Arabizi,Arabizi,0,test
+"ya jama3a, tajribti ma3ah 7elwa w saree3a please",positive_experience,positive,Arabizi,Arabizi,1,test
+"ya jama3a, tajribti ma3ah 7elwa w saree3a w ma zabat",positive_experience,positive,Arabizi,Arabizi,2,test
+"ya jama3a, tajribti ma3ah 7elwa w saree3a lately",positive_experience,positive,Arabizi,Arabizi,3,test
+wallah tajribti ma3ah 7elwa w saree3a,positive_experience,positive,Arabizi,Arabizi,4,test
+wallah tajribti ma3ah 7elwa w saree3a please,positive_experience,positive,Arabizi,Arabizi,5,test
+wallah tajribti ma3ah 7elwa w saree3a w ma zabat,positive_experience,positive,Arabizi,Arabizi,6,test
+wallah tajribti ma3ah 7elwa w saree3a lately,positive_experience,positive,Arabizi,Arabizi,7,test
+l2asaf tajribti ma3ah 7elwa w saree3a,positive_experience,positive,Arabizi,Arabizi,8,test
+l2asaf tajribti ma3ah 7elwa w saree3a please,positive_experience,positive,Arabizi,Arabizi,9,test
+l2asaf tajribti ma3ah 7elwa w saree3a w ma zabat,positive_experience,positive,Arabizi,Arabizi,10,test
+l2asaf tajribti ma3ah 7elwa w saree3a lately,positive_experience,positive,Arabizi,Arabizi,11,test
+men embare7 wtajribti ma3ah 7elwa w saree3a,positive_experience,positive,Arabizi,Arabizi,12,test
+men embare7 wtajribti ma3ah 7elwa w saree3a please,positive_experience,positive,Arabizi,Arabizi,13,test
+men embare7 wtajribti ma3ah 7elwa w saree3a w ma zabat,positive_experience,positive,Arabizi,Arabizi,14,test
+men embare7 wtajribti ma3ah 7elwa w saree3a lately,positive_experience,positive,Arabizi,Arabizi,15,test
+kol ma afta7 el app tajribti ma3ah 7elwa w saree3a,positive_experience,positive,Arabizi,Arabizi,16,test
+kol ma afta7 el app tajribti ma3ah 7elwa w saree3a please,positive_experience,positive,Arabizi,Arabizi,17,test
+kol ma afta7 el app tajribti ma3ah 7elwa w saree3a w ma zabat,positive_experience,positive,Arabizi,Arabizi,18,test
+kol ma afta7 el app tajribti ma3ah 7elwa w saree3a lately,positive_experience,positive,Arabizi,Arabizi,19,test
